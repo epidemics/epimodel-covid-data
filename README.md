@@ -1,4 +1,4 @@
-# epimodel-covid-data
+# Epimodel data repository for COVID-19
 
 This is the repository for sharing data in the Epidemics COVID-19 project.
 

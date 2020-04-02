@@ -1,4 +1,4 @@
-Code,B_Level,Name,B_OfficialName,B_OtherNames,B_ContinentCode,B_SubregionCode,B_CountryCode,B_CountryCodeISOa3,B_M49Code,B_Lat,B_Lon,B_Population
+Code,Level,Name,OfficialName,OtherNames,ContinentCode,SubregionCode,CountryCode,CountryCodeISOa3,M49Code,Lat,Lon,Population
 AW,country,Aruba,Aruba,,,,AW,ABW,533,,,
 AF,country,Afghanistan,Islamic Republic of Afghanistan,,,,AF,AFG,004,,,
 AO,country,Angola,Republic of Angola,,,,AO,AGO,024,,,

@@ -4,9 +4,20 @@ This is the repository for sharing data in the Epidemics COVID-19 project.
 
 While the data can be useful as is, the library and toolkit to use it is [epimodel](https://github.com/epidemics/epimodel), this repo is updated asynchronously to it.
 
-All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code for countries, ISO 3166-2 for country subdivisions, see the main repo for details).
+All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code for countries, ISO 3166-2 for country subdivisions, see the main repo readme for details).
 
-## Data sources
+## Common data
+
+* `regions.csv` - Common region set used by epimodel.
+* `CSSE.csv` - John hopkins data, recoded from CSSE github
+
+### EpidemicForecasting.org countermeasure DB
+
+* `CMS-simplified.csv` - Countermesure database with selected features
+* `CMS_binary.csv` - Binary counter-measure features
+
+
+## Notes: Other data sources
 
 ### Used
 

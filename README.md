@@ -13,9 +13,9 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 
 ### EpidemicForecasting.org countermeasure DB
 
-* `CMS-simplified.csv` - Countermesure database with selected features
-* `CMS_binary.csv` - Binary counter-measure features
-
+* `CMS-binary.csv` - Selected binary counter-measure features
+* `CMS-0to1.csv` - Selected binary or gradual 0-1 features
+* `CMS-simplified.csv` - More selected features (wrong/column format now!)
 
 ## Notes: Other data sources
 

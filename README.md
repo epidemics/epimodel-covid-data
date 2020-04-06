@@ -20,6 +20,11 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 ## Notes: Other data sources
 
 * `timezones.csv` - Countries (by ISO alpha-2 code) and their timezones
+* `rates.csv` - Countries (by ISO alpha-2 code) and the following based on demographic data from the UN and doi:10.1101/2020.03.09.20033357 
+    `Hospitalization` fraction of COVID-19 infected needing hospitalization
+    `Critical` fraction of COVID-19 infected needing intensive care
+    `CaseFatalityRate` fraction of COVID-19 infected that would die (IFR or infection fatality rate in the paper)
+ 
 
 ### Used
 

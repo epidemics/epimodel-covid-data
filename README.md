@@ -19,6 +19,8 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 
 ## Notes: Other data sources
 
+* `timezones.csv` - Countries (by ISO alpha-2 code) and their timezones
+
 ### Used
 
 * Jogn Hopkins CSSE github

@@ -24,7 +24,7 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
     `Hospitalization` fraction of COVID-19 infected needing hospitalization
     `Critical` fraction of COVID-19 infected needing intensive care
     `CaseFatalityRate` fraction of COVID-19 infected that would die (IFR or infection fatality rate in the paper)
- 
+* `verity_et_al_rates.csv` - Various rates from doi:10.1101/2020.03.09.20033357
 
 ### Used
 

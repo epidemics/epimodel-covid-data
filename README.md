@@ -6,18 +6,16 @@ While the data can be useful as is, the library and toolkit to use it is [epimod
 
 All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code for countries, ISO 3166-2 for country subdivisions, see the main repo readme for details).
 
+**NOTE 2020-04-6:** There has been renaming of the files to be more understandable, apologies for any inconvenience.
+
 ## Common data
 
-* `regions.csv` - Common region set used by epimodel.
-* `CSSE.csv` - John hopkins data, recoded from CSSE github
+### Updated
 
-### EpidemicForecasting.org countermeasure DB
+* `regions.csv` - Common region set used by epimodel
+* `johns-hopkins.csv` - John hopkins data, recoded from CSSE github
 
-* `CMS-binary.csv` - Selected binary counter-measure features
-* `CMS-0to1.csv` - Selected binary or gradual 0-1 features
-* `CMS-simplified.csv` - More selected features (wrong/column format now!)
-
-## Notes: Other data sources
+### Static (or seldom updated)
 
 * `timezones.csv` - Countries (by ISO alpha-2 code) and their timezones
 * `rates.csv` - Countries (by ISO alpha-2 code) and the following based on demographic data from the UN and doi:10.1101/2020.03.09.20033357 
@@ -27,10 +25,19 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 * `verity_et_al_rates.csv` - Various rates from doi:10.1101/2020.03.09.20033357
 * `age_dist_un.csv` - UN Age distribution for various regions, estimated absolute numbers from https://population.un.org/wpp/
 
-### Used
 
-* Jogn Hopkins CSSE github
-* Package `pycountries`
+## EpidemicForecasting.org countermeasure DB
+
+### Direct conversion from notion.se CSVs
+
+* `countermeasures-features.csv` - 24 selected features
+* `countermeasures-model-0to1.csv` - 7 gradual featureg (pre-processed, early selection for modeling)
+
+### Not updated
+
+* `countermeasures-selected-binary.csv` - 16 selected binary features (not updated)
+
+## Notes: Other data sources
 
 ### For reference
 

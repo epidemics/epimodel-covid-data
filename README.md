@@ -31,7 +31,7 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 ### Direct conversion from notion.se CSVs
 
 * `countermeasures-features.csv` - 24 selected features
-* `countermeasures-model-0to1.csv` - 7 gradual featureg (pre-processed, early selection for modeling)
+* `countermeasures-model-0to1.csv` - 9 gradual featureg (pre-processed, early selection for modeling)
 
 ### Not updated
 

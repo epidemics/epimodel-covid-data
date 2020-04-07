@@ -3259,7 +3259,7 @@ ZKP,city,Zyryanka,,,,RUS,,65.749,150.889,4000,1872
 ,continent,Oceania,,,,,,,,41570000,4
 ,continent,South America,,,,,,,,423581000,5
 AF,country,Afghanistan,Islamic Republic of Afghanistan,,AF,AFG,4,,,34656000,1
-AX,country,Aland Islands,’Äland Islands,,AX,ALA,248,,,28000,4
+AX,country,Aland Islands,Â’Ã„land Islands,,AX,ALA,248,,,28000,4
 AL,country,Albania,Republic of Albania,,AL,ALB,8,,,2876000,5
 DZ,country,Algeria,People's Democratic Republic of Algeria,,DZ,DZA,12,,,40606000,61
 AS,country,American Samoa,American Samoa,,AS,ASM,16,,,56000,9
@@ -3302,7 +3302,7 @@ TD,country,Chad,Republic of Chad,,TD,TCD,148,,,14453000,202
 CL,country,Chile,Republic of Chile,,CL,CHL,152,,,17910000,38
 CN,country,China,People's Republic of China,,CN,CHN,156,,,1427647000,39
 CX,country,Christmas Island,Christmas Island,,CX,CXR,162,,,,51
-CI,country,CíÇte d'Ivoire,Republic of C’‚te d'Ivoire,,CI,CIV,384,,,23696000,40
+CI,country,CÃ­Ã‡te d'Ivoire,Republic of CÂ’Â‚te d'Ivoire,,CI,CIV,384,,,23696000,40
 CC,country,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,CC,CCK,166,,,,36
 CO,country,Colombia,Republic of Colombia,,CO,COL,170,,,48653000,45
 KM,country,Comoros,Union of the Comoros,,KM,COM,174,,,796000,46
@@ -3310,7 +3310,7 @@ CK,country,Cook Islands,Cook Islands,,CK,COK,184,,,,44
 CR,country,Costa Rica,Republic of Costa Rica,,CR,CRI,188,,,4857000,48
 HR,country,Croatia,Republic of Croatia,,HR,HRV,191,,,4171000,93
 CU,country,Cuba,Republic of Cuba,,CU,CUB,192,,,11476000,49
-CW,country,Curaí_ao,Cura’_ao,,CW,CUW,531,,,160000,50
+CW,country,CuraÃ­_ao,CuraÂ’_ao,,CW,CUW,531,,,160000,50
 CY,country,Cyprus,Republic of Cyprus,,CY,CYP,196,,,1170000,54
 ,country,"Cyprus, Northern",,,,,,,,326000,53
 CZ,country,Czechia,Czech Republic,Czech Republic,CZ,CZE,203,,,10562000,55
@@ -3427,7 +3427,7 @@ PT,country,Portugal,Portuguese Republic,,PT,PRT,620,,,10325000,172
 PR,country,Puerto Rico,Puerto Rico,,PR,PRI,630,,,3411000,170
 QA,country,Qatar,State of Qatar,,QA,QAT,634,,,1600000,175
 CG,country,Republic of the Congo,Republic of the Congo,"Congo, Rep., congo (brazzaville)",CG,COG,178,,,5126000,43
-RE,country,Reunion,R’©union,,RE,REU,638,,,859959,176
+RE,country,Reunion,RÂ’Â©union,,RE,REU,638,,,859959,176
 RO,country,Romania,Romania,,RO,ROU,642,,,19705000,177
 RU,country,Russia,Russian Federation,Russian Federation,RU,RUS,643,,,146745000,178
 RW,country,Rwanda,Rwandese Republic,,RW,RWA,646,,,11918000,179
@@ -3436,7 +3436,7 @@ SA,country,Saudi Arabia,Kingdom of Saudi Arabia,,SA,SAU,682,,,27100000,180
 SN,country,Senegal,Republic of Senegal,,SN,SEN,686,,,15412000,182
 RS,country,Serbia,Republic of Serbia,,RS,SRB,688,,,7057000,190
 SC,country,Seychelles,Republic of Seychelles,,SC,SYC,690,,,95000,199
-,country,Sí£o Tomí© and Principe,,,,STP,,,,200000,192
+,country,SÃ­Â£o TomÃ­Â© and Principe,,,,STP,,,,200000,192
 SL,country,Sierra Leone,Republic of Sierra Leone,,SL,SLE,694,,,7396000,186
 SG,country,Singapore,Republic of Singapore,,SG,SGP,702,,,5607000,183
 SK,country,Slovak Republic,Slovak Republic,slovakia,SK,SVK,703,,,5429000,194
@@ -3448,7 +3448,7 @@ KR,country,South Korea,"Korea, Republic of","Korea, Rep., korea, south",KR,KOR,4
 SS,country,South Sudan,Republic of South Sudan,,SS,SSD,728,,,12580000,191
 ES,country,Spain,Kingdom of Spain,,ES,ESP,724,,,46444000,65
 LK,country,Sri Lanka,Democratic Socialist Republic of Sri Lanka,,LK,LKA,144,,,21203000,123
-BL,country,St-Barthí©lemy,Saint Barth’©lemy,saint barthelemy,BL,BLM,652,,,,24
+BL,country,St-BarthÃ­Â©lemy,Saint BarthÂ’Â©lemy,saint barthelemy,BL,BLM,652,,,,24
 KN,country,St. Kitts and Nevis,Saint Kitts and Nevis,,KN,,659,,,55000,114
 LC,country,St. Lucia,Saint Lucia,,LC,,662,,,178000,122
 MF,country,St. Maarten,Saint Martin (French part),,MF,,663,,,,198
@@ -3470,7 +3470,7 @@ TG,country,Togo,Togolese Republic,,TG,TGO,768,,,7606000,203
 TO,country,Tonga,Kingdom of Tonga,,TO,TON,776,,,107000,208
 TT,country,Trinidad and Tobago,Republic of Trinidad and Tobago,,TT,TTO,780,,,1365000,209
 TN,country,Tunisia,Republic of Tunisia,,TN,TUN,788,,,11403000,210
-TR,country,Turkey,Republic of Turkey,,TR,TUR,792,,,73700000,211
+TR,country,Turkey,Republic of Turkey,,TR,TUR,792,,,84125990,211
 TM,country,Turkmenistan,Turkmenistan,,TM,TKM,795,,,5663000,206
 TC,country,Turks and Caicos Islands,Turks and Caicos Islands,,TC,TCA,796,,,35000,201
 TV,country,Tuvalu,Tuvalu,,TV,TUV,798,,,11000,212

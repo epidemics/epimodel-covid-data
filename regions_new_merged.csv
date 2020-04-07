@@ -294,6 +294,7 @@ BEU,city,Bedourie,,,,AUS,,-24.346,139.46,0,1570
 EIS,city,Beef Island,,,,,,18.445,-64.543,,901
 LAQ,city,Beida,,,,LBY,,32.789,21.964,,163
 BHY,city,Beihai,,,,CHN,,21.539,109.294,729000,451
+PEK,city,beijing city,,,,CHN,,40.08,116.585,11106000,420
 BEW,city,Beira,,,,MOZ,,-19.796,34.908,531000,961
 BEY,city,Beirut,,,,LBN,,33.821,35.488,1846000,271
 BYJ,city,Beja,,,,PRT,,38.079,-7.932,60000,1428
@@ -584,6 +585,7 @@ CFK,city,Chlef,,,,DZA,,36.213,1.332,449000,14
 COQ,city,Choibalsan,,,,MNG,,48.136,114.646,,847
 CHY,city,Choiseul Bay,,,,SLB,,-6.712,156.396,,3020
 CKH,city,Chokurdakh,,,,RUS,,70.623,147.902,3000,1810
+CKG,city,chongqing city,,,,CHN,,29.719,106.642,6461000,325
 CHC,city,Christchurch,,,,NZL,,-43.489,172.532,363000,3041
 XCH,city,Christmas Island,,,,CXR,,,,,570
 CJM,city,Chumphon,,,,THA,,10.711,99.362,86000,526
@@ -593,11 +595,11 @@ TKK,city,Chuuk,,,,FSM,,7.462,151.843,,1209
 ICI,city,Cicia Island,,,,FJI,,-17.743,-179.342,,1187
 CFG,city,Cienfuegos,,,,CUB,,22.15,-80.414,187000,3238
 CVG,city,Cincinnati,,,,USA,,39.049,-84.668,1648000,2320
+CME,city,Ciudad del Carmen,,,,MEX,,18.654,-91.799,156000,992
+AGT,city,Ciudad del Este,,,,PRY,,-25.455,-54.843,321000,243
 CJS,city,Ciudad Juarez,,,,MEX,,31.636,-106.429,1512000,990
 CEN,city,Ciudad Obregon,,,,MEX,,27.393,-109.833,288000,1028
 CVM,city,Ciudad Victoria,,,,MEX,,23.703,-98.956,275000,986
-CME,city,Ciudad del Carmen,,,,MEX,,18.654,-91.799,156000,992
-AGT,city,Ciudad del Este,,,,PRY,,-25.455,-54.843,321000,243
 CFE,city,Clermont-Ferrand,,,,FRA,,45.787,3.169,233000,1492
 CLE,city,Cleveland,,,,USA,,41.412,-81.85,1730000,2212
 CNJ,city,Cloncurry,,,,AUS,,-20.669,140.504,1000,1626
@@ -890,6 +892,7 @@ FOG,city,Foggia,,,,ITA,,41.433,15.535,155000,3079
 FBA,city,Fonte Boa,,,,BRA,,-2.533,-66.083,16000,1987
 FMA,city,Formosa,,,,ARG,,-26.213,-58.228,221000,3198
 YPY,city,Fort Chipewyan,,,,CAN,,58.767,-111.117,3000,2631
+FDF,city,Fort de France,,,,MTQ,,14.591,-61.003,254000,859
 FOD,city,Fort Dodge,,,,USA,,42.551,-94.193,24000,2225
 YAG,city,Fort Frances,,,,CAN,,48.654,-93.44,,2705
 YGH,city,Fort Good Hope,,,,CAN,,66.241,-128.651,1000,2618
@@ -906,7 +909,6 @@ FSM,city,Fort Smith (US),,,,USA,,35.337,-94.367,,2230
 YXJ,city,Fort St John,,,,CAN,,56.238,-120.74,,2728
 FWA,city,Fort Wayne,,,,USA,,40.979,-85.195,329000,2111
 FYU,city,Fort Yukon,,,,USA,,66.572,-145.25,,2281
-FDF,city,Fort de France,,,,MTQ,,14.591,-61.003,254000,859
 FOR,city,Fortaleza,,,,BRA,,-3.776,-38.533,3602000,1980
 FON,city,Fortuna,,,,CRI,,10.478,-84.634,13000,800
 YFX,city,Fox Harbour,,,,CAN,,52.373,-55.674,252,2752
@@ -1265,8 +1267,8 @@ CJU,city,Jeju,,,,KOR,,33.511,126.493,408000,2801
 XRY,city,Jerez,,,,ESP,,36.745,-6.06,,2893
 JER,city,Jersey,,,,JEY,,,,,1557
 JSR,city,Jessore,,,,BGD,,23.184,89.161,244000,67
-JGS,city,Ji'an,,,,CHN,,26.857,114.737,520000,427
 JPR,city,Ji-Parana,,,,BRA,,-10.871,-61.847,65000,2028
+JGS,city,Ji'an,,,,CHN,,26.857,114.737,520000,427
 JGD,city,Jiagedaqi,,,,CHN,,50.371,124.118,136000,426
 JMU,city,Jiamusi,,,,CHN,,46.843,130.465,1020000,336
 JGN,city,Jiayuguan,,,,CHN,,39.857,98.341,148000,425
@@ -2255,8 +2257,8 @@ TGD,city,Podgorica,,,,MNE,,42.359,19.252,146000,844
 PNI,city,Pohnpei,,,,FSM,,6.985,158.209,,1208
 PHO,city,Point Hope,,,,USA,,,,700,2337
 PIZ,city,Point Lay,,,,USA,,69.733,-163.005,,2362
-PNR,city,Pointe-Noire,,,,COG,,-4.816,11.887,,1345
 PTP,city,Pointe-a-Pitre,,,,GLP,,16.265,-61.532,146000,1354
+PNR,city,Pointe-Noire,,,,COG,,-4.816,11.887,,1345
 PIS,city,Poitiers,,,,FRA,,46.588,0.307,86000,1522
 PKR,city,Pokhara,,,,NPL,,28.201,83.982,200000,569
 PTG,city,Polokwane,,,,ZAF,,-23.845,29.459,220000,629
@@ -2274,6 +2276,7 @@ POR,city,Pori,,,,FIN,,61.462,21.8,77000,497
 PMV,city,Porlamar,,,,VEN,,10.913,-63.967,197000,1718
 EDR,city,Pormpuraaw,,,,AUS,,-14.896,141.609,,1574
 CLM,city,Port Angeles,,,,USA,,48.12,-123.5,24000,2211
+PAP,city,Port au Prince,,,,HTI,,18.58,-72.293,1998000,978
 PUG,city,Port Augusta,,,,AUS,,-32.507,137.717,14000,1652
 IXZ,city,Port Blair,,,,IND,,11.641,92.73,128000,1054
 PLZ,city,Port Elizabeth,,,,ZAF,,-33.985,25.617,1020999,641
@@ -2287,10 +2290,9 @@ PQQ,city,Port Macquarie,,,,AUS,,-31.436,152.863,49000,1630
 YPN,city,Port Menier,,,,CAN,,49.836,-64.289,0,2756
 PML,city,Port Moller,,,,USA,,56.006,-160.561,,2450
 POM,city,Port Moresby,,,,PNG,,-9.443,147.22,284000,2979
+POS,city,Port of Spain,,,,TTO,,10.595,-61.337,295000,224
 PZU,city,Port Sudan,,,,SDN,,19.434,37.234,490000,3016
 VLI,city,Port Vila,,,,VUT,,-17.699,168.32,44000,1315
-PAP,city,Port au Prince,,,,HTI,,18.58,-72.293,1998000,978
-POS,city,Port of Spain,,,,TTO,,10.595,-61.337,295000,224
 PTJ,city,Portland (AU),,,,AUS,,-38.318,141.471,,1591
 PWM,city,Portland (US-ME),,,,USA,,43.646,-70.309,,2242
 PDX,city,Portland (US-OR),,,,USA,,45.589,-122.598,,2299
@@ -2348,8 +2350,8 @@ PUY,city,Pula,,,,HRV,,44.894,13.922,62000,290
 PNQ,city,Pune,,,,IND,,18.582,73.92,4672000,1055
 PUQ,city,Punta Arenas,,,,CHL,,-53.003,-70.855,117000,306
 PUJ,city,Punta Cana,,,,DOM,,18.567,-68.363,100000,1198
-PND,city,Punta Gorda,,,,BLZ,,,,20000,861
 PDP,city,Punta del Este,,,,URY,,-34.855,-55.094,159000,518
+PND,city,Punta Gorda,,,,BLZ,,,,20000,861
 PUS,city,Pusan,,,,KOR,,35.18,128.938,,2806
 PBU,city,Putao,,,,MMR,,27.33,97.426,,882
 PSU,city,Putussibau,,,,IDN,,0.836,112.937,,1299
@@ -2366,6 +2368,7 @@ SHP,city,Qinhuangdao,,,,CHN,,39.968,119.731,1002999,411
 NDG,city,Qiqihar,,,,CHN,,47.24,123.918,1641000,488
 JJN,city,Quanzhou,,,,CHN,,24.796,118.59,1463000,389
 YQC,city,Quaqtaq,,,,CAN,,61.046,-69.618,,2609
+YQB,city,quebec city,,,,CAN,,46.791,-71.393,624000,2610
 ZQN,city,Queenstown,,,,NZL,,-45.021,168.739,105000,3037
 UEL,city,Quelimane,,,,MOZ,,-17.855,36.869,189000,972
 XQP,city,Quepos,,,,CRI,,9.443,-84.13,,799
@@ -2438,11 +2441,11 @@ RJK,city,Rijeka,,,,HRV,,45.217,14.57,171000,286
 RMT,city,Rimatara,,,,PYF,,-22.637,-152.806,,677
 RMI,city,Rimini,,,,ITA,,44.02,12.612,119000,3076
 RBR,city,Rio Branco,,,,BRA,,-9.869,-67.898,258000,2009
+GIG,city,Rio de Janeiro,,,,BRA,,-22.81,-43.251,11748000,1990
 RGL,city,Rio Gallegos,,,,ARG,,-51.609,-69.313,86000,3189
 RGA,city,Rio Grande,,,,ARG,,-53.778,-67.749,188000,3188
 RHD,city,Rio Hondo,,,,ARG,,-27.497,-64.936,5000,3217
 RVD,city,Rio Verde,,,,BRA,,-17.835,-50.956,48000,1953
-GIG,city,Rio de Janeiro,,,,BRA,,-22.81,-43.251,11748000,1990
 RCH,city,Riohacha,,,,COL,,11.526,-72.926,133000,1389
 RIS,city,Rishiri,,,,JPN,,45.242,141.186,,3118
 RIW,city,Riverton,,,,USA,,43.064,-108.46,43000,2220
@@ -2552,9 +2555,9 @@ NNB,city,Santa Ana Island,,,,SLB,,-10.848,162.454,,3031
 SBA,city,Santa Barbara,,,,USA,,34.426,-119.84,204000,2183
 SNU,city,Santa Clara,,,,CUB,,22.492,-79.944,251000,3251
 VVI,city,Santa Cruz,,,,BOL,,-17.645,-63.135,2103000,90
-SCZ,city,Santa Cruz Island,,,,SLB,,-10.72,165.795,,3022
-TFN,city,Santa Cruz de Tenerife,,,,ESP,,28.483,-16.341,336000,2886
 SPC,city,Santa Cruz de la Palma,,,,ESP,,28.626,-17.756,17000,2882
+TFN,city,Santa Cruz de Tenerife,,,,ESP,,28.483,-16.341,336000,2886
+SCZ,city,Santa Cruz Island,,,,SLB,,-10.72,165.795,,3022
 SNV,city,Santa Elena,,,,VEN,,4.555,-61.15,42000,1716
 SFN,city,Santa Fe (AR),,,,ARG,,-31.712,-60.812,,3194
 SAF,city,Santa Fe (US),,,,USA,,35.617,-106.089,,2391
@@ -2579,8 +2582,8 @@ SYX,city,Sanya,,,,CHN,,18.303,109.412,363000,373
 SFL,city,Sao Filipe,,,,CPV,,14.885,-24.48,,134
 SJL,city,Sao Gabriel,,,,BRA,,-0.148,-66.986,55000,2012
 JDR,city,Sao Joao del Rei,,,,BRA,,,,79000,1943
-SJK,city,Sao Jose Dos Campos,,,,BRA,,-23.229,-45.861,754000,2011
 SJP,city,Sao Jose do Rio Preto,,,,BRA,,-20.817,-49.407,375000,2010
+SJK,city,Sao Jose Dos Campos,,,,BRA,,-23.229,-45.861,754000,2011
 SLZ,city,Sao Luiz,,,,BRA,,-2.585,-44.234,,2025
 SNE,city,Sao Nicolau Island,,,,CPV,,16.588,-24.285,,136
 OLC,city,Sao Paula de Olivenca,,,,BRA,,-3.468,-68.92,,1985
@@ -2635,6 +2638,7 @@ CQD,city,Shahre Kord,,,,IRN,,32.297,50.842,,2957
 RUD,city,Shahrud,,,,IRN,,36.425,55.104,132000,2942
 EKS,city,Shakhtersk,,,,RUS,,49.19,142.083,,1860
 SKK,city,Shaktoolik,,,,USA,,64.371,-161.224,,2342
+PVG,city,shanghai city,,,,CHN,,31.143,121.805,14987000,412
 SNN,city,Shannon,,,,IRL,,52.702,-8.925,9000,2921
 SWA,city,Shantou,,,,CHN,,23.552,116.503,1601000,363
 SSH,city,Sharm El-Sheikh,,,,EGY,,27.977,34.395,,50
@@ -2736,9 +2740,9 @@ LED,city,St Petersburg,,,,RUS,,59.8,30.263,,1855
 FSP,city,St Pierre,,,,,,46.763,-56.173,,1487
 STT,city,St Thomas Island,,,,VIR,,18.337,-64.973,,649
 SVD,city,St Vincent,,,,,,13.157,-61.15,,1118
-DNR,city,St-Malo,,,,FRA,,48.588,-2.08,,1500
 RUN,city,St-denis,,,,REU,,-20.887,55.51,,1232
 EBU,city,St-etienne,,,,FRA,,45.541,4.296,,1497
+DNR,city,St-Malo,,,,FRA,,48.588,-2.08,,1500
 SCE,city,State College,,,,USA,,40.849,-77.849,88000,2165
 SVG,city,Stavanger,,,,NOR,,58.877,5.638,173000,1147
 STW,city,Stavropol,,,,RUS,,45.109,42.113,409000,1825
@@ -2886,6 +2890,7 @@ TRV,city,Thiruvananthapuram,,,,IND,,8.482,76.92,954000,1084
 YTH,city,Thompson,,,,CAN,,55.801,-97.864,15000,2696
 THO,city,Thorshofn,,,,ISL,,66.218,-15.336,530,1353
 YQT,city,Thunder Bay,,,,CAN,,48.372,-89.324,99000,2614
+TSN,city,tianjin city,,,,CHN,,39.124,117.346,7180000,322
 THQ,city,Tianshui,,,,CHN,,34.559,105.86,3500000,462
 TID,city,Tiaret,,,,DZA,,35.341,1.463,184000,47
 TIJ,city,Tijuana,,,,MEX,,32.541,-116.97,1553000,1034
@@ -3058,6 +3063,7 @@ VCE,city,Venice,,,,ITA,,45.505,12.352,271000,3085
 VER,city,Veracruz,,,,MEX,,19.146,-96.187,579000,1013
 VEL,city,Vernal,,,,USA,,40.441,-109.51,20000,2168
 VRN,city,Verona,,,,ITA,,45.396,10.889,347000,3069
+VCT,city,victoria city,,,,USA,,28.853,-96.919,,2102
 VFA,city,Victoria Falls,,,,ZWE,,-18.096,25.839,36000,959
 VDM,city,Viedma,,,,ARG,,-40.869,-63,59000,3193
 VIE,city,Vienna,,,,AUT,,48.11,16.57,2400000,1699
@@ -3246,354 +3252,348 @@ OUZ,city,Zouerate,,,,MRT,,22.756,-12.484,56000,280
 ZYI,city,Zunyi,,,,CHN,,27.59,107.001,849000,330
 ZRH,city,Zurich,,,,CHE,,47.465,8.549,1108000,276
 ZKP,city,Zyryanka,,,,RUS,,65.749,150.889,4000,1872
-PEK,city,beijing city,,,,CHN,,40.08,116.585,11106000,420
-CKG,city,chongqing city,,,,CHN,,29.719,106.642,6461000,325
-YQB,city,quebec city,,,,CAN,,46.791,-71.393,624000,2610
-PVG,city,shanghai city,,,,CHN,,31.143,121.805,14987000,412
-TSN,city,tianjin city,,,,CHN,,39.124,117.346,7180000,322
-VCT,city,victoria city,,,,USA,,28.853,-96.919,,2102
 ,continent,Africa,,,,,,,,1275920000,0
 ,continent,Asia,,,,,,,,4560667000,1
 ,continent,Europe,,,,,,,,746419000,2
 ,continent,North America,,,,,,,,582931000,3
 ,continent,Oceania,,,,,,,,41570000,4
 ,continent,South America,,,,,,,,423581000,5
-,country,Afghanistan,Islamic Republic of Afghanistan,,AF,AFG,4,,,34656000,1
-,country,Aland Islands,íƒland Islands,,AX,ALA,248,,,28000,4
-,country,Albania,Republic of Albania,,AL,ALB,8,,,2876000,5
-,country,Algeria,People's Democratic Republic of Algeria,,DZ,DZA,12,,,40606000,61
-,country,American Samoa,American Samoa,,AS,ASM,16,,,56000,9
-,country,Angola,Republic of Angola,,AO,AGO,24,,,28813000,2
-,country,Anguilla,Anguilla,,AI,AIA,660,,,,3
-,country,Antigua and Barbuda,Antigua and Barbuda,,AG,ATG,28,,,101000,10
-,country,Argentina,Argentine Republic,,AR,ARG,32,,,43847000,7
-,country,Armenia,Republic of Armenia,,AM,ARM,51,,,2925000,8
-,country,Aruba,Aruba,,AW,ABW,533,,,105000,0
-,country,Australia,Australia,,AU,AUS,36,,,24127000,11
-,country,Austria,Republic of Austria,,AT,AUT,40,,,8747000,12
-,country,Azerbaijan,Republic of Azerbaijan,,AZ,AZE,31,,,9762000,13
-,country,Bahamas,Commonwealth of the Bahamas,The Bahamas,BS,BHS,44,,,395000,22
-,country,Bahrain,Kingdom of Bahrain,,BH,BHR,48,,,1425000,21
-,country,Bangladesh,People's Republic of Bangladesh,,BD,BGD,50,,,162952000,19
-,country,Barbados,Barbados,,BB,BRB,52,,,285000,30
-,country,Belarus,Republic of Belarus,,BY,BLR,112,,,9507000,25
-,country,Belgium,Kingdom of Belgium,,BE,BEL,56,,,11348000,15
-,country,Belize,Belize,,BZ,BLZ,84,,,367000,26
-,country,Benin,Republic of Benin,,BJ,BEN,204,,,10872000,16
-,country,Bermuda,Bermuda,,BM,BMU,60,,,65000,27
-,country,Bhutan,Kingdom of Bhutan,,BT,BTN,64,,,798000,32
-,country,Bolivia,Plurinational State of Bolivia,,BO,BOL,68,,,10888000,28
-,country,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,,BA,BIH,70,,,3517000,23
-,country,Botswana,Republic of Botswana,,BW,BWA,72,,,2250000,33
-,country,Brazil,Federative Republic of Brazil,,BR,BRA,76,,,207653000,29
+AF,country,Afghanistan,Islamic Republic of Afghanistan,,AF,AFG,4,,,34656000,1
+AX,country,Aland Islands,’Äland Islands,,AX,ALA,248,,,28000,4
+AL,country,Albania,Republic of Albania,,AL,ALB,8,,,2876000,5
+DZ,country,Algeria,People's Democratic Republic of Algeria,,DZ,DZA,12,,,40606000,61
+AS,country,American Samoa,American Samoa,,AS,ASM,16,,,56000,9
+AO,country,Angola,Republic of Angola,,AO,AGO,24,,,28813000,2
+AI,country,Anguilla,Anguilla,,AI,AIA,660,,,,3
+AG,country,Antigua and Barbuda,Antigua and Barbuda,,AG,ATG,28,,,101000,10
+AR,country,Argentina,Argentine Republic,,AR,ARG,32,,,43847000,7
+AM,country,Armenia,Republic of Armenia,,AM,ARM,51,,,2925000,8
+AW,country,Aruba,Aruba,,AW,ABW,533,,,105000,0
+AU,country,Australia,Australia,,AU,AUS,36,,,24127000,11
+AT,country,Austria,Republic of Austria,,AT,AUT,40,,,8747000,12
+AZ,country,Azerbaijan,Republic of Azerbaijan,,AZ,AZE,31,,,9762000,13
+BS,country,Bahamas,Commonwealth of the Bahamas,The Bahamas,BS,BHS,44,,,395000,22
+BH,country,Bahrain,Kingdom of Bahrain,,BH,BHR,48,,,1425000,21
+BD,country,Bangladesh,People's Republic of Bangladesh,,BD,BGD,50,,,162952000,19
+BB,country,Barbados,Barbados,,BB,BRB,52,,,285000,30
+BY,country,Belarus,Republic of Belarus,,BY,BLR,112,,,9507000,25
+BE,country,Belgium,Kingdom of Belgium,,BE,BEL,56,,,11348000,15
+BZ,country,Belize,Belize,,BZ,BLZ,84,,,367000,26
+BJ,country,Benin,Republic of Benin,,BJ,BEN,204,,,10872000,16
+BM,country,Bermuda,Bermuda,,BM,BMU,60,,,65000,27
+BT,country,Bhutan,Kingdom of Bhutan,,BT,BTN,64,,,798000,32
+BO,country,Bolivia,Plurinational State of Bolivia,,BO,BOL,68,,,10888000,28
+BA,country,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,,BA,BIH,70,,,3517000,23
+BW,country,Botswana,Republic of Botswana,,BW,BWA,72,,,2250000,33
+BR,country,Brazil,Federative Republic of Brazil,,BR,BRA,76,,,207653000,29
 ,country,British Virgin Islands,,,,,,,,31000,222
-,country,Brunei,Brunei Darussalam,,BN,BRN,96,,,,31
-,country,Bulgaria,Republic of Bulgaria,,BG,BGR,100,,,7128000,20
-,country,Burkina Faso,Burkina Faso,,BF,BFA,854,,,18646000,18
-,country,Burundi,Republic of Burundi,,BI,BDI,108,,,10524000,14
-,country,Cambodia,Kingdom of Cambodia,,KH,KHM,116,,,15762000,112
-,country,Cameroon,Republic of Cameroon,,CM,CMR,120,,,23439000,41
-,country,Canada,Canada,,CA,CAN,124,,,37797000,35
-,country,Cape Verde,Republic of Cabo Verde,cabo verde,CV,CPV,132,,,546388,47
+BN,country,Brunei,Brunei Darussalam,,BN,BRN,96,,,,31
+BG,country,Bulgaria,Republic of Bulgaria,,BG,BGR,100,,,7128000,20
+BF,country,Burkina Faso,Burkina Faso,,BF,BFA,854,,,18646000,18
+BI,country,Burundi,Republic of Burundi,,BI,BDI,108,,,10524000,14
+KH,country,Cambodia,Kingdom of Cambodia,,KH,KHM,116,,,15762000,112
+CM,country,Cameroon,Republic of Cameroon,,CM,CMR,120,,,23439000,41
+CA,country,Canada,Canada,,CA,CAN,124,,,37797000,35
+CV,country,Cape Verde,Republic of Cabo Verde,cabo verde,CV,CPV,132,,,546388,47
 ,country,Caribbean Netherlands,,,,,,,,,17
-,country,Cayman Islands,Cayman Islands,,KY,CYM,136,,,61000,52
-,country,Central African Republic,Central African Republic,,CF,CAF,140,,,4595000,34
-,country,Chad,Republic of Chad,,TD,TCD,148,,,14453000,202
-,country,Chile,Republic of Chile,,CL,CHL,152,,,17910000,38
-,country,China,People's Republic of China,,CN,CHN,156,,,1427647000,39
-,country,Christmas Island,Christmas Island,,CX,CXR,162,,,,51
-,country,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,CC,CCK,166,,,,36
-,country,Colombia,Republic of Colombia,,CO,COL,170,,,48653000,45
-,country,Comoros,Union of the Comoros,,KM,COM,174,,,796000,46
-,country,Cook Islands,Cook Islands,,CK,COK,184,,,,44
-,country,Costa Rica,Republic of Costa Rica,,CR,CRI,188,,,4857000,48
-,country,Croatia,Republic of Croatia,,HR,HRV,191,,,4171000,93
-,country,Cuba,Republic of Cuba,,CU,CUB,192,,,11476000,49
-,country,CuraÌ¤ao,Curaí_ao,,CW,CUW,531,,,160000,50
-,country,Cyprus,Republic of Cyprus,,CY,CYP,196,,,1170000,54
+KY,country,Cayman Islands,Cayman Islands,,KY,CYM,136,,,61000,52
+CF,country,Central African Republic,Central African Republic,,CF,CAF,140,,,4595000,34
+TD,country,Chad,Republic of Chad,,TD,TCD,148,,,14453000,202
+CL,country,Chile,Republic of Chile,,CL,CHL,152,,,17910000,38
+CN,country,China,People's Republic of China,,CN,CHN,156,,,1427647000,39
+CX,country,Christmas Island,Christmas Island,,CX,CXR,162,,,,51
+CI,country,CíÇte d'Ivoire,Republic of C’‚te d'Ivoire,,CI,CIV,384,,,23696000,40
+CC,country,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,CC,CCK,166,,,,36
+CO,country,Colombia,Republic of Colombia,,CO,COL,170,,,48653000,45
+KM,country,Comoros,Union of the Comoros,,KM,COM,174,,,796000,46
+CK,country,Cook Islands,Cook Islands,,CK,COK,184,,,,44
+CR,country,Costa Rica,Republic of Costa Rica,,CR,CRI,188,,,4857000,48
+HR,country,Croatia,Republic of Croatia,,HR,HRV,191,,,4171000,93
+CU,country,Cuba,Republic of Cuba,,CU,CUB,192,,,11476000,49
+CW,country,Curaí_ao,Cura’_ao,,CW,CUW,531,,,160000,50
+CY,country,Cyprus,Republic of Cyprus,,CY,CYP,196,,,1170000,54
 ,country,"Cyprus, Northern",,,,,,,,326000,53
-,country,Czechia,Czech Republic,Czech Republic,CZ,CZE,203,,,10562000,55
-,country,CÌ«te d'Ivoire,Republic of CíÇte d'Ivoire,,CI,CIV,384,,,23696000,40
-,country,DR Congo,"Congo, The Democratic Republic of the","Democratic Republic of the Congo, congo (kinshasa), Congo, Dem. Rep.",CD,COD,180,,,78736000,42
-,country,Denmark,Kingdom of Denmark,,DK,DNK,208,,,5731000,59
-,country,Djibouti,Republic of Djibouti,,DJ,DJI,262,,,942000,57
-,country,Dominica,Commonwealth of Dominica,,DM,DMA,212,,,74000,58
-,country,Dominican Republic,Dominican Republic,,DO,DOM,214,,,10649000,60
-,country,Ecuador,Republic of Ecuador,,EC,ECU,218,,,16385000,62
-,country,Egypt,Arab Republic of Egypt,"Egypt, Arab Rep.",EG,EGY,818,,,97550000,63
-,country,Equatorial Guinea,Republic of Equatorial Guinea,,GQ,GNQ,226,,,1221000,84
-,country,Eritrea,the State of Eritrea,,ER,ERI,232,,,4475000,64
-,country,Estonia,Republic of Estonia,,EE,EST,233,,,1316000,66
-,country,Ethiopia,Federal Democratic Republic of Ethiopia,,ET,ETH,231,,,102403000,67
-,country,Faeroe Islands,Faroe Islands,Faroe Islands,FO,FRO,234,,,,72
-,country,Falkland Islands,Falkland Islands (Malvinas),,FK,,238,,,,70
-,country,Fiji,Republic of Fiji,,FJ,FJI,242,,,899000,69
-,country,Finland,Republic of Finland,,FI,FIN,246,,,5495000,68
-,country,France,French Republic,,FR,FRA,250,,,66896000,71
-,country,French Guiana,French Guiana,,GF,GUF,254,,,290691,89
-,country,French Polynesia,French Polynesia,,PF,PYF,258,,,280000,174
-,country,Gabon,Gabonese Republic,,GA,GAB,266,,,1980000,74
-,country,Gambia,Republic of the Gambia,"gambia, the, The Gambia",GM,GMB,270,,,2101000,82
-,country,Georgia,Georgia,,GE,GEO,268,,,3717000,76
-,country,Germany,Federal Republic of Germany,,DE,DEU,276,,,82668000,56
-,country,Ghana,Republic of Ghana,,GH,GHA,288,,,28207000,78
-,country,Gibraltar,Gibraltar,,GI,GIB,292,,,34000,79
-,country,Greece,Hellenic Republic,,GR,GRC,300,,,10747000,85
-,country,Greenland,Greenland,,GL,GRL,304,,,56000,87
-,country,Grenada,Grenada,,GD,GRD,308,,,107000,86
-,country,Guadeloupe,Guadeloupe,,GP,GLP,312,,,395000,81
-,country,Guam,Guam,,GU,GUM,316,,,163000,90
-,country,Guatemala,Republic of Guatemala,,GT,GTM,320,,,16582000,88
-,country,Guernsey,Guernsey,,GG,GGY,831,,,67052,77
-,country,Guinea,Republic of Guinea,,GN,GIN,324,,,12396000,80
-,country,Guinea-Bissau,Republic of Guinea-Bissau,,GW,GNB,624,,,1861000,83
-,country,Guyana,Republic of Guyana,,GY,GUY,328,,,773000,91
-,country,Haiti,Republic of Haiti,,HT,HTI,332,,,10847000,94
-,country,Honduras,Republic of Honduras,,HN,HND,340,,,9113000,92
-,country,Hungary,Hungary,,HU,HUN,348,,,9818000,95
-,country,Iceland,Republic of Iceland,,IS,ISL,352,,,334000,102
-,country,India,Republic of India,,IN,IND,356,,,1359772000,98
-,country,Indonesia,Republic of Indonesia,,ID,IDN,360,,,261115000,96
-,country,Iran,Islamic Republic of Iran,,IR,IRN,364,,,78800000,100
-,country,Iraq,Republic of Iraq,,IQ,IRQ,368,,,37203000,101
-,country,Ireland,Ireland,,IE,IRL,372,,,4773000,99
-,country,Isle of Man,Isle of Man,,IM,IMN,833,,,84000,97
-,country,Israel,State of Israel,,IL,ISR,376,,,7600000,103
-,country,Italy,Italian Republic,,IT,ITA,380,,,60601000,104
-,country,Jamaica,Jamaica,,JM,JAM,388,,,2881000,105
-,country,Japan,Japan,,JP,JPN,392,,,126995000,108
-,country,Jersey,Jersey,,JE,JEY,832,,,97857,106
-,country,Jordan,Hashemite Kingdom of Jordan,,JO,JOR,400,,,6300000,107
-,country,Kazakhstan,Republic of Kazakhstan,,KZ,KAZ,398,,,17797000,109
-,country,Kenya,Republic of Kenya,,KE,KEN,404,,,48462000,110
-,country,Kiribati,Republic of Kiribati,,KI,KIR,296,,,114000,113
+CZ,country,Czechia,Czech Republic,Czech Republic,CZ,CZE,203,,,10562000,55
+DK,country,Denmark,Kingdom of Denmark,,DK,DNK,208,,,5731000,59
+DJ,country,Djibouti,Republic of Djibouti,,DJ,DJI,262,,,942000,57
+DM,country,Dominica,Commonwealth of Dominica,,DM,DMA,212,,,74000,58
+DO,country,Dominican Republic,Dominican Republic,,DO,DOM,214,,,10649000,60
+CD,country,DR Congo,"Congo, The Democratic Republic of the","Democratic Republic of the Congo, congo (kinshasa), Congo, Dem. Rep.",CD,COD,180,,,78736000,42
+EC,country,Ecuador,Republic of Ecuador,,EC,ECU,218,,,16385000,62
+EG,country,Egypt,Arab Republic of Egypt,"Egypt, Arab Rep.",EG,EGY,818,,,97550000,63
+GQ,country,Equatorial Guinea,Republic of Equatorial Guinea,,GQ,GNQ,226,,,1221000,84
+ER,country,Eritrea,the State of Eritrea,,ER,ERI,232,,,4475000,64
+EE,country,Estonia,Republic of Estonia,,EE,EST,233,,,1316000,66
+ET,country,Ethiopia,Federal Democratic Republic of Ethiopia,,ET,ETH,231,,,102403000,67
+FO,country,Faeroe Islands,Faroe Islands,Faroe Islands,FO,FRO,234,,,,72
+FK,country,Falkland Islands,Falkland Islands (Malvinas),,FK,,238,,,,70
+FJ,country,Fiji,Republic of Fiji,,FJ,FJI,242,,,899000,69
+FI,country,Finland,Republic of Finland,,FI,FIN,246,,,5495000,68
+FR,country,France,French Republic,,FR,FRA,250,,,66896000,71
+GF,country,French Guiana,French Guiana,,GF,GUF,254,,,290691,89
+PF,country,French Polynesia,French Polynesia,,PF,PYF,258,,,280000,174
+GA,country,Gabon,Gabonese Republic,,GA,GAB,266,,,1980000,74
+GM,country,Gambia,Republic of the Gambia,"gambia, the, The Gambia",GM,GMB,270,,,2101000,82
+GE,country,Georgia,Georgia,,GE,GEO,268,,,3717000,76
+DE,country,Germany,Federal Republic of Germany,,DE,DEU,276,,,82668000,56
+GH,country,Ghana,Republic of Ghana,,GH,GHA,288,,,28207000,78
+GI,country,Gibraltar,Gibraltar,,GI,GIB,292,,,34000,79
+GR,country,Greece,Hellenic Republic,,GR,GRC,300,,,10747000,85
+GL,country,Greenland,Greenland,,GL,GRL,304,,,56000,87
+GD,country,Grenada,Grenada,,GD,GRD,308,,,107000,86
+GP,country,Guadeloupe,Guadeloupe,,GP,GLP,312,,,395000,81
+GU,country,Guam,Guam,,GU,GUM,316,,,163000,90
+GT,country,Guatemala,Republic of Guatemala,,GT,GTM,320,,,16582000,88
+GG,country,Guernsey,Guernsey,,GG,GGY,831,,,67052,77
+GN,country,Guinea,Republic of Guinea,,GN,GIN,324,,,12396000,80
+GW,country,Guinea-Bissau,Republic of Guinea-Bissau,,GW,GNB,624,,,1861000,83
+GY,country,Guyana,Republic of Guyana,,GY,GUY,328,,,773000,91
+HT,country,Haiti,Republic of Haiti,,HT,HTI,332,,,10847000,94
+HN,country,Honduras,Republic of Honduras,,HN,HND,340,,,9113000,92
+HU,country,Hungary,Hungary,,HU,HUN,348,,,9818000,95
+IS,country,Iceland,Republic of Iceland,,IS,ISL,352,,,334000,102
+IN,country,India,Republic of India,,IN,IND,356,,,1359772000,98
+ID,country,Indonesia,Republic of Indonesia,,ID,IDN,360,,,261115000,96
+IR,country,Iran,Islamic Republic of Iran,,IR,IRN,364,,,78800000,100
+IQ,country,Iraq,Republic of Iraq,,IQ,IRQ,368,,,37203000,101
+IE,country,Ireland,Ireland,,IE,IRL,372,,,4773000,99
+IM,country,Isle of Man,Isle of Man,,IM,IMN,833,,,84000,97
+IL,country,Israel,State of Israel,,IL,ISR,376,,,7600000,103
+IT,country,Italy,Italian Republic,,IT,ITA,380,,,60601000,104
+JM,country,Jamaica,Jamaica,,JM,JAM,388,,,2881000,105
+JP,country,Japan,Japan,,JP,JPN,392,,,126995000,108
+JE,country,Jersey,Jersey,,JE,JEY,832,,,97857,106
+JO,country,Jordan,Hashemite Kingdom of Jordan,,JO,JOR,400,,,6300000,107
+KZ,country,Kazakhstan,Republic of Kazakhstan,,KZ,KAZ,398,,,17797000,109
+KE,country,Kenya,Republic of Kenya,,KE,KEN,404,,,48462000,110
+KI,country,Kiribati,Republic of Kiribati,,KI,KIR,296,,,114000,113
 ,country,Kosovo,,,,RKS,,,,1816000,116
-,country,Kuwait,State of Kuwait,,KW,KWT,414,,,4053000,117
-,country,Kyrgyzstan,Kyrgyz Republic,,KG,KGZ,417,,,6202000,111
-,country,Lao PDR,Lao People's Democratic Republic,laos,LA,LAO,418,,,6758000,118
-,country,Latvia,Republic of Latvia,,LV,LVA,428,,,1960000,127
-,country,Lebanon,Lebanese Republic,,LB,LBN,422,,,4200000,119
-,country,Lesotho,Kingdom of Lesotho,,LS,LSO,426,,,2204000,124
-,country,Liberia,Republic of Liberia,,LR,LBR,430,,,4614000,120
-,country,Libya,Libya,,LY,LBY,434,,,6293000,121
-,country,Lithuania,Republic of Lithuania,,LT,LTU,440,,,2872000,125
-,country,Luxembourg,Grand Duchy of Luxembourg,,LU,LUX,442,,,583000,126
-,country,Macedonia,Republic of North Macedonia,North Macedonia,MK,MKD,807,,,2077000,135
-,country,Madagascar,Republic of Madagascar,,MG,MDG,450,,,24895000,131
-,country,Malawi,Republic of Malawi,,MW,MWI,454,,,18092000,147
-,country,Malaysia,Malaysia,,MY,MYS,458,,,31187000,148
-,country,Maldives,Republic of Maldives,,MV,MDV,462,,,417000,132
-,country,Mali,Republic of Mali,,ML,MLI,466,,,17995000,136
-,country,Malta,Republic of Malta,,MT,MLT,470,,,437000,137
-,country,Marshall Islands,Republic of the Marshall Islands,,MH,MHL,584,,,53000,134
-,country,Martinique,Martinique,,MQ,MTQ,474,,,376000,145
-,country,Mauritania,Islamic Republic of Mauritania,,MR,MRT,478,,,4301000,143
-,country,Mauritius,Republic of Mauritius,,MU,MUS,480,,,1263000,146
-,country,Mayotte,Mayotte,,YT,MYT,175,,,,149
-,country,Mexico,United Mexican States,,MX,MEX,484,,,127540000,133
-,country,"Micronesia, Fed. States of",Federated States of Micronesia,micronesia,FM,FSM,583,,,105000,73
-,country,Moldova,Republic of Moldova,,MD,MDA,498,,,3552000,130
-,country,Monaco,Principality of Monaco,,MC,MCO,492,,,38000,129
-,country,Mongolia,Mongolia,,MN,MNG,496,,,3027000,140
-,country,Montenegro,Montenegro,,ME,MNE,499,,,623000,139
-,country,Montserrat,Montserrat,,MS,MSR,500,,,,144
-,country,Morocco,Kingdom of Morocco,,MA,MAR,504,,,35277000,128
-,country,Mozambique,Republic of Mozambique,,MZ,MOZ,508,,,28829000,142
-,country,Myanmar,Republic of Myanmar,"Burma, Myanmar (Burma)",MM,MMR,104,,,52885000,138
-,country,Namibia,Republic of Namibia,,NA,NAM,516,,,2480000,150
-,country,Nauru,Republic of Nauru,,NR,NRU,520,,,13000,160
-,country,Nepal,Federal Democratic Republic of Nepal,,NP,NPL,524,,,28983000,159
-,country,Netherlands,Kingdom of the Netherlands,The Netherlands,NL,NLD,528,,,17018000,157
-,country,New Caledonia,New Caledonia,,NC,NCL,540,,,278000,151
-,country,New Zealand,New Zealand,,NZ,NZL,554,,,4693000,161
-,country,Nicaragua,Republic of Nicaragua,,NI,NIC,558,,,6150000,155
-,country,Niger,Republic of the Niger,,NE,NER,562,,,20673000,152
-,country,Nigeria,Federal Republic of Nigeria,,NG,NGA,566,,,185990000,154
-,country,Niue,Niue,,NU,NIU,570,,,,156
-,country,Norfolk Island,Norfolk Island,,NF,NFK,574,,,,153
-,country,North Korea,Democratic People's Republic of Korea,"Korea, Dem. Rep., korea, north",KP,PRK,408,,,25490000,171
-,country,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,,MP,MNP,580,,,55000,141
-,country,Norway,Kingdom of Norway,,NO,NOR,578,,,5233000,158
-,country,Oman,Sultanate of Oman,,OM,OMN,512,,,2700000,162
-,country,Pakistan,Islamic Republic of Pakistan,,PK,PAK,586,,,193203000,163
-,country,Palau,Republic of Palau,,PW,PLW,585,,,22000,167
-,country,Panama,Republic of Panama,,PA,PAN,591,,,4034000,164
-,country,Papua New Guinea,Independent State of Papua New Guinea,,PG,PNG,598,,,8085000,168
-,country,Paraguay,Republic of Paraguay,,PY,PRY,600,,,6725000,173
-,country,Peru,Republic of Peru,,PE,PER,604,,,31774000,165
-,country,Philippines,Republic of the Philippines,,PH,PHL,608,,,103320000,166
-,country,Poland,Republic of Poland,,PL,POL,616,,,37948000,169
-,country,Portugal,Portuguese Republic,,PT,PRT,620,,,10325000,172
-,country,Puerto Rico,Puerto Rico,,PR,PRI,630,,,3411000,170
-,country,Qatar,State of Qatar,,QA,QAT,634,,,1600000,175
-,country,Republic of the Congo,Republic of the Congo,"Congo, Rep., congo (brazzaville)",CG,COG,178,,,5126000,43
-,country,Reunion,Rí©union,,RE,REU,638,,,859959,176
-,country,Romania,Romania,,RO,ROU,642,,,19705000,177
-,country,Russia,Russian Federation,Russian Federation,RU,RUS,643,,,146745000,178
-,country,Rwanda,Rwandese Republic,,RW,RWA,646,,,11918000,179
-,country,Samoa,Independent State of Samoa,,WS,WSM,882,,,195000,227
-,country,Saudi Arabia,Kingdom of Saudi Arabia,,SA,SAU,682,,,27100000,180
-,country,Senegal,Republic of Senegal,,SN,SEN,686,,,15412000,182
-,country,Serbia,Republic of Serbia,,RS,SRB,688,,,7057000,190
-,country,Seychelles,Republic of Seychelles,,SC,SYC,690,,,95000,199
-,country,Sierra Leone,Republic of Sierra Leone,,SL,SLE,694,,,7396000,186
-,country,Singapore,Republic of Singapore,,SG,SGP,702,,,5607000,183
-,country,Slovak Republic,Slovak Republic,slovakia,SK,SVK,703,,,5429000,194
-,country,Slovenia,Republic of Slovenia,,SI,SVN,705,,,2065000,195
-,country,Solomon Islands,Solomon Islands,,SB,SLB,90,,,599000,185
-,country,Somalia,Federal Republic of Somalia,,SO,SOM,706,,,14318000,188
-,country,South Africa,Republic of South Africa,,ZA,ZAF,710,,,55909000,229
-,country,South Korea,"Korea, Republic of","Korea, Rep., korea, south",KR,KOR,410,,,51246000,115
-,country,South Sudan,Republic of South Sudan,,SS,SSD,728,,,12580000,191
-,country,Spain,Kingdom of Spain,,ES,ESP,724,,,46444000,65
-,country,Sri Lanka,Democratic Socialist Republic of Sri Lanka,,LK,LKA,144,,,21203000,123
-,country,St-BarthÌ©lemy,Saint Barthí©lemy,saint barthelemy,BL,BLM,652,,,,24
-,country,St. Kitts and Nevis,Saint Kitts and Nevis,,KN,,659,,,55000,114
-,country,St. Lucia,Saint Lucia,,LC,,662,,,178000,122
-,country,St. Maarten,Saint Martin (French part),,MF,,663,,,,198
-,country,St. Pierre and Miquelon,Saint Pierre and Miquelon,,PM,,666,,,,189
-,country,St. Vincent and Grenadines,Saint Vincent and the Grenadines,,VC,,670,,,,220
-,country,Sudan,Republic of the Sudan,,SD,SDN,729,,,39579000,181
-,country,Suriname,Republic of Suriname,,SR,SUR,740,,,558000,193
-,country,Svalbard Islands,Svalbard and Jan Mayen,,SJ,,744,,,2000,184
+KW,country,Kuwait,State of Kuwait,,KW,KWT,414,,,4053000,117
+KG,country,Kyrgyzstan,Kyrgyz Republic,,KG,KGZ,417,,,6202000,111
+LA,country,Lao PDR,Lao People's Democratic Republic,laos,LA,LAO,418,,,6758000,118
+LV,country,Latvia,Republic of Latvia,,LV,LVA,428,,,1960000,127
+LB,country,Lebanon,Lebanese Republic,,LB,LBN,422,,,4200000,119
+LS,country,Lesotho,Kingdom of Lesotho,,LS,LSO,426,,,2204000,124
+LR,country,Liberia,Republic of Liberia,,LR,LBR,430,,,4614000,120
+LY,country,Libya,Libya,,LY,LBY,434,,,6293000,121
+LT,country,Lithuania,Republic of Lithuania,,LT,LTU,440,,,2872000,125
+LU,country,Luxembourg,Grand Duchy of Luxembourg,,LU,LUX,442,,,583000,126
+MK,country,Macedonia,Republic of North Macedonia,North Macedonia,MK,MKD,807,,,2077000,135
+MG,country,Madagascar,Republic of Madagascar,,MG,MDG,450,,,24895000,131
+MW,country,Malawi,Republic of Malawi,,MW,MWI,454,,,18092000,147
+MY,country,Malaysia,Malaysia,,MY,MYS,458,,,31187000,148
+MV,country,Maldives,Republic of Maldives,,MV,MDV,462,,,417000,132
+ML,country,Mali,Republic of Mali,,ML,MLI,466,,,17995000,136
+MT,country,Malta,Republic of Malta,,MT,MLT,470,,,437000,137
+MH,country,Marshall Islands,Republic of the Marshall Islands,,MH,MHL,584,,,53000,134
+MQ,country,Martinique,Martinique,,MQ,MTQ,474,,,376000,145
+MR,country,Mauritania,Islamic Republic of Mauritania,,MR,MRT,478,,,4301000,143
+MU,country,Mauritius,Republic of Mauritius,,MU,MUS,480,,,1263000,146
+YT,country,Mayotte,Mayotte,,YT,MYT,175,,,,149
+MX,country,Mexico,United Mexican States,,MX,MEX,484,,,127540000,133
+FM,country,"Micronesia, Fed. States of",Federated States of Micronesia,micronesia,FM,FSM,583,,,105000,73
+MD,country,Moldova,Republic of Moldova,,MD,MDA,498,,,3552000,130
+MC,country,Monaco,Principality of Monaco,,MC,MCO,492,,,38000,129
+MN,country,Mongolia,Mongolia,,MN,MNG,496,,,3027000,140
+ME,country,Montenegro,Montenegro,,ME,MNE,499,,,623000,139
+MS,country,Montserrat,Montserrat,,MS,MSR,500,,,,144
+MA,country,Morocco,Kingdom of Morocco,,MA,MAR,504,,,35277000,128
+MZ,country,Mozambique,Republic of Mozambique,,MZ,MOZ,508,,,28829000,142
+MM,country,Myanmar,Republic of Myanmar,"Burma, Myanmar (Burma)",MM,MMR,104,,,52885000,138
+NA,country,Namibia,Republic of Namibia,,NA,NAM,516,,,2480000,150
+NR,country,Nauru,Republic of Nauru,,NR,NRU,520,,,13000,160
+NP,country,Nepal,Federal Democratic Republic of Nepal,,NP,NPL,524,,,28983000,159
+NL,country,Netherlands,Kingdom of the Netherlands,The Netherlands,NL,NLD,528,,,17018000,157
+NC,country,New Caledonia,New Caledonia,,NC,NCL,540,,,278000,151
+NZ,country,New Zealand,New Zealand,,NZ,NZL,554,,,4693000,161
+NI,country,Nicaragua,Republic of Nicaragua,,NI,NIC,558,,,6150000,155
+NE,country,Niger,Republic of the Niger,,NE,NER,562,,,20673000,152
+NG,country,Nigeria,Federal Republic of Nigeria,,NG,NGA,566,,,185990000,154
+NU,country,Niue,Niue,,NU,NIU,570,,,,156
+NF,country,Norfolk Island,Norfolk Island,,NF,NFK,574,,,,153
+KP,country,North Korea,Democratic People's Republic of Korea,"Korea, Dem. Rep., korea, north",KP,PRK,408,,,25490000,171
+MP,country,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,,MP,MNP,580,,,55000,141
+NO,country,Norway,Kingdom of Norway,,NO,NOR,578,,,5233000,158
+OM,country,Oman,Sultanate of Oman,,OM,OMN,512,,,2700000,162
+PK,country,Pakistan,Islamic Republic of Pakistan,,PK,PAK,586,,,193203000,163
+PW,country,Palau,Republic of Palau,,PW,PLW,585,,,22000,167
+PA,country,Panama,Republic of Panama,,PA,PAN,591,,,4034000,164
+PG,country,Papua New Guinea,Independent State of Papua New Guinea,,PG,PNG,598,,,8085000,168
+PY,country,Paraguay,Republic of Paraguay,,PY,PRY,600,,,6725000,173
+PE,country,Peru,Republic of Peru,,PE,PER,604,,,31774000,165
+PH,country,Philippines,Republic of the Philippines,,PH,PHL,608,,,103320000,166
+PL,country,Poland,Republic of Poland,,PL,POL,616,,,37948000,169
+PT,country,Portugal,Portuguese Republic,,PT,PRT,620,,,10325000,172
+PR,country,Puerto Rico,Puerto Rico,,PR,PRI,630,,,3411000,170
+QA,country,Qatar,State of Qatar,,QA,QAT,634,,,1600000,175
+CG,country,Republic of the Congo,Republic of the Congo,"Congo, Rep., congo (brazzaville)",CG,COG,178,,,5126000,43
+RE,country,Reunion,R’©union,,RE,REU,638,,,859959,176
+RO,country,Romania,Romania,,RO,ROU,642,,,19705000,177
+RU,country,Russia,Russian Federation,Russian Federation,RU,RUS,643,,,146745000,178
+RW,country,Rwanda,Rwandese Republic,,RW,RWA,646,,,11918000,179
+WS,country,Samoa,Independent State of Samoa,,WS,WSM,882,,,195000,227
+SA,country,Saudi Arabia,Kingdom of Saudi Arabia,,SA,SAU,682,,,27100000,180
+SN,country,Senegal,Republic of Senegal,,SN,SEN,686,,,15412000,182
+RS,country,Serbia,Republic of Serbia,,RS,SRB,688,,,7057000,190
+SC,country,Seychelles,Republic of Seychelles,,SC,SYC,690,,,95000,199
+,country,Sí£o Tomí© and Principe,,,,STP,,,,200000,192
+SL,country,Sierra Leone,Republic of Sierra Leone,,SL,SLE,694,,,7396000,186
+SG,country,Singapore,Republic of Singapore,,SG,SGP,702,,,5607000,183
+SK,country,Slovak Republic,Slovak Republic,slovakia,SK,SVK,703,,,5429000,194
+SI,country,Slovenia,Republic of Slovenia,,SI,SVN,705,,,2065000,195
+SB,country,Solomon Islands,Solomon Islands,,SB,SLB,90,,,599000,185
+SO,country,Somalia,Federal Republic of Somalia,,SO,SOM,706,,,14318000,188
+ZA,country,South Africa,Republic of South Africa,,ZA,ZAF,710,,,55909000,229
+KR,country,South Korea,"Korea, Republic of","Korea, Rep., korea, south",KR,KOR,410,,,51246000,115
+SS,country,South Sudan,Republic of South Sudan,,SS,SSD,728,,,12580000,191
+ES,country,Spain,Kingdom of Spain,,ES,ESP,724,,,46444000,65
+LK,country,Sri Lanka,Democratic Socialist Republic of Sri Lanka,,LK,LKA,144,,,21203000,123
+BL,country,St-Barthí©lemy,Saint Barth’©lemy,saint barthelemy,BL,BLM,652,,,,24
+KN,country,St. Kitts and Nevis,Saint Kitts and Nevis,,KN,,659,,,55000,114
+LC,country,St. Lucia,Saint Lucia,,LC,,662,,,178000,122
+MF,country,St. Maarten,Saint Martin (French part),,MF,,663,,,,198
+PM,country,St. Pierre and Miquelon,Saint Pierre and Miquelon,,PM,,666,,,,189
+VC,country,St. Vincent and Grenadines,Saint Vincent and the Grenadines,,VC,,670,,,,220
+SD,country,Sudan,Republic of the Sudan,,SD,SDN,729,,,39579000,181
+SR,country,Suriname,Republic of Suriname,,SR,SUR,740,,,558000,193
+SJ,country,Svalbard Islands,Svalbard and Jan Mayen,,SJ,,744,,,2000,184
 ,country,Swaziland,,,,SWZ,,,,1343000,197
-,country,Sweden,Kingdom of Sweden,,SE,SWE,752,,,9903000,196
-,country,Switzerland,Swiss Confederation,,CH,CHE,756,,,8372000,37
-,country,Syria,Syrian Arab Republic,,SY,SYR,760,,,23700000,200
-,country,SÌ£o TomÌ© and Principe,,,,STP,,,,200000,192
-,country,Taiwan,"Taiwan, Province of China",taiwan*,TW,TWN,158,,,23604000,213
-,country,Tajikistan,Republic of Tajikistan,,TJ,TJK,762,,,8735000,205
-,country,Tanzania,United Republic of Tanzania,,TZ,TZA,834,,,55572000,214
-,country,Thailand,Kingdom of Thailand,,TH,THA,764,,,68864000,204
-,country,Timor-Leste,Democratic Republic of Timor-Leste,,TL,TLS,626,,,290691,207
-,country,Togo,Togolese Republic,,TG,TGO,768,,,7606000,203
-,country,Tonga,Kingdom of Tonga,,TO,TON,776,,,107000,208
-,country,Trinidad and Tobago,Republic of Trinidad and Tobago,,TT,TTO,780,,,1365000,209
-,country,Tunisia,Republic of Tunisia,,TN,TUN,788,,,11403000,210
-,country,Turkey,Republic of Turkey,,TR,TUR,792,,,73700000,211
-,country,Turkmenistan,Turkmenistan,,TM,TKM,795,,,5663000,206
-,country,Turks and Caicos Islands,Turks and Caicos Islands,,TC,TCA,796,,,35000,201
-,country,Tuvalu,Tuvalu,,TV,TUV,798,,,11000,212
-,country,Uganda,Republic of Uganda,,UG,UGA,800,,,41488000,215
-,country,Ukraine,Ukraine,,UA,UKR,804,,,45005000,216
-,country,United Arab Emirates,United Arab Emirates,,AE,ARE,784,,,9400000,6
-,country,United Kingdom,United Kingdom of Great Britain and Northern Ireland,"united kingdon, uk",GB,GBR,826,,,66440000,75
-,country,United States,United States of America,"United States of America, us",US,USA,840,,,328239000,218
-,country,Uruguay,Eastern Republic of Uruguay,,UY,URY,858,,,3444000,217
-,country,Uzbekistan,Republic of Uzbekistan,,UZ,UZB,860,,,31848000,219
-,country,Vanuatu,Republic of Vanuatu,,VU,VUT,548,,,270000,225
-,country,Venezuela,Bolivarian Republic of Venezuela,,VE,VEN,862,,,31980000,221
-,country,Viet Nam,Socialist Republic of Viet Nam,Vietnam,VN,VNM,704,,,92701000,224
-,country,Virgin Islands (U.S.),Virgin Islands of the United States,"virgin islands, u.s.",VI,VIR,850,,,103000,223
-,country,Wallis and Futuna Islands,Wallis and Futuna,,WF,,876,,,,226
-,country,Yemen,Republic of Yemen,,YE,YEM,887,,,23500000,228
-,country,Zambia,Republic of Zambia,,ZM,ZMB,894,,,16591000,230
-,country,Zimbabwe,Republic of Zimbabwe,,ZW,ZWE,716,,,16149999,231
+SE,country,Sweden,Kingdom of Sweden,,SE,SWE,752,,,9903000,196
+CH,country,Switzerland,Swiss Confederation,,CH,CHE,756,,,8372000,37
+SY,country,Syria,Syrian Arab Republic,,SY,SYR,760,,,23700000,200
+TW,country,Taiwan,"Taiwan, Province of China",taiwan*,TW,TWN,158,,,23604000,213
+TJ,country,Tajikistan,Republic of Tajikistan,,TJ,TJK,762,,,8735000,205
+TZ,country,Tanzania,United Republic of Tanzania,,TZ,TZA,834,,,55572000,214
+TH,country,Thailand,Kingdom of Thailand,,TH,THA,764,,,68864000,204
+TL,country,Timor-Leste,Democratic Republic of Timor-Leste,,TL,TLS,626,,,290691,207
+TG,country,Togo,Togolese Republic,,TG,TGO,768,,,7606000,203
+TO,country,Tonga,Kingdom of Tonga,,TO,TON,776,,,107000,208
+TT,country,Trinidad and Tobago,Republic of Trinidad and Tobago,,TT,TTO,780,,,1365000,209
+TN,country,Tunisia,Republic of Tunisia,,TN,TUN,788,,,11403000,210
+TR,country,Turkey,Republic of Turkey,,TR,TUR,792,,,73700000,211
+TM,country,Turkmenistan,Turkmenistan,,TM,TKM,795,,,5663000,206
+TC,country,Turks and Caicos Islands,Turks and Caicos Islands,,TC,TCA,796,,,35000,201
+TV,country,Tuvalu,Tuvalu,,TV,TUV,798,,,11000,212
+UG,country,Uganda,Republic of Uganda,,UG,UGA,800,,,41488000,215
+UA,country,Ukraine,Ukraine,,UA,UKR,804,,,45005000,216
+AE,country,United Arab Emirates,United Arab Emirates,,AE,ARE,784,,,9400000,6
+GB,country,United Kingdom,United Kingdom of Great Britain and Northern Ireland,"united kingdon, uk",GB,GBR,826,,,66440000,75
+US,country,United States,United States of America,"United States of America, us",US,USA,840,,,328239000,218
+UY,country,Uruguay,Eastern Republic of Uruguay,,UY,URY,858,,,3444000,217
+UZ,country,Uzbekistan,Republic of Uzbekistan,,UZ,UZB,860,,,31848000,219
+VU,country,Vanuatu,Republic of Vanuatu,,VU,VUT,548,,,270000,225
+VE,country,Venezuela,Bolivarian Republic of Venezuela,,VE,VEN,862,,,31980000,221
+VN,country,Viet Nam,Socialist Republic of Viet Nam,Vietnam,VN,VNM,704,,,92701000,224
+VI,country,Virgin Islands (U.S.),Virgin Islands of the United States,"virgin islands, u.s.",VI,VIR,850,,,103000,223
+WF,country,Wallis and Futuna Islands,Wallis and Futuna,,WF,,876,,,,226
+YE,country,Yemen,Republic of Yemen,,YE,YEM,887,,,23500000,228
+ZM,country,Zambia,Republic of Zambia,,ZM,ZMB,894,,,16591000,230
+ZW,country,Zimbabwe,Republic of Zimbabwe,,ZW,ZWE,716,,,16149999,231
 ,region,european union,,eu,,,,,,512000000,
 ,region,middle east,,,,,,,,371000000,
-,state,Hong kong region,,Hong Kong,,CHN,,,,7482000,
-,state,alabama,,,,USA,,,,4889000,
-,state,alaska,,,,USA,,,,738000,
-,state,alberta,,,,CAN,,,,4370000,
-,state,anhui,,,,CHN,,,,62000000,
-,state,arizona,,,,USA,,,,6392000,
-,state,arkansas,,,,USA,,,,3020000,
-,state,australian capital territory,,federal capital territory,,AUS,,,,418000,
-,state,beijing,,,,CHN,,,,21540000,
-,state,british columbia,,,,CAN,,,,4648000,
-,state,california,,,,USA,,,,39512000,
-,state,chongqing,,,,CHN,,,,30480000,
-,state,colorado,,,,USA,,,,5684000,
-,state,connecticut,,,,USA,,,,3589000,
-,state,delaware,,,,USA,,,,971000,
-,state,district of columbia,,"washington, d.c.",,USA,,,,704000,
-,state,florida,,,,USA,,,,21312000,
-,state,fujian,,,,CHN,,,,38565000,
-,state,gansu,,,,CHN,,,,25575000,
-,state,"georgia, US",,,,USA,,,,10545000,
-,state,guangdong,,,,CHN,,,,113460000,
-,state,guangxi,,,,CHN,,,,48380000,
-,state,guizhou,,,,CHN,,,,34746000,
-,state,hainan,,,,CHN,,,,9258000,
-,state,hawaii,,,,USA,,,,1426000,
-,state,hebei,,,,CHN,,,,74700000,
-,state,heilongjiang,,,,CHN,,,,38312000,
-,state,henan,,,,CHN,,,,95324000,
-,state,hubei,,,,CHN,,,,58500000,
-,state,hunan,,,,CHN,,,,67370000,
-,state,idaho,,,,USA,,,,1754000,
-,state,illinois,,,,USA,,,,12419000,
-,state,indiana,,,,USA,,,,6700000,
-,state,inner mongolia,,,,CHN,,,,24706000,
-,state,iowa,,,,USA,,,,3161000,
-,state,jiangsu,,,,CHN,,,,80400000,
-,state,jiangxi,,,,CHN,,,,45200000,
-,state,jilin,,,,CHN,,,,27462000,
-,state,kansas,,,,USA,,,,2919000,
-,state,kentucky,,,,USA,,,,4472000,
-,state,liaoning,,,,CHN,,,,43900000,
-,state,louisiana,,,,USA,,,,4683000,
-,state,macao,,macau,,CHN,,,,622000,
-,state,maine,,,,USA,,,,1342000,
-,state,manitoba,,,,CAN,,,,1369000,
-,state,maryland,,,,USA,,,,6080000,
-,state,massachusetts,,,,USA,,,,6896000,
-,state,michigan,,,,USA,,,,9991000,
-,state,minnesota,,,,USA,,,,5628000,
-,state,mississippi,,,,USA,,,,2983000,
-,state,missouri,,,,USA,,,,6136000,
-,state,montana,,,,USA,,,,1062000,
-,state,nebraska,,,,USA,,,,1933000,
-,state,nevada,,,,USA,,,,3057000,
-,state,new brunswick,,,,CAN,,,,776000,
-,state,new hampshire,,,,USA,,,,1351000,
-,state,new jersey,,,,USA,,,,9033000,
-,state,new mexico,,,,USA,,,,2091000,
-,state,new south wales,,,,AUS,,,,8090000,
-,state,new york,,,,USA,,,,19540000,
-,state,newfoundland and labrador,,,,CAN,,,,521000,
-,state,ningxia,,,,CHN,,,,6301000,
-,state,north carolina,,,,USA,,,,10390000,
-,state,north dakota,,,,USA,,,,755000,
-,state,northern territory,,,,AUS,,,,246000,
-,state,northwest territories,,,,CAN,,,,44000,
-,state,nova scotia,,,,CAN,,,,971000,
-,state,nunavut,,,,CAN,,,,38000,
-,state,ohio,,,,USA,,,,11695000,
-,state,oklahoma,,,,USA,,,,3941000,
-,state,ontario,,,,CAN,,,,13448000,
-,state,oregon,,,,USA,,,,4200000,
-,state,pennsylvania,,,,USA,,,,12824000,
-,state,prince edward island,,,,CAN,,,,156000,
-,state,qinghai,,,,CHN,,,,5627000,
-,state,quebec,,,,CAN,,,,8485000,
-,state,queensland,,,,AUS,,,,5095000,
-,state,rhode island,,,,USA,,,,1062000,
-,state,saskatchewan,,,,CAN,,,,1174000,
-,state,shaanxi,,,,CHN,,,,37327000,
-,state,shandong,,,,CHN,,,,100472000,
-,state,shanghai,,,,CHN,,,,24240000,
-,state,shanxi,,,,CHN,,,,36500000,
-,state,sichuan,,,,CHN,,,,81100000,
-,state,south australia,,,,AUS,,,,1752000,
-,state,south carolina,,,,USA,,,,5089000,
-,state,south dakota,,,,USA,,,,878000,
-,state,tasmania,,,,AUS,,,,534000,
-,state,tennessee,,,,USA,,,,6783000,
-,state,texas,,,,USA,,,,28704000,
-,state,tianjin,,,,CHN,,,,15621000,
-,state,tibet,,,,CHN,,,,3180000,
-,state,utah,,,,USA,,,,3159000,
-,state,vermont,,,,USA,,,,624000,
-,state,victoria,,,,AUS,,,,6595000,
-,state,virginia,,,,USA,,,,8526000,
-,state,washington,,,,USA,,,,7536000,
-,state,west virginia,,,,USA,,,,1803000,
-,state,western australia,,,,AUS,,,,2622000,
-,state,wisconsin,,,,USA,,,,5818000,
-,state,wyoming,,,,USA,,,,574000,
-,state,xinjiang,,,,CHN,,,,23600000,
-,state,yukon,,,,CAN,,,,35000,
-,state,yunnan,,,,CHN,,,,45966000,
-,state,zhejiang,,,,CHN,,,,57370000,
+US-AL,state,alabama,,,,USA,,,,4889000,
+US-AK,state,alaska,,,,USA,,,,738000,
+CA-AB,state,alberta,,,,CAN,,,,4370000,
+CN-AH,state,anhui,,,,CHN,,,,62000000,
+US-AZ,state,arizona,,,,USA,,,,6392000,
+US-AR,state,arkansas,,,,USA,,,,3020000,
+AU-ACT,state,australian capital territory,,federal capital territory,,AUS,,,,418000,
+CN-BJ,state,beijing,,,,CHN,,,,21540000,
+CA-BC,state,british columbia,,,,CAN,,,,4648000,
+US-CA,state,california,,,,USA,,,,39512000,
+CN-CQ,state,chongqing,,,,CHN,,,,30480000,
+US-CO,state,colorado,,,,USA,,,,5684000,
+US-CT,state,connecticut,,,,USA,,,,3589000,
+US-DE,state,delaware,,,,USA,,,,971000,
+US-DC,state,district of columbia,,"washington, d.c.",,USA,,,,704000,
+US-FL,state,florida,,,,USA,,,,21312000,
+CN-FJ,state,fujian,,,,CHN,,,,38565000,
+CN-GS,state,gansu,,,,CHN,,,,25575000,
+US-GA,state,"georgia, US",,,,USA,,,,10545000,
+CN-GD,state,guangdong,,,,CHN,,,,113460000,
+CN-GX,state,guangxi,,,,CHN,,,,48380000,
+CN-GZ,state,guizhou,,,,CHN,,,,34746000,
+CN-HI,state,hainan,,,,CHN,,,,9258000,
+US-HI,state,hawaii,,,,USA,,,,1426000,
+CN-HE,state,hebei,,,,CHN,,,,74700000,
+CN-HL,state,heilongjiang,,,,CHN,,,,38312000,
+CN-HA,state,henan,,,,CHN,,,,95324000,
+CN-HK,state,Hong kong region,,Hong Kong,,CHN,,,,7482000,
+CN-HB,state,hubei,,,,CHN,,,,58500000,
+CN-HN,state,hunan,,,,CHN,,,,67370000,
+US-ID,state,idaho,,,,USA,,,,1754000,
+US-IL,state,illinois,,,,USA,,,,12419000,
+US-IN,state,indiana,,,,USA,,,,6700000,
+CN-NM,state,inner mongolia,,,,CHN,,,,24706000,
+US-IA,state,iowa,,,,USA,,,,3161000,
+CN-JS,state,jiangsu,,,,CHN,,,,80400000,
+CN-JX,state,jiangxi,,,,CHN,,,,45200000,
+CN-JL,state,jilin,,,,CHN,,,,27462000,
+US-KS,state,kansas,,,,USA,,,,2919000,
+US-KY,state,kentucky,,,,USA,,,,4472000,
+CN-LN,state,liaoning,,,,CHN,,,,43900000,
+US-LA,state,louisiana,,,,USA,,,,4683000,
+CN-MO,state,macao,,macau,,CHN,,,,622000,
+US-ME,state,maine,,,,USA,,,,1342000,
+CA-MB,state,manitoba,,,,CAN,,,,1369000,
+US-MD,state,maryland,,,,USA,,,,6080000,
+US-MA,state,massachusetts,,,,USA,,,,6896000,
+US-MI,state,michigan,,,,USA,,,,9991000,
+US-MN,state,minnesota,,,,USA,,,,5628000,
+US-MS,state,mississippi,,,,USA,,,,2983000,
+US-MO,state,missouri,,,,USA,,,,6136000,
+US-MT,state,montana,,,,USA,,,,1062000,
+US-NE,state,nebraska,,,,USA,,,,1933000,
+US-NV,state,nevada,,,,USA,,,,3057000,
+CA-NB,state,new brunswick,,,,CAN,,,,776000,
+US-NH,state,new hampshire,,,,USA,,,,1351000,
+US-NJ,state,new jersey,,,,USA,,,,9033000,
+US-NM,state,new mexico,,,,USA,,,,2091000,
+AU-NSW,state,new south wales,,,,AUS,,,,8090000,
+US-NY,state,new york,,,,USA,,,,19540000,
+CA-NL,state,newfoundland and labrador,,,,CAN,,,,521000,
+CN-MO,state,ningxia,,,,CHN,,,,6301000,
+US-NC,state,north carolina,,,,USA,,,,10390000,
+US-ND,state,north dakota,,,,USA,,,,755000,
+AU-NT,state,northern territory,,,,AUS,,,,246000,
+CA-NS,state,northwest territories,,,,CAN,,,,44000,
+CA-NT,state,nova scotia,,,,CAN,,,,971000,
+CA-NU,state,nunavut,,,,CAN,,,,38000,
+US-OH,state,ohio,,,,USA,,,,11695000,
+US-OK,state,oklahoma,,,,USA,,,,3941000,
+CA-ON,state,ontario,,,,CAN,,,,13448000,
+US-OR,state,oregon,,,,USA,,,,4200000,
+US-PA,state,pennsylvania,,,,USA,,,,12824000,
+CA-PE,state,prince edward island,,,,CAN,,,,156000,
+CN-QH,state,qinghai,,,,CHN,,,,5627000,
+CA-QC,state,quebec,,,,CAN,,,,8485000,
+AU-QLD,state,queensland,,,,AUS,,,,5095000,
+US-RI,state,rhode island,,,,USA,,,,1062000,
+CA-SK,state,saskatchewan,,,,CAN,,,,1174000,
+CN-SN,state,shaanxi,,,,CHN,,,,37327000,
+CN-SD,state,shandong,,,,CHN,,,,100472000,
+CN-SH,state,shanghai,,,,CHN,,,,24240000,
+CN-SX,state,shanxi,,,,CHN,,,,36500000,
+CN-SC,state,sichuan,,,,CHN,,,,81100000,
+AU-SA,state,south australia,,,,AUS,,,,1752000,
+US-SC,state,south carolina,,,,USA,,,,5089000,
+US-SD,state,south dakota,,,,USA,,,,878000,
+AU-TAS,state,tasmania,,,,AUS,,,,534000,
+US-TN,state,tennessee,,,,USA,,,,6783000,
+US-TX,state,texas,,,,USA,,,,28704000,
+CN-TJ,state,tianjin,,,,CHN,,,,15621000,
+CN-XZ,state,tibet,,,,CHN,,,,3180000,
+US-UT,state,utah,,,,USA,,,,3159000,
+US-VT,state,vermont,,,,USA,,,,624000,
+AU-VIC,state,victoria,,,,AUS,,,,6595000,
+US-VA,state,virginia,,,,USA,,,,8526000,
+US-WA,state,washington,,,,USA,,,,7536000,
+US-WV,state,west virginia,,,,USA,,,,1803000,
+AU-WA,state,western australia,,,,AUS,,,,2622000,
+US-WI,state,wisconsin,,,,USA,,,,5818000,
+US-WY,state,wyoming,,,,USA,,,,574000,
+CN-XJ,state,xinjiang,,,,CHN,,,,23600000,
+CA-YT,state,yukon,,,,CAN,,,,35000,
+CN-YN,state,yunnan,,,,CHN,,,,45966000,
+CN-ZJ,state,zhejiang,,,,CHN,,,,57370000,
 ,world,world,,earth,,,,,,7713000000,

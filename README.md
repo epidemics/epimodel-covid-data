@@ -24,6 +24,11 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
     `CaseFatalityRate` fraction of COVID-19 infected that would die (IFR or infection fatality rate in the paper)
 * `verity_et_al_rates.csv` - Various rates from doi:10.1101/2020.03.09.20033357
 * `age_dist_un.csv` - UN Age distribution for various regions, estimated absolute numbers from https://population.un.org/wpp/
+* `estimated-infectious.csv` - The historical estimations done during the testing. (Countries sorted by ISO aplha-2 code)
+* `hospital-capacity.csv` - The capacity of hospital beds counted per 100k citizens with capacity of new infectionus per
+  day per 1000 citizens. Year and source URL attached. (Countries sorted by aplha-2 code)
+* `max_percentage_of_infected_population_for_enough_icu.csv` - The maximal percentage of the infected the infected
+  population for enaugh ICU beds. 
 
 
 ## EpidemicForecasting.org countermeasure DB

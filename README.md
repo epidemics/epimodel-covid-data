@@ -10,9 +10,12 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 
 ## Common data
 
+* `regions.csv` - Common region set used by epimodel
+* `regions-gleam.csv` - Additional regions with the GLEAM basins (only useful for GLEAM) (Skipped: country Norther Cyprus with city Ercan, country Kosovo with city Pristina) (Note: the populations may be missing or wrong, esp. for small regions!)
+
 ### Updated
 
-* `regions.csv` - Common region set used by epimodel
+* `foretold.csv` - Infected estimates from Foretold predictions
 * `johns-hopkins.csv` - John hopkins data, recoded from CSSE github
 
 ### Static (or seldom updated)
@@ -28,7 +31,7 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 
 ## EpidemicForecasting.org countermeasure DB
 
-### Direct conversion from notion.se CSVs
+### Direct conversion from notion.se CSVs, updated
 
 * `countermeasures-features.csv` - 24 selected features
 * `countermeasures-model-0to1.csv` - 9 gradual featureg (pre-processed, early selection for modeling)

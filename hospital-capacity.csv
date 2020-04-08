@@ -1,4 +1,4 @@
-Country,CriticalBedsPer100k,CapacityActiveInfectionPercent,CapacityNewInfectionsPerDayPer1000,Year,Source
+Code,CriticalBedsPer100k,CapacityActiveInfectionPercent,CapacityNewInfectionsPerDayPer1000,Year,Source
 AD,7.1,0.1136,0.081142857143,2012,https://link.springer.com/article/10.1007/s00134-012-2627-8
 AT,21.8,0.3488,0.249142857143,2012,https://link.springer.com/article/10.1007/s00134-012-2627-8
 BD,0.7,0.0112,0.008,2015,https://www.researchgate.net/publication/338520008_Critical_Care_Bed_Capacity_in_Asian_Countries_and_Regions

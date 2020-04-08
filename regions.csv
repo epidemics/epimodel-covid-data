@@ -1,4 +1,12 @@
-Code,Level,Name,OfficialName,OtherNames,ContinentCode,SubregionCode,CountryCode,CountryCodeISOa3,M49Code,Lat,Lon,Population
+Code,Level,Name,OfficialName,OtherNames,ContinentCode,SubregionCode,CountryCode,CountryCodeISOa3,M49Code,Lat,Lon,Population,GleamID
+W,world,World,The World,Earth|The Earth,,,,,001,,,7576600514,-1
+W-AF,continent,Africa,,,,,,,002,,,1216130000,0
+W-AN,continent,Antarctica,,,,,,,010,,,1106,-1
+W-AS,continent,Asia,,,,,,,142,,,4581757408,1
+W-EU,continent,Europe,,,,,,,150,,,738849000,2
+W-NA,continent,North america,,,,,,,003,,,579024000,3
+W-OC,continent,Oceania,,,,,,,009,,,38304000,4
+W-SA,continent,South america,,,,,,,005,,,422535000,5
 AW,country,Aruba,Aruba,,,,AW,ABW,533,,,
 AF,country,Afghanistan,Islamic Republic of Afghanistan,,,,AF,AFG,004,,,
 AO,country,Angola,Republic of Angola,,,,AO,AGO,024,,,

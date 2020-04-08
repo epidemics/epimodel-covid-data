@@ -1,0 +1,3252 @@
+Code,Name,OfficialName,OtherNames,Level,M49Code,ContinentCode,SubregionCode,CountryCode,CountryCodeISOa3,SubdivisionCode,Lat,Lon,Population,GleamID
+G-AAA,Anaa,,,gleam_basin,,W-OC,,PF,PYF,,,,,710
+G-AAB,Arrabury,,,gleam_basin,,W-OC,,AU,AUS,,,,,1668
+G-AAC,El Arish,,,gleam_basin,,W-AF,,EG,EGY,,,,,59
+G-AAE,Annaba,,,gleam_basin,,W-AF,,DZ,DZA,,,,,45
+G-AAL,Aalborg,,,gleam_basin,,W-EU,,DK,DNK,,,,,1565
+G-AAN,Al Ain,,,gleam_basin,,W-AS,,AE,ARE,,,,,3180
+G-AAQ,Anapa,,,gleam_basin,,W-EU,,RU,RUS,,,,,1913
+G-AAR,Aarhus,,,gleam_basin,,W-EU,,DK,DNK,,,,,1566
+G-AAT,Altay,,,gleam_basin,,W-AS,,CN,CHN,,,,,459
+G-AAX,Araxa,,,gleam_basin,,W-SA,,BR,BRA,,,,,2023
+G-AAY,Al Ghaydah,,,gleam_basin,,W-AS,,YE,YEM,,,,,587
+G-ABA,Abakan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1901
+G-ABB,Asaba,,,gleam_basin,,W-AF,,NG,NGA,,,,,1425
+G-ABD,Abadan,,,gleam_basin,,W-AS,,IR,IRN,,,,,2962
+G-ABE,Lehigh Valley,,,gleam_basin,,W-NA,,US,USA,,,,,2415
+G-ABI,Abilene,,,gleam_basin,,W-NA,,US,USA,,,,,2416
+G-ABJ,Abidjan,,,gleam_basin,,W-AF,,CI,CIV,,,,,2050
+G-ABK,Kebri Dehar,,,gleam_basin,,W-AF,,ET,ETH,,,,,240
+G-ABL,Ambler,,,gleam_basin,,W-NA,,US,USA,,,,,2486
+G-ABQ,Albuquerque,,,gleam_basin,,W-NA,,US,USA,,,,,2417
+G-ABR,Aberdeen (US),,,gleam_basin,,W-NA,,US,USA,,,,,2418
+G-ABS,Abu Simbel,,,gleam_basin,,W-AF,,EG,EGY,,,,,57
+G-ABT,Al Baha,,,gleam_basin,,W-AS,,SA,SAU,,,,,263
+G-ABU,Atambua,,,gleam_basin,,W-AS,,ID,IDN,,,,,1297
+G-ABV,Abuja,,,gleam_basin,,W-AF,,NG,NGA,,,,,1426
+G-ABX,Albury,,,gleam_basin,,W-OC,,AU,AUS,,,,,1660
+G-ABY,Albany (US-GA),,,gleam_basin,,W-NA,,US,USA,,,,,2419
+G-ABZ,Aberdeen (UK),,,gleam_basin,,W-EU,,GB,GBR,,,,,785
+G-ACA,Acapulco,,,gleam_basin,,W-NA,,MX,MEX,,,,,1021
+G-ACC,Accra,,,gleam_basin,,W-AF,,GH,GHA,,,,,103
+G-ACE,Lanzarote,,,gleam_basin,,W-EU,,ES,ESP,,,,,2902
+G-ACH,Altenrhein,,,gleam_basin,,W-EU,,CH,CHE,,,,,278
+G-ACP,Maragheh,,,gleam_basin,,W-AS,,IR,IRN,,,,,2959
+G-ACR,Araracuara,,,gleam_basin,,W-SA,,CO,COL,,,,,1391
+G-ACT,Waco,,,gleam_basin,,W-NA,,US,USA,,,,,2370
+G-ACU,Achutupo,,,gleam_basin,,W-NA,,PA,PAN,,,,,3008
+G-ACV,Arcata,,,gleam_basin,,W-NA,,US,USA,,,,,2369
+G-ACX,Xingyi,,,gleam_basin,,W-AS,,CN,CHN,,,,,437
+G-ACY,Atlantic City,,,gleam_basin,,W-NA,,US,USA,,,,,2371
+G-ACZ,Zabol,,,gleam_basin,,W-AS,,IR,IRN,,,,,2960
+G-ADA,Adana,,,gleam_basin,,W-AS,,TR,TUR,,,,,1759
+G-ADB,Izmir,,,gleam_basin,,W-AS,,TR,TUR,,,,,1746
+G-ADD,Addis Ababa,,,gleam_basin,,W-AF,,ET,ETH,,,,,228
+G-ADE,Aden,,,gleam_basin,,W-AS,,YE,YEM,,,,,579
+G-ADF,Adiyaman,,,gleam_basin,,W-AS,,TR,TUR,,,,,1745
+G-ADH,Aldan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1819
+G-ADK,Adak Island,,,gleam_basin,,W-NA,,US,USA,,,,,2150
+G-ADL,Adelaide,,,gleam_basin,,W-OC,,AU,AUS,,,,,1595
+G-ADQ,Kodiak,,,gleam_basin,,W-NA,,US,USA,,,,,2483
+G-ADU,Ardabil,,,gleam_basin,,W-AS,,IR,IRN,,,,,2935
+G-ADV,Addeain,,,gleam_basin,,W-AF,,SD,SDN,,,,,3012
+G-ADZ,San Andres Island,,,gleam_basin,,W-SA,,CO,COL,,,,,1369
+G-AEB,Baise,,,gleam_basin,,W-AS,,CN,CHN,,,,,331
+G-AEG,Aek Godang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1244
+G-AER,Sochi,,,gleam_basin,,W-EU,,RU,RUS,,,,,1910
+G-AES,Alesund,,,gleam_basin,,W-EU,,NO,NOR,,,,,1145
+G-AET,Allakaket,,,gleam_basin,,W-NA,,US,USA,,,,,2446
+G-AEX,Alexandria (US),,,gleam_basin,,W-NA,,US,USA,,,,,2114
+G-AEY,Akureyri,,,gleam_basin,,W-EU,,IS,ISL,,,,,1348
+G-AFA,San Rafael,,,gleam_basin,,W-SA,,AR,ARG,,,,,3183
+G-AFL,Alta Floresta,,,gleam_basin,,W-SA,,BR,BRA,,,,,1942
+G-AFS,Zarafshan,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2836
+G-AFZ,Sabzevar,,,gleam_basin,,W-AS,,IR,IRN,,,,,2930
+G-AGA,Agadir,,,gleam_basin,,W-AF,,MA,MAR,,,,,810
+G-AGB,Augsburg,,,gleam_basin,,W-EU,,DE,DEU,,,,,724
+G-AGF,Agen,,,gleam_basin,,W-EU,,FR,FRA,,,,,1489
+G-AGH,Angelholm,,,gleam_basin,,W-EU,,SE,SWE,,,,,2551
+G-AGP,Malaga,,,gleam_basin,,W-EU,,ES,ESP,,,,,2873
+G-AGR,Agra,,,gleam_basin,,W-AS,,IN,IND,,,,,1040
+G-AGS,Augusta (US-GA),,,gleam_basin,,W-NA,,US,USA,,,,,2055
+G-AGT,Ciudad del Este,,,gleam_basin,,W-SA,,PY,PRY,,,,,243
+G-AGU,Aguascalientes,,,gleam_basin,,W-NA,,MX,MEX,,,,,980
+G-AGX,Agatti Island,,,gleam_basin,,W-AS,,IN,IND,,,,,1039
+G-AHB,Abha,,,gleam_basin,,W-AS,,SA,SAU,,,,,259
+G-AHN,Athens (US),,,gleam_basin,,W-NA,,US,USA,,,,,2278
+G-AHO,Alghero,,,gleam_basin,,W-EU,,IT,ITA,,,,,3084
+G-AHU,Al Hoceima,,,gleam_basin,,W-AF,,MA,MAR,,,,,818
+G-AIA,Alliance,,,gleam_basin,,W-NA,,US,USA,,,,,2238
+G-AIN,Wainwright,,,gleam_basin,,W-NA,,US,USA,,,,,2292
+G-AIT,Aitutaki Island,,,gleam_basin,,W-OC,,CK,COK,,,,,1355
+G-AIU,Atiu Island,,,gleam_basin,,W-OC,,CK,COK,,,,,1357
+G-AJA,Ajaccio,,,gleam_basin,,W-EU,,FR,FRA,,,,,1499
+G-AJF,Jouf,,,gleam_basin,,W-AS,,SA,SAU,,,,,251
+G-AJI,Agri,,,gleam_basin,,W-AS,,TR,TUR,,,,,1756
+G-AJL,Aizawl,,,gleam_basin,,W-AS,,IN,IND,,,,,1072
+G-AJN,Anjouan,,,gleam_basin,,W-AF,,KM,COM,,,,,1359
+G-AJR,Arvidsjaur,,,gleam_basin,,W-EU,,SE,SWE,,,,,2550
+G-AJU,Aracaju,,,gleam_basin,,W-SA,,BR,BRA,,,,,1977
+G-AJY,Agadez,,,gleam_basin,,W-AF,,NE,NER,,,,,71
+G-AKB,Atka,,,gleam_basin,,W-NA,,US,USA,,,,,2178
+G-AKF,Kufra,,,gleam_basin,,W-AF,,LY,LBY,,,,,157
+G-AKJ,Asahikawa,,,gleam_basin,,W-AS,,JP,JPN,,,,,3111
+G-AKL,Auckland,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3046
+G-AKN,King Salmon,,,gleam_basin,,W-NA,,US,USA,,,,,2385
+G-AKP,Anaktuvuk Pass,,,gleam_basin,,W-NA,,US,USA,,,,,2177
+G-AKS,Auki,,,gleam_basin,,W-OC,,SB,SLB,,,,,3025
+G-AKU,Aksu,,,gleam_basin,,W-AS,,CN,CHN,,,,,351
+G-AKV,Akulivik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2627
+G-AKX,Aktobe,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,659
+G-AKY,Sittwe,,,gleam_basin,,W-AS,,MM,MMR,,,,,873
+G-ALA,Almaty,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,668
+G-ALB,Albany (US-NY),,,gleam_basin,,W-NA,,US,USA,,,,,2408
+G-ALC,Alicante,,,gleam_basin,,W-EU,,ES,ESP,,,,,2904
+G-ALF,Alta,,,gleam_basin,,W-EU,,NO,NOR,,,,,1164
+G-ALG,Algiers,,,gleam_basin,,W-AF,,DZ,DZA,,,,,43
+G-ALH,Albany,,,gleam_basin,,W-OC,,AU,AUS,,,,,1656
+G-ALO,Waterloo,,,gleam_basin,,W-NA,,US,USA,,,,,2407
+G-ALP,Aleppo,,,gleam_basin,,W-AS,,SY,SYR,,,,,652
+G-ALS,Alamosa,,,gleam_basin,,W-NA,,US,USA,,,,,2410
+G-ALW,Walla Walla,,,gleam_basin,,W-NA,,US,USA,,,,,2409
+G-AMA,Amarillo,,,gleam_basin,,W-NA,,US,USA,,,,,2368
+G-AMD,Ahmedabad,,,gleam_basin,,W-AS,,IN,IND,,,,,1101
+G-AMF,Ama,,,gleam_basin,,W-OC,,PG,PNG,,,,,2992
+G-AMH,Arba Minch,,,gleam_basin,,W-AF,,ET,ETH,,,,,237
+G-AMM,Amman,,,gleam_basin,,W-AS,,JO,JOR,,,,,151
+G-AMQ,Ambon,,,gleam_basin,,W-AS,,ID,IDN,,,,,1285
+G-AMS,Amsterdam,,,gleam_basin,,W-EU,,NL,NLD,,,,,837
+G-AMV,Amderma,,,gleam_basin,,W-EU,,RU,RUS,,,,,1889
+G-ANC,Anchorage,,,gleam_basin,,W-NA,,US,USA,,,,,2346
+G-ANE,Angers,,,gleam_basin,,W-EU,,FR,FRA,,,,,1533
+G-ANF,Antofagasta,,,gleam_basin,,W-SA,,CL,CHL,,,,,302
+G-ANI,Aniak,,,gleam_basin,,W-NA,,US,USA,,,,,2347
+G-ANM,Antalaha,,,gleam_basin,,W-AF,,MG,MDG,,,,,1453
+G-ANS,Andahuaylas,,,gleam_basin,,W-SA,,PE,PER,,,,,1225
+G-ANU,Antigua,,,gleam_basin,,W-NA,,AG,ATG,,,,,1180
+G-ANX,Andenes,,,gleam_basin,,W-EU,,NO,NOR,,,,,1160
+G-AOE,Eskisehir,,,gleam_basin,,W-AS,,TR,TUR,,,,,1767
+G-AOG,Anshan,,,gleam_basin,,W-AS,,CN,CHN,,,,,406
+G-AOI,Ancona,,,gleam_basin,,W-EU,,IT,ITA,,,,,3089
+G-AOJ,Aomori,,,gleam_basin,,W-AS,,JP,JPN,,,,,3128
+G-AOK,Karpathos,,,gleam_basin,,W-EU,,GR,GRC,,,,,922
+G-AOR,Alor Setar,,,gleam_basin,,W-AS,,MY,MYS,,,,,180
+G-APL,Nampula,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,963
+G-APN,Alpena,,,gleam_basin,,W-NA,,US,USA,,,,,2080
+G-APO,Apartado,,,gleam_basin,,W-SA,,CO,COL,,,,,1363
+G-APW,Apia,,,gleam_basin,,W-OC,,WS,WSM,,,,,1739
+G-AQA,Araraquara,,,gleam_basin,,W-SA,,BR,BRA,,,,,2048
+G-AQG,Anqing,,,gleam_basin,,W-AS,,CN,CHN,,,,,471
+G-AQI,Qaisumah,,,gleam_basin,,W-AS,,SA,SAU,,,,,268
+G-AQJ,Aqaba,,,gleam_basin,,W-AS,,JO,JOR,,,,,152
+G-AQP,Arequipa,,,gleam_basin,,W-SA,,PE,PER,,,,,1231
+G-ARC,Arctic Village,,,gleam_basin,,W-NA,,US,USA,,,,,2505
+G-ARH,Arkhangelsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1921
+G-ARI,Arica,,,gleam_basin,,W-SA,,CL,CHL,,,,,308
+G-ARK,Arusha,,,gleam_basin,,W-AF,,TZ,TZA,,,,,215
+G-ARM,Armidale,,,gleam_basin,,W-OC,,AU,AUS,,,,,1680
+G-ARN,Stockholm,,,gleam_basin,,W-EU,,SE,SWE,,,,,2571
+G-ART,Watertown (US-NY),,,gleam_basin,,W-NA,,US,USA,,,,,2504
+G-ARU,Aracatuba,,,gleam_basin,,W-SA,,BR,BRA,,,,,2037
+G-ASB,Ashgabat,,,gleam_basin,,W-AS,,TM,TKM,,,,,833
+G-ASE,Aspen,,,gleam_basin,,W-NA,,US,USA,,,,,2447
+G-ASF,Astrakhan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1911
+G-ASJ,Amami,,,gleam_basin,,W-AS,,JP,JPN,,,,,3149
+G-ASM,Asmara,,,gleam_basin,,W-AF,,ER,ERI,,,,,2848
+G-ASO,Asosa,,,gleam_basin,,W-AF,,ET,ETH,,,,,241
+G-ASP,Alice Springs,,,gleam_basin,,W-OC,,AU,AUS,,,,,1579
+G-ASR,Kayseri,,,gleam_basin,,W-AS,,TR,TUR,,,,,1779
+G-ASU,Asuncion,,,gleam_basin,,W-SA,,PY,PRY,,,,,244
+G-ASV,Amboseli,,,gleam_basin,,W-AF,,KE,KEN,,,,,1734
+G-ASW,Aswan,,,gleam_basin,,W-AF,,EG,EGY,,,,,58
+G-ATA,Anta,,,gleam_basin,,W-SA,,PE,PER,,,,,1218
+G-ATH,Athens (GR),,,gleam_basin,,W-EU,,GR,GRC,,,,,915
+G-ATK,Atqasuk,,,gleam_basin,,W-NA,,US,USA,,,,,2205
+G-ATL,Atlanta,,,gleam_basin,,W-NA,,US,USA,,,,,2204
+G-ATM,Altamira,,,gleam_basin,,W-SA,,BR,BRA,,,,,1970
+G-ATQ,Amritsar,,,gleam_basin,,W-AS,,IN,IND,,,,,1068
+G-ATY,Watertown (US-SD),,,gleam_basin,,W-NA,,US,USA,,,,,2208
+G-ATZ,Asyut,,,gleam_basin,,W-AF,,EG,EGY,,,,,54
+G-AUA,Aruba,,,gleam_basin,,W-NA,,AW,ABW,,,,,2973
+G-AUC,Arauca,,,gleam_basin,,W-SA,,CO,COL,,,,,1371
+G-AUG,Augusta (US-ME),,,gleam_basin,,W-NA,,US,USA,,,,,2180
+G-AUH,Abu Dhabi,,,gleam_basin,,W-AS,,AE,ARE,,,,,3179
+G-AUQ,Hiva Oa,,,gleam_basin,,W-OC,,PF,PYF,,,,,686
+G-AUR,Aurillac,,,gleam_basin,,W-EU,,FR,FRA,,,,,1502
+G-AUS,Austin,,,gleam_basin,,W-NA,,US,USA,,,,,2181
+G-AUU,Aurukun ,,,gleam_basin,,W-OC,,AU,AUS,,,,,1601
+G-AUX,Araguaina,,,gleam_basin,,W-SA,,BR,BRA,,,,,1962
+G-AUY,Aneityum,,,gleam_basin,,W-OC,,VU,VUT,,,,,1317
+G-AVA,Anshun,,,gleam_basin,,W-AS,,CN,CHN,,,,,337
+G-AVL,Asheville,,,gleam_basin,,W-NA,,US,USA,,,,,2144
+G-AVP,Wilkes-Barre,,,gleam_basin,,W-NA,,US,USA,,,,,2143
+G-AVV,Avalon,,,gleam_basin,,W-OC,,AU,AUS,,,,,1594
+G-AWZ,Ahwaz,,,gleam_basin,,W-AS,,IR,IRN,,,,,2931
+G-AXA,Anguilla,,,gleam_basin,,W-NA,,AI,AIA,,,,,2810
+G-AXD,Alexandroupolis,,,gleam_basin,,W-EU,,GR,GRC,,,,,925
+G-AXK,Ataq,,,gleam_basin,,W-AS,,YE,YEM,,,,,586
+G-AXP,Spring Point,,,gleam_basin,,W-NA,,BS,BHS,,,,,3230
+G-AXR,Arutua,,,gleam_basin,,W-OC,,PF,PYF,,,,,695
+G-AXT,Akita,,,gleam_basin,,W-AS,,JP,JPN,,,,,3132
+G-AXU,Axum,,,gleam_basin,,W-AF,,ET,ETH,,,,,235
+G-AYP,Ayacucho,,,gleam_basin,,W-SA,,PE,PER,,,,,1223
+G-AYQ,Ayers Rock,,,gleam_basin,,W-OC,,AU,AUS,,,,,1634
+G-AYT,Antalya,,,gleam_basin,,W-AS,,TR,TUR,,,,,1768
+G-AZD,Yazd,,,gleam_basin,,W-AS,,IR,IRN,,,,,2944
+G-AZN,Andizhan,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2840
+G-AZO,Kalamazoo,,,gleam_basin,,W-NA,,US,USA,,,,,2266
+G-AZR,Adrar,,,gleam_basin,,W-AF,,DZ,DZA,,,,,30
+G-AZS,Samana,,,gleam_basin,,W-NA,,DO,DOM,,,,,1200
+G-BAH,Bahrain,,,gleam_basin,,W-AS,,BH,BHR,,,,,3232
+G-BAL,Batman,,,gleam_basin,,W-AS,,TR,TUR,,,,,1777
+G-BAQ,Barranquilla,,,gleam_basin,,W-SA,,CO,COL,,,,,1395
+G-BAS,Balalae,,,gleam_basin,,W-OC,,SB,SLB,,,,,3024
+G-BAV,Baotou,,,gleam_basin,,W-AS,,CN,CHN,,,,,355
+G-BAX,Barnaul,,,gleam_basin,,W-EU,,RU,RUS,,,,,1898
+G-BAZ,Barcelos,,,gleam_basin,,W-SA,,BR,BRA,,,,,1963
+G-BBA,Balmaceda,,,gleam_basin,,W-SA,,CL,CHL,,,,,292
+G-BBI,Bhubaneshwar,,,gleam_basin,,W-AS,,IN,IND,,,,,1058
+G-BBK,Kasane,,,gleam_basin,,W-AF,,BW,BWA,,,,,218
+G-BBN,Bario,,,gleam_basin,,W-AS,,MY,MYS,,,,,168
+G-BBO,Berbera,,,gleam_basin,,W-AF,,SO,SOM,,,,,2829
+G-BCA,Baracoa,,,gleam_basin,,W-NA,,CU,CUB,,,,,3241
+G-BCD,Bacolod,,,gleam_basin,,W-AS,,PH,PHL,,,,,622
+G-BCI,Barcaldine,,,gleam_basin,,W-OC,,AU,AUS,,,,,1686
+G-BCM,Bacau,,,gleam_basin,,W-EU,,RO,ROU,,,,,140
+G-BCN,Barcelona (ES),,,gleam_basin,,W-EU,,ES,ESP,,,,,2884
+G-BCV,Belmopan,,,gleam_basin,,W-NA,,BZ,BLZ,,,,,864
+G-BDA,Bermuda,,,gleam_basin,,W-NA,,BM,BMU,,,,,839
+G-BDB,Bundaberg,,,gleam_basin,,W-OC,,AU,AUS,,,,,1687
+G-BDH,Bandar Lengeh,,,gleam_basin,,W-AS,,IR,IRN,,,,,2971
+G-BDJ,Banjarmasin,,,gleam_basin,,W-AS,,ID,IDN,,,,,1313
+G-BDL,Hartford,,,gleam_basin,,W-NA,,US,USA,,,,,2398
+G-BDO,Bandung,,,gleam_basin,,W-AS,,ID,IDN,,,,,1312
+G-BDP,Bhadrapur,,,gleam_basin,,W-AS,,NP,NPL,,,,,568
+G-BDQ,Vadodara,,,gleam_basin,,W-AS,,IN,IND,,,,,1114
+G-BDS,Brindisi,,,gleam_basin,,W-EU,,IT,ITA,,,,,3096
+G-BDU,Bardufoss,,,gleam_basin,,W-EU,,NO,NOR,,,,,1174
+G-BEB,Benbecula,,,gleam_basin,,W-EU,,GB,GBR,,,,,760
+G-BEG,Belgrade,,,gleam_basin,,W-EU,,RS,SRB,,,,,2051
+G-BEJ,Tanjung Redeb,,,gleam_basin,,W-AS,,ID,IDN,,,,,1233
+G-BEL,Belem,,,gleam_basin,,W-SA,,BR,BRA,,,,,1937
+G-BEN,Benghazi,,,gleam_basin,,W-AF,,LY,LBY,,,,,154
+G-BES,Brest (FR),,,gleam_basin,,W-EU,,FR,FRA,,,,,1491
+G-BET,Bethel,,,gleam_basin,,W-NA,,US,USA,,,,,2457
+G-BEU,Bedourie,,,gleam_basin,,W-OC,,AU,AUS,,,,,1570
+G-BEW,Beira,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,961
+G-BEY,Beirut,,,gleam_basin,,W-AS,,LB,LBN,,,,,271
+G-BFD,Bradford,,,gleam_basin,,W-NA,,US,USA,,,,,2428
+G-BFF,Scottsbluff,,,gleam_basin,,W-NA,,US,USA,,,,,2427
+G-BFJ,Bijie,,,gleam_basin,,W-AS,,CN,CHN,,,,,452
+G-BFL,Bakersfield,,,gleam_basin,,W-NA,,US,USA,,,,,2430
+G-BFN,Bloemfontein,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,637
+G-BFS,Belfast,,,gleam_basin,,W-EU,,GB,GBR,,,,,788
+G-BFV,Buriram,,,gleam_basin,,W-AS,,TH,THA,,,,,544
+G-BGA,Bucaramanga,,,gleam_basin,,W-SA,,CO,COL,,,,,1399
+G-BGC,Braganca,,,gleam_basin,,W-EU,,PT,PRT,,,,,1438
+G-BGF,Bangui,,,gleam_basin,,W-AF,,CF,CAF,,,,,2811
+G-BGG,Bingol,,,gleam_basin,,W-AS,,TR,TUR,,,,,1780
+G-BGI,Barbados,,,gleam_basin,,W-NA,,BB,BRB,,,,,1933
+G-BGM,Binghamton,,,gleam_basin,,W-NA,,US,USA,,,,,2470
+G-BGN,Belaya Gora,,,gleam_basin,,W-EU,,RU,RUS,,,,,1916
+G-BGO,Bergen,,,gleam_basin,,W-EU,,NO,NOR,,,,,1167
+G-BGR,Bangor,,,gleam_basin,,W-NA,,US,USA,,,,,2471
+G-BGW,Baghdad,,,gleam_basin,,W-AS,,IQ,IRQ,,,,,2915
+G-BHB,Bar Harbor,,,gleam_basin,,W-NA,,US,USA,,,,,2421
+G-BHE,Blenheim,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3059
+G-BHH,Bisha,,,gleam_basin,,W-AS,,SA,SAU,,,,,264
+G-BHI,Bahia Blanca,,,gleam_basin,,W-SA,,AR,ARG,,,,,3212
+G-BHJ,Bhuj,,,gleam_basin,,W-AS,,IN,IND,,,,,1103
+G-BHK,Bukhara,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2845
+G-BHM,Birmingham (US),,,gleam_basin,,W-NA,,US,USA,,,,,2420
+G-BHO,Bhopal,,,gleam_basin,,W-AS,,IN,IND,,,,,1104
+G-BHQ,Broken Hill,,,gleam_basin,,W-OC,,AU,AUS,,,,,1662
+G-BHR,Bharatpur,,,gleam_basin,,W-AS,,NP,NPL,,,,,565
+G-BHU,Bhavnagar,,,gleam_basin,,W-AS,,IN,IND,,,,,1105
+G-BHV,Bahawalpur,,,gleam_basin,,W-AS,,PK,PAK,,,,,130
+G-BHX,Birmingham (UK),,,gleam_basin,,W-EU,,GB,GBR,,,,,786
+G-BHY,Beihai,,,gleam_basin,,W-AS,,CN,CHN,,,,,451
+G-BIA,Bastia,,,gleam_basin,,W-EU,,FR,FRA,,,,,1529
+G-BIB,Baidoa,,,gleam_basin,,W-AF,,SO,SOM,,,,,2834
+G-BID,Block Island,,,gleam_basin,,W-NA,,US,USA,,,,,2456
+G-BIK,Biak,,,gleam_basin,,W-AS,,ID,IDN,,,,,1304
+G-BIL,Billings,,,gleam_basin,,W-NA,,US,USA,,,,,2455
+G-BIM,Bimini,,,gleam_basin,,W-NA,,BS,BHS,,,,,3229
+G-BIN,Bamyan,,,gleam_basin,,W-AS,,AF,AFG,,,,,897
+G-BIO,Bilbao,,,gleam_basin,,W-EU,,ES,ESP,,,,,2907
+G-BIQ,Biarritz,,,gleam_basin,,W-EU,,FR,FRA,,,,,1530
+G-BIR,Biratnagar,,,gleam_basin,,W-AS,,NP,NPL,,,,,567
+G-BIS,Bismarck,,,gleam_basin,,W-NA,,US,USA,,,,,2458
+G-BJA,Bejaia,,,gleam_basin,,W-AF,,DZ,DZA,,,,,40
+G-BJB,Bojnurd,,,gleam_basin,,W-AS,,IR,IRN,,,,,2956
+G-BJF,Batsfjord,,,gleam_basin,,W-EU,,NO,NOR,,,,,1171
+G-BJI,Bemidji,,,gleam_basin,,W-NA,,US,USA,,,,,2349
+G-BJL,Banjul,,,gleam_basin,,W-AF,,GM,GMB,,,,,1554
+G-BJM,Bujumbura,,,gleam_basin,,W-AF,,BI,BDI,,,,,900
+G-BJR,Bahar Dar,,,gleam_basin,,W-AF,,ET,ETH,,,,,236
+G-BJV,Bodrum,,,gleam_basin,,W-AS,,TR,TUR,,,,,1774
+G-BJX,Leon (MX),,,gleam_basin,,W-NA,,MX,MEX,,,,,1018
+G-BJZ,Badajoz,,,gleam_basin,,W-EU,,ES,ESP,,,,,2901
+G-BKC,Buckland,,,gleam_basin,,W-NA,,US,USA,,,,,2372
+G-BKG,Branson,,,gleam_basin,,W-NA,,US,USA,,,,,2202
+G-BKI,Kota Kinabalu,,,gleam_basin,,W-AS,,MY,MYS,,,,,186
+G-BKK,Bangkok,,,gleam_basin,,W-AS,,TH,THA,,,,,538
+G-BKM,Bakelalan,,,gleam_basin,,W-AS,,ID,IDN,,,,,1287
+G-BKO,Bamako,,,gleam_basin,,W-AF,,ML,MLI,,,,,2919
+G-BKQ,Blackall,,,gleam_basin,,W-OC,,AU,AUS,,,,,1647
+G-BKS,Bengkulu,,,gleam_basin,,W-AS,,ID,IDN,,,,,1288
+G-BKW,Beckley,,,gleam_basin,,W-NA,,US,USA,,,,,2373
+G-BKY,Bukavu,,,gleam_basin,,W-AF,,CD,COD,,,,,1343
+G-BKZ,Bukoba,,,gleam_basin,,W-AF,,TZ,TZA,,,,,212
+G-BLA,Barcelona (VE),,,gleam_basin,,W-SA,,VE,VEN,,,,,1710
+G-BLE,Borlange,,,gleam_basin,,W-EU,,SE,SWE,,,,,2558
+G-BLI,Bellingham,,,gleam_basin,,W-NA,,US,USA,,,,,2351
+G-BLJ,Batna,,,gleam_basin,,W-AF,,DZ,DZA,,,,,32
+G-BLK,Blackpool,,,gleam_basin,,W-EU,,GB,GBR,,,,,779
+G-BLL,Billund,,,gleam_basin,,W-EU,,DK,DNK,,,,,1562
+G-BLQ,Bologna,,,gleam_basin,,W-EU,,IT,ITA,,,,,3086
+G-BLR,Bengaluru,,,gleam_basin,,W-AS,,IN,IND,,,,,1085
+G-BLV,Belleville,,,gleam_basin,,W-NA,,US,USA,,,,,2284
+G-BLZ,Blantyre,,,gleam_basin,,W-AF,,MW,MWI,,,,,2870
+G-BMD,Belo Tsiribihina,,,gleam_basin,,W-AF,,MG,MDG,,,,,1451
+G-BME,Broome,,,gleam_basin,,W-OC,,AU,AUS,,,,,1635
+G-BMI,Bloomington,,,gleam_basin,,W-NA,,US,USA,,,,,2309
+G-BMO,Bhamo,,,gleam_basin,,W-AS,,MM,MMR,,,,,877
+G-BMU,Bima,,,gleam_basin,,W-AS,,ID,IDN,,,,,1274
+G-BMV,Ban Me Thuot,,,gleam_basin,,W-AS,,VN,VNM,,,,,1132
+G-BMW,Bordj Mokhtar,,,gleam_basin,,W-AF,,DZ,DZA,,,,,34
+G-BMY,Ile Art,,,gleam_basin,,W-OC,,NC,NCL,,,,,3172
+G-BNA,Nashville,,,gleam_basin,,W-NA,,US,USA,,,,,2224
+G-BNB,Boende,,,gleam_basin,,W-AF,,CD,COD,,,,,1334
+G-BNC,Beni,,,gleam_basin,,W-AF,,CD,COD,,,,,1335
+G-BND,Bandar Abbas,,,gleam_basin,,W-AS,,IR,IRN,,,,,2938
+G-BNE,Brisbane,,,gleam_basin,,W-OC,,AU,AUS,,,,,1603
+G-BNI,Benin City,,,gleam_basin,,W-AF,,NG,NGA,,,,,1415
+G-BNK,Ballina,,,gleam_basin,,W-OC,,AU,AUS,,,,,1610
+G-BNN,Bronnoysund,,,gleam_basin,,W-EU,,NO,NOR,,,,,1142
+G-BNS,Barinas,,,gleam_basin,,W-SA,,VE,VEN,,,,,1708
+G-BNX,Banja Luka,,,gleam_basin,,W-EU,,BA,BIH,,,,,2818
+G-BOB,Bora Bora,,,gleam_basin,,W-OC,,PF,PYF,,,,,692
+G-BOC,Bocas del Toro,,,gleam_basin,,W-NA,,PA,PAN,,,,,3005
+G-BOD,Bordeaux,,,gleam_basin,,W-EU,,FR,FRA,,,,,1511
+G-BOG,Bogota,,,gleam_basin,,W-SA,,CO,COL,,,,,1377
+G-BOI,Boise,,,gleam_basin,,W-NA,,US,USA,,,,,2244
+G-BOJ,Burgas,,,gleam_basin,,W-EU,,BG,BGR,,,,,83
+G-BOM,Mumbai,,,gleam_basin,,W-AS,,IN,IND,,,,,1090
+G-BON,Bonaire,,,gleam_basin,,W-NA,,BQ,BES,,,,,796
+G-BOO,Bodo,,,gleam_basin,,W-EU,,NO,NOR,,,,,1146
+G-BOS,Boston,,,gleam_basin,,W-NA,,US,USA,,,,,2489
+G-BOY,Bobo Dioulasso,,,gleam_basin,,W-AF,,BF,BFA,,,,,273
+G-BPL,Bole,,,gleam_basin,,W-AS,,CN,CHN,,,,,364
+G-BPN,Balikpapan,,,gleam_basin,,W-AS,,ID,IDN,,,,,1262
+G-BPS,Porto Seguro,,,gleam_basin,,W-SA,,BR,BRA,,,,,1974
+G-BPT,Beaumont,,,gleam_basin,,W-NA,,US,USA,,,,,2216
+G-BPX,Qamdo,,,gleam_basin,,W-AS,,CN,CHN,,,,,365
+G-BQB,Busselton,,,gleam_basin,,W-OC,,AU,AUS,,,,,1622
+G-BQG,Bogorodskoye,,,gleam_basin,,W-EU,,RU,RUS,,,,,1846
+G-BQK,Brunswick,,,gleam_basin,,W-NA,,US,USA,,,,,2248
+G-BQL,Boulia,,,gleam_basin,,W-OC,,AU,AUS,,,,,1623
+G-BQN,Aguadilla,,,gleam_basin,,W-NA,,PR,PRI,,,,,196
+G-BQS,Blagoveschensk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1848
+G-BQT,Brest (BY),,,gleam_basin,,W-EU,,BY,BLR,,,,,904
+G-BRA,Barreiras,,,gleam_basin,,W-SA,,BR,BRA,,,,,1956
+G-BRC,San Carlos de Bariloche,,,gleam_basin,,W-SA,,AR,ARG,,,,,3185
+G-BRD,Brainerd,,,gleam_basin,,W-NA,,US,USA,,,,,2153
+G-BRE,Bremen,,,gleam_basin,,W-EU,,DE,DEU,,,,,728
+G-BRI,Bari,,,gleam_basin,,W-EU,,IT,ITA,,,,,3073
+G-BRL,Burlington (US-IA),,,gleam_basin,,W-NA,,US,USA,,,,,2152
+G-BRM,Barquisimeto,,,gleam_basin,,W-SA,,VE,VEN,,,,,1705
+G-BRN,Berne,,,gleam_basin,,W-EU,,CH,CHE,,,,,275
+G-BRQ,Brno,,,gleam_basin,,W-EU,,CZ,CZE,,,,,1176
+G-BRR,Barra,,,gleam_basin,,W-EU,,GB,GBR,,,,,765
+G-BRS,Bristol,,,gleam_basin,,W-EU,,GB,GBR,,,,,764
+G-BRU,Brussels,,,gleam_basin,,W-EU,,BE,BEL,,,,,720
+G-BRW,Barrow,,,gleam_basin,,W-NA,,US,USA,,,,,2151
+G-BSA,Bosaso,,,gleam_basin,,W-AF,,SO,SOM,,,,,2830
+G-BSB,Brasilia,,,gleam_basin,,W-SA,,BR,BRA,,,,,1961
+G-BSC,Bahia Solano,,,gleam_basin,,W-SA,,CO,COL,,,,,1370
+G-BSD,Baoshan,,,gleam_basin,,W-AS,,CN,CHN,,,,,354
+G-BSG,Bata,,,gleam_basin,,W-AF,,GQ,GNQ,,,,,2054
+G-BSK,Biskra,,,gleam_basin,,W-AF,,DZ,DZA,,,,,23
+G-BSL,Basel,,,gleam_basin,,W-EU,,FR,FRA,,,,,1501
+G-BSO,Basco,,,gleam_basin,,W-AS,,PH,PHL,,,,,599
+G-BSR,Basrah,,,gleam_basin,,W-AS,,IQ,IRQ,,,,,2913
+G-BTC,Batticaloa,,,gleam_basin,,W-AS,,LK,LKA,,,,,754
+G-BTH,Batam,,,gleam_basin,,W-AS,,ID,IDN,,,,,1240
+G-BTI,Barter Island,,,gleam_basin,,W-NA,,US,USA,,,,,2090
+G-BTJ,Banda Aceh,,,gleam_basin,,W-AS,,ID,IDN,,,,,1241
+G-BTK,Bratsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1809
+G-BTM,Butte,,,gleam_basin,,W-NA,,US,USA,,,,,2089
+G-BTR,Baton Rouge,,,gleam_basin,,W-NA,,US,USA,,,,,2088
+G-BTS,Bratislava,,,gleam_basin,,W-EU,,SK,SVK,,,,,2812
+G-BTT,Bettles,,,gleam_basin,,W-NA,,US,USA,,,,,2087
+G-BTU,Bintulu,,,gleam_basin,,W-AS,,MY,MYS,,,,,167
+G-BTV,Burlington (US-VT),,,gleam_basin,,W-NA,,US,USA,,,,,2139
+G-BUA,Buka,,,gleam_basin,,W-OC,,PG,PNG,,,,,2981
+G-BUC,Burketown,,,gleam_basin,,W-OC,,AU,AUS,,,,,1586
+G-BUD,Budapest,,,gleam_basin,,W-EU,,HU,HUN,,,,,830
+G-BUF,Buffalo,,,gleam_basin,,W-NA,,US,USA,,,,,2336
+G-BUL,Bulolo,,,gleam_basin,,W-OC,,PG,PNG,,,,,2980
+G-BUN,Buenaventura,,,gleam_basin,,W-SA,,CO,COL,,,,,1365
+G-BUQ,Bulawayo,,,gleam_basin,,W-AF,,ZW,ZWE,,,,,958
+G-BUS,Batumi,,,gleam_basin,,W-AS,,GE,GEO,,,,,842
+G-BUW,Baubau,,,gleam_basin,,W-AS,,ID,IDN,,,,,1245
+G-BUX,Bunia,,,gleam_basin,,W-AF,,CD,COD,,,,,1329
+G-BUZ,Bushehr,,,gleam_basin,,W-AS,,IR,IRN,,,,,2933
+G-BVB,Boa Vista,,,gleam_basin,,W-SA,,BR,BRA,,,,,2039
+G-BVC,Boa Vista Island,,,gleam_basin,,W-AF,,CV,CPV,,,,,138
+G-BVE,Brive-La-Gaillarde,,,gleam_basin,,W-EU,,FR,FRA,,,,,1536
+G-BVH,Vilhena,,,gleam_basin,,W-SA,,BR,BRA,,,,,2040
+G-BVI,Birdsville,,,gleam_basin,,W-OC,,AU,AUS,,,,,1683
+G-BVV,Iturup Island,,,gleam_basin,,W-EU,,RU,RUS,,,,,1922
+G-BWA,Bhairawa,,,gleam_basin,,W-AS,,NP,NPL,,,,,553
+G-BWI,Baltimore,,,gleam_basin,,W-NA,,US,USA,,,,,2335
+G-BWN,Bandar Seri Begawan,,,gleam_basin,,W-AS,,BN,BRN,,,,,1789
+G-BWT,Burnie,,,gleam_basin,,W-OC,,AU,AUS,,,,,1569
+G-BWW,Cayo Las Brujas,,,gleam_basin,,W-NA,,CU,CUB,,,,,3236
+G-BXB,Irarutu,,,gleam_basin,,W-AS,,ID,IDN,,,,,1307
+G-BXR,Bam,,,gleam_basin,,W-AS,,IR,IRN,,,,,2967
+G-BXU,Butuan,,,gleam_basin,,W-AS,,PH,PHL,,,,,620
+G-BYC,Yacuiba,,,gleam_basin,,W-SA,,BO,BOL,,,,,85
+G-BYF,Albert,,,gleam_basin,,W-EU,,FR,FRA,,,,,1490
+G-BYJ,Beja,,,gleam_basin,,W-EU,,PT,PRT,,,,,1428
+G-BYM,Bayamo,,,gleam_basin,,W-NA,,CU,CUB,,,,,3237
+G-BYN,Bayankhongor,,,gleam_basin,,W-AS,,MN,MNG,,,,,845
+G-BYO,Bonito,,,gleam_basin,,W-SA,,BR,BRA,,,,,1934
+G-BZE,Belize City,,,gleam_basin,,W-NA,,BZ,BLZ,,,,,862
+G-BZG,Bydgoszcz,,,gleam_basin,,W-EU,,PL,POL,,,,,2859
+G-BZL,Barisal,,,gleam_basin,,W-AS,,BD,BGD,,,,,66
+G-BZN,Bozeman,,,gleam_basin,,W-NA,,US,USA,,,,,2403
+G-BZO,Bolzano,,,gleam_basin,,W-EU,,IT,ITA,,,,,3091
+G-BZR,Beziers,,,gleam_basin,,W-EU,,FR,FRA,,,,,1524
+G-BZV,Brazzaville,,,gleam_basin,,W-AF,,CG,COG,,,,,1346
+G-CAB,Cabinda,,,gleam_basin,,W-AF,,AO,AGO,,,,,6
+G-CAC,Cascavel,,,gleam_basin,,W-SA,,BR,BRA,,,,,2018
+G-CAE,Columbia (US-SC),,,gleam_basin,,W-NA,,US,USA,,,,,2295
+G-CAG,Cagliari,,,gleam_basin,,W-EU,,IT,ITA,,,,,3088
+G-CAH,Ca Mau,,,gleam_basin,,W-AS,,VN,VNM,,,,,1131
+G-CAI,Cairo,,,gleam_basin,,W-AF,,EG,EGY,,,,,52
+G-CAJ,Canaima,,,gleam_basin,,W-SA,,VE,VEN,,,,,1711
+G-CAK,Akron,,,gleam_basin,,W-NA,,US,USA,,,,,2294
+G-CAN,Guangzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,455
+G-CAP,Cap Haitien,,,gleam_basin,,W-NA,,HT,HTI,,,,,979
+G-CAW,Campos,,,gleam_basin,,W-SA,,BR,BRA,,,,,1993
+G-CAY,Cayenne,,,gleam_basin,,W-SA,,GF,GUF,,,,,718
+G-CAZ,Cobar,,,gleam_basin,,W-OC,,AU,AUS,,,,,1628
+G-CBB,Cochabamba,,,gleam_basin,,W-SA,,BO,BOL,,,,,95
+G-CBH,Bechar,,,gleam_basin,,W-AF,,DZ,DZA,,,,,42
+G-CBO,Cotabato,,,gleam_basin,,W-AS,,PH,PHL,,,,,613
+G-CBQ,Calabar,,,gleam_basin,,W-AF,,NG,NGA,,,,,1424
+G-CBR,Canberra,,,gleam_basin,,W-OC,,AU,AUS,,,,,1655
+G-CBS,Cabimas,,,gleam_basin,,W-SA,,VE,VEN,,,,,1715
+G-CBT,Catumbela,,,gleam_basin,,W-AF,,AO,AGO,,,,,12
+G-CCC,Cayo Coco,,,gleam_basin,,W-NA,,CU,CUB,,,,,3249
+G-CCF,Carcassonne,,,gleam_basin,,W-EU,,FR,FRA,,,,,1521
+G-CCJ,Kozhikode,,,gleam_basin,,W-AS,,IN,IND,,,,,1096
+G-CCK,Cocos Islands,,,gleam_basin,,W-AS,,CC,CCK,,,,,104
+G-CCM,Criciuma,,,gleam_basin,,W-SA,,BR,BRA,,,,,2005
+G-CCN,Chaghcharan,,,gleam_basin,,W-AS,,AF,AFG,,,,,887
+G-CCP,Concepcion,,,gleam_basin,,W-SA,,CL,CHL,,,,,303
+G-CCS,Caracas,,,gleam_basin,,W-SA,,VE,VEN,,,,,1714
+G-CCU,Kolkata,,,gleam_basin,,W-AS,,IN,IND,,,,,1095
+G-CDB,Cold Bay,,,gleam_basin,,W-NA,,US,USA,,,,,2487
+G-CDC,Cedar City,,,gleam_basin,,W-NA,,US,USA,,,,,2488
+G-CDG,Paris,,,gleam_basin,,W-EU,,FR,FRA,,,,,1535
+G-CDR,Chadron,,,gleam_basin,,W-NA,,US,USA,,,,,2492
+G-CDV,Cordova,,,gleam_basin,,W-NA,,US,USA,,,,,2490
+G-CEB,Cebu,,,gleam_basin,,W-AS,,PH,PHL,,,,,615
+G-CEC,Crescent City,,,gleam_basin,,W-NA,,US,USA,,,,,2438
+G-CED,Ceduna,,,gleam_basin,,W-OC,,AU,AUS,,,,,1664
+G-CEE,Cherepovets,,,gleam_basin,,W-EU,,RU,RUS,,,,,1905
+G-CEH,Chelinda,,,gleam_basin,,W-AF,,MW,MWI,,,,,2871
+G-CEI,Chiang Rai,,,gleam_basin,,W-AS,,TH,THA,,,,,545
+G-CEK,Chelyabinsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1906
+G-CEM,Central,,,gleam_basin,,W-NA,,US,USA,,,,,2439
+G-CEN,Ciudad Obregon,,,gleam_basin,,W-NA,,MX,MEX,,,,,1028
+G-CER,Cherbourg,,,gleam_basin,,W-EU,,FR,FRA,,,,,1528
+G-CEZ,Cortez,,,gleam_basin,,W-NA,,US,USA,,,,,2442
+G-CFB,Cabo Frio,,,gleam_basin,,W-SA,,BR,BRA,,,,,1939
+G-CFC,Cacador,,,gleam_basin,,W-SA,,BR,BRA,,,,,1940
+G-CFE,Clermont-Ferrand,,,gleam_basin,,W-EU,,FR,FRA,,,,,1492
+G-CFG,Cienfuegos,,,gleam_basin,,W-NA,,CU,CUB,,,,,3238
+G-CFK,Chlef,,,gleam_basin,,W-AF,,DZ,DZA,,,,,14
+G-CFN,Donegal,,,gleam_basin,,W-EU,,IE,IRL,,,,,2922
+G-CFR,Caen,,,gleam_basin,,W-EU,,FR,FRA,,,,,1515
+G-CFS,Coffs Harbour,,,gleam_basin,,W-OC,,AU,AUS,,,,,1577
+G-CFU,Kerkyra,,,gleam_basin,,W-EU,,GR,GRC,,,,,909
+G-CGB,Cuiaba,,,gleam_basin,,W-SA,,BR,BRA,,,,,2044
+G-CGD,Changde,,,gleam_basin,,W-AS,,CN,CHN,,,,,482
+G-CGI,Cape Girardeau,,,gleam_basin,,W-NA,,US,USA,,,,,2521
+G-CGK,Jakarta,,,gleam_basin,,W-AS,,ID,IDN,,,,,1314
+G-CGM,Camiguin,,,gleam_basin,,W-AS,,PH,PHL,,,,,623
+G-CGN,Cologne,,,gleam_basin,,W-EU,,DE,DEU,,,,,752
+G-CGO,Zhengzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,481
+G-CGP,Chittagong,,,gleam_basin,,W-AS,,BD,BGD,,,,,68
+G-CGQ,Changchun,,,gleam_basin,,W-AS,,CN,CHN,,,,,483
+G-CGR,Campo Grande,,,gleam_basin,,W-SA,,BR,BRA,,,,,2045
+G-CGY,Cagayan de Oro,,,gleam_basin,,W-AS,,PH,PHL,,,,,624
+G-CHA,Chattanooga,,,gleam_basin,,W-NA,,US,USA,,,,,2074
+G-CHC,Christchurch,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3041
+G-CHG,Chaoyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,319
+G-CHO,Charlottesville,,,gleam_basin,,W-NA,,US,USA,,,,,2313
+G-CHQ,Chania,,,gleam_basin,,W-EU,,GR,GRC,,,,,910
+G-CHR,Chateauroux,,,gleam_basin,,W-EU,,FR,FRA,,,,,1493
+G-CHS,Charleston (US-SC),,,gleam_basin,,W-NA,,US,USA,,,,,2078
+G-CHT,Chatham Island,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3042
+G-CHY,Choiseul Bay,,,gleam_basin,,W-OC,,SB,SLB,,,,,3020
+G-CIC,Chico,,,gleam_basin,,W-NA,,US,USA,,,,,2523
+G-CID,Cedar Rapids,,,gleam_basin,,W-NA,,US,USA,,,,,2525
+G-CIF,Chifeng,,,gleam_basin,,W-AS,,CN,CHN,,,,,484
+G-CIH,Changzhi,,,gleam_basin,,W-AS,,CN,CHN,,,,,485
+G-CIJ,Cobija,,,gleam_basin,,W-SA,,BO,BOL,,,,,97
+G-CIK,Chalkyitsik,,,gleam_basin,,W-NA,,US,USA,,,,,2526
+G-CIP,Chipata,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1553
+G-CIT,Shymkent,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,673
+G-CIU,Sault Ste Marie (US),,,gleam_basin,,W-NA,,US,USA,,,,,2531
+G-CIW,Canouan Island,,,gleam_basin,,W-NA,,VC,VCT,,,,,1119
+G-CIX,Chiclayo,,,gleam_basin,,W-SA,,PE,PER,,,,,1230
+G-CIY,Comiso,,,gleam_basin,,W-EU,,IT,ITA,,,,,3100
+G-CIZ,Coari,,,gleam_basin,,W-SA,,BR,BRA,,,,,2047
+G-CJA,Cajamarca,,,gleam_basin,,W-SA,,PE,PER,,,,,1214
+G-CJB,Coimbatore,,,gleam_basin,,W-AS,,IN,IND,,,,,1063
+G-CJC,Calama,,,gleam_basin,,W-SA,,CL,CHL,,,,,294
+G-CJJ,Cheongju,,,gleam_basin,,W-AS,,KR,KOR,,,,,2800
+G-CJL,Chitral,,,gleam_basin,,W-AS,,PK,PAK,,,,,111
+G-CJM,Chumphon,,,gleam_basin,,W-AS,,TH,THA,,,,,526
+G-CJS,Ciudad Juarez,,,gleam_basin,,W-NA,,MX,MEX,,,,,990
+G-CJU,Jeju,,,gleam_basin,,W-AS,,KR,KOR,,,,,2801
+G-CKD,Crooked Creek,,,gleam_basin,,W-NA,,US,USA,,,,,2459
+G-CKG,Chongqing,,,gleam_basin,,W-AS,,CN,CHN,,,,,325
+G-CKH,Chokurdakh,,,gleam_basin,,W-EU,,RU,RUS,,,,,1810
+G-CKS,Carajas,,,gleam_basin,,W-SA,,BR,BRA,,,,,1949
+G-CKX,Chicken,,,gleam_basin,,W-NA,,US,USA,,,,,2107
+G-CKY,Conakry,,,gleam_basin,,W-AF,,GN,GIN,,,,,495
+G-CLE,Cleveland,,,gleam_basin,,W-NA,,US,USA,,,,,2212
+G-CLJ,Cluj-Napoca,,,gleam_basin,,W-EU,,RO,ROU,,,,,139
+G-CLL,Bryan,,,gleam_basin,,W-NA,,US,USA,,,,,2210
+G-CLM,Port Angeles,,,gleam_basin,,W-NA,,US,USA,,,,,2211
+G-CLO,Cali,,,gleam_basin,,W-SA,,CO,COL,,,,,1374
+G-CLQ,Colima,,,gleam_basin,,W-NA,,MX,MEX,,,,,998
+G-CLT,Charlotte,,,gleam_basin,,W-NA,,US,USA,,,,,2214
+G-CLV,Caldas Novas,,,gleam_basin,,W-SA,,BR,BRA,,,,,1973
+G-CLY,Calvi,,,gleam_basin,,W-EU,,FR,FRA,,,,,1507
+G-CMA,Cunnamulla,,,gleam_basin,,W-OC,,AU,AUS,,,,,1599
+G-CMB,Colombo,,,gleam_basin,,W-AS,,LK,LKA,,,,,758
+G-CME,Ciudad del Carmen,,,gleam_basin,,W-NA,,MX,MEX,,,,,992
+G-CMF,Chambery,,,gleam_basin,,W-EU,,FR,FRA,,,,,1504
+G-CMG,Corumba,,,gleam_basin,,W-SA,,BR,BRA,,,,,1959
+G-CMH,Columbus (US-OH),,,gleam_basin,,W-NA,,US,USA,,,,,2479
+G-CMI,Champaign,,,gleam_basin,,W-NA,,US,USA,,,,,2170
+G-CMN,Casablanca,,,gleam_basin,,W-AF,,MA,MAR,,,,,814
+G-CMW,Camaguey,,,gleam_basin,,W-NA,,CU,CUB,,,,,3245
+G-CMX,Hancock,,,gleam_basin,,W-NA,,US,USA,,,,,2171
+G-CND,Constanta,,,gleam_basin,,W-EU,,RO,ROU,,,,,144
+G-CNF,Belo Horizonte,,,gleam_basin,,W-SA,,BR,BRA,,,,,2034
+G-CNJ,Cloncurry,,,gleam_basin,,W-OC,,AU,AUS,,,,,1626
+G-CNM,Carlsbad,,,gleam_basin,,W-NA,,US,USA,,,,,2273
+G-CNP,Neerlerit Inaat,,,gleam_basin,,W-NA,,GL,GRL,,,,,954
+G-CNS,Cairns,,,gleam_basin,,W-OC,,AU,AUS,,,,,1684
+G-CNX,Chiang Mai,,,gleam_basin,,W-AS,,TH,THA,,,,,531
+G-CNY,Moab,,,gleam_basin,,W-NA,,US,USA,,,,,2271
+G-COD,Cody,,,gleam_basin,,W-NA,,US,USA,,,,,2231
+G-COK,Kochi (IN),,,gleam_basin,,W-AS,,IN,IND,,,,,1083
+G-COO,Cotonou,,,gleam_basin,,W-AF,,BJ,BEN,,,,,717
+G-COQ,Choibalsan,,,gleam_basin,,W-AS,,MN,MNG,,,,,847
+G-COR,Cordoba,,,gleam_basin,,W-SA,,AR,ARG,,,,,3192
+G-COS,Colorado Springs,,,gleam_basin,,W-NA,,US,USA,,,,,2243
+G-COU,Columbia (US-MO),,,gleam_basin,,W-NA,,US,USA,,,,,2227
+G-CPC,San Martin de Los Andes,,,gleam_basin,,W-SA,,AR,ARG,,,,,3206
+G-CPD,Coober Pedy,,,gleam_basin,,W-OC,,AU,AUS,,,,,1651
+G-CPE,Campeche,,,gleam_basin,,W-NA,,MX,MEX,,,,,1025
+G-CPH,Copenhagen,,,gleam_basin,,W-EU,,DK,DNK,,,,,1564
+G-CPO,Copiapo,,,gleam_basin,,W-SA,,CL,CHL,,,,,305
+G-CPR,Casper,,,gleam_basin,,W-NA,,US,USA,,,,,2389
+G-CPT,Cape Town,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,635
+G-CPV,Campina Grande,,,gleam_basin,,W-SA,,BR,BRA,,,,,2015
+G-CQD,Shahre Kord,,,gleam_basin,,W-AS,,IR,IRN,,,,,2957
+G-CRA,Craiova,,,gleam_basin,,W-EU,,RO,ROU,,,,,149
+G-CRD,Comodoro Rivadavia,,,gleam_basin,,W-SA,,AR,ARG,,,,,3215
+G-CRK,Angeles,,,gleam_basin,,W-AS,,PH,PHL,,,,,616
+G-CRM,Catarman,,,gleam_basin,,W-AS,,PH,PHL,,,,,617
+G-CRP,Corpus Christi,,,gleam_basin,,W-NA,,US,USA,,,,,2477
+G-CRV,Crotone,,,gleam_basin,,W-EU,,IT,ITA,,,,,3075
+G-CRW,Charleston (US-WV),,,gleam_basin,,W-NA,,US,USA,,,,,2478
+G-CSG,Columbus (US-GA),,,gleam_basin,,W-NA,,US,USA,,,,,2444
+G-CSH,Solovetsky,,,gleam_basin,,W-EU,,RU,RUS,,,,,1908
+G-CSK,Cap Skiring,,,gleam_basin,,W-AF,,SN,SEN,,,,,1476
+G-CSO,Magdeburg,,,gleam_basin,,W-EU,,DE,DEU,,,,,747
+G-CSX,Changsha,,,gleam_basin,,W-AS,,CN,CHN,,,,,456
+G-CSY,Cheboksary,,,gleam_basin,,W-EU,,RU,RUS,,,,,1909
+G-CTA,Catania,,,gleam_basin,,W-EU,,IT,ITA,,,,,3065
+G-CTC,Catamarca,,,gleam_basin,,W-SA,,AR,ARG,,,,,3182
+G-CTG,Cartagena,,,gleam_basin,,W-SA,,CO,COL,,,,,1361
+G-CTL,Charleville,,,gleam_basin,,W-OC,,AU,AUS,,,,,1573
+G-CTM,Chetumal,,,gleam_basin,,W-NA,,MX,MEX,,,,,989
+G-CTS,Sapporo,,,gleam_basin,,W-AS,,JP,JPN,,,,,3158
+G-CTU,Chengdu,,,gleam_basin,,W-AS,,CN,CHN,,,,,315
+G-CUC,Cucuta,,,gleam_basin,,W-SA,,CO,COL,,,,,1407
+G-CUE,Cuenca,,,gleam_basin,,W-SA,,EC,ECU,,,,,1473
+G-CUF,Cuneo,,,gleam_basin,,W-EU,,IT,ITA,,,,,3098
+G-CUL,Culiacan,,,gleam_basin,,W-NA,,MX,MEX,,,,,1037
+G-CUM,Cumana,,,gleam_basin,,W-SA,,VE,VEN,,,,,1721
+G-CUN,Cancun,,,gleam_basin,,W-NA,,MX,MEX,,,,,1036
+G-CUQ,Coen,,,gleam_basin,,W-OC,,AU,AUS,,,,,1689
+G-CUR,Curacao,,,gleam_basin,,W-NA,,CW,CUW,,,,,1488
+G-CUU,Chihuahua,,,gleam_basin,,W-NA,,MX,MEX,,,,,1035
+G-CUZ,Cuzco,,,gleam_basin,,W-SA,,PE,PER,,,,,1229
+G-CVG,Cincinnati,,,gleam_basin,,W-NA,,US,USA,,,,,2320
+G-CVJ,Cuernavaca,,,gleam_basin,,W-NA,,MX,MEX,,,,,987
+G-CVM,Ciudad Victoria,,,gleam_basin,,W-NA,,MX,MEX,,,,,986
+G-CVN,Clovis,,,gleam_basin,,W-NA,,US,USA,,,,,2126
+G-CWA,Wausau,,,gleam_basin,,W-NA,,US,USA,,,,,2103
+G-CWB,Curitiba ,,,gleam_basin,,W-SA,,BR,BRA,,,,,1947
+G-CWC,Chernivtsi,,,gleam_basin,,W-EU,,UA,UKR,,,,,2782
+G-CXB,Cox's Bazar,,,gleam_basin,,W-AS,,BD,BGD,,,,,64
+G-CXF,Coldfoot,,,gleam_basin,,W-NA,,US,USA,,,,,2132
+G-CXI,Kiritimati,,,gleam_basin,,W-OC,,KI,KIR,,,,,643
+G-CXJ,Caxias do Sul,,,gleam_basin,,W-SA,,BR,BRA,,,,,1955
+G-CXR,Nha Trang,,,gleam_basin,,W-AS,,VN,VNM,,,,,1137
+G-CYB,Cayman Brac,,,gleam_basin,,W-NA,,KY,CYM,,,,,2864
+G-CYO,Cayo Largo del Sur,,,gleam_basin,,W-NA,,CU,CUB,,,,,3239
+G-CYS,Cheyenne,,,gleam_basin,,W-NA,,US,USA,,,,,2100
+G-CYX,Chersky,,,gleam_basin,,W-EU,,RU,RUS,,,,,1886
+G-CYZ,Cauayan,,,gleam_basin,,W-AS,,PH,PHL,,,,,593
+G-CZE,Coro,,,gleam_basin,,W-SA,,VE,VEN,,,,,1707
+G-CZH,Corozal (BZ),,,gleam_basin,,W-NA,,BZ,BLZ,,,,,860
+G-CZL,Constantine,,,gleam_basin,,W-AF,,DZ,DZA,,,,,24
+G-CZM,Cozumel,,,gleam_basin,,W-NA,,MX,MEX,,,,,996
+G-CZS,Cruzeiro do Sul,,,gleam_basin,,W-SA,,BR,BRA,,,,,1969
+G-CZU,Corozal (CO),,,gleam_basin,,W-SA,,CO,COL,,,,,1373
+G-CZX,Changzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,362
+G-DAC,Dhaka,,,gleam_basin,,W-AS,,BD,BGD,,,,,69
+G-DAD,Da Nang,,,gleam_basin,,W-AS,,VN,VNM,,,,,1139
+G-DAM,Damascus,,,gleam_basin,,W-AS,,SY,SYR,,,,,653
+G-DAR,Dar Es Salaam,,,gleam_basin,,W-AF,,TZ,TZA,,,,,216
+G-DAT,Datong,,,gleam_basin,,W-AS,,CN,CHN,,,,,486
+G-DAU,Daru,,,gleam_basin,,W-OC,,PG,PNG,,,,,3003
+G-DAV,David,,,gleam_basin,,W-NA,,PA,PAN,,,,,3009
+G-DAX,Dazhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,487
+G-DAY,Dayton,,,gleam_basin,,W-NA,,US,USA,,,,,2534
+G-DBA,Dalbandin,,,gleam_basin,,W-AS,,PK,PAK,,,,,107
+G-DBO,Dubbo,,,gleam_basin,,W-OC,,AU,AUS,,,,,1578
+G-DBQ,Dubuque,,,gleam_basin,,W-NA,,US,USA,,,,,2082
+G-DBV,Dubrovnik,,,gleam_basin,,W-EU,,HR,HRV,,,,,285
+G-DCN,Derby,,,gleam_basin,,W-OC,,AU,AUS,,,,,1582
+G-DCY,Daocheng,,,gleam_basin,,W-AS,,CN,CHN,,,,,326
+G-DDC,Dodge City,,,gleam_basin,,W-NA,,US,USA,,,,,2345
+G-DDG,Dandong,,,gleam_basin,,W-AS,,CN,CHN,,,,,428
+G-DDU,Dadu,,,gleam_basin,,W-AS,,PK,PAK,,,,,126
+G-DEA,Dera Ghazi Khan,,,gleam_basin,,W-AS,,PK,PAK,,,,,129
+G-DEB,Debrecen,,,gleam_basin,,W-EU,,HU,HUN,,,,,831
+G-DEC,Decatur,,,gleam_basin,,W-NA,,US,USA,,,,,2367
+G-DED,Dehra Dun,,,gleam_basin,,W-AS,,IN,IND,,,,,1100
+G-DEE,Yuzhno-Kurilsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1888
+G-DEF,Dezful,,,gleam_basin,,W-AS,,IR,IRN,,,,,2958
+G-DEL,Delhi,,,gleam_basin,,W-AS,,IN,IND,,,,,1099
+G-DEN,Denver,,,gleam_basin,,W-NA,,US,USA,,,,,2366
+G-DFW,Dallas,,,gleam_basin,,W-NA,,US,USA,,,,,2533
+G-DGA,Dangriga,,,gleam_basin,,W-NA,,BZ,BLZ,,,,,863
+G-DGE,Mudgee,,,gleam_basin,,W-OC,,AU,AUS,,,,,1667
+G-DGO,Durango (MX),,,gleam_basin,,W-NA,,MX,MEX,,,,,1029
+G-DGT,Dumaguete,,,gleam_basin,,W-AS,,PH,PHL,,,,,591
+G-DHI,Dhangarhi,,,gleam_basin,,W-AS,,NP,NPL,,,,,558
+G-DHM,Dharamsala,,,gleam_basin,,W-AS,,IN,IND,,,,,1070
+G-DHN,Dothan,,,gleam_basin,,W-NA,,US,USA,,,,,2134
+G-DIB,Dibrugarh,,,gleam_basin,,W-AS,,IN,IND,,,,,1077
+G-DIE,Antsiranana,,,gleam_basin,,W-AF,,MG,MDG,,,,,1446
+G-DIG,Deqen,,,gleam_basin,,W-AS,,CN,CHN,,,,,377
+G-DIK,Dickinson,,,gleam_basin,,W-NA,,US,USA,,,,,2289
+G-DIL,Dili,,,gleam_basin,,W-AS,,TL,TLS,,,,,1427
+G-DIN,Dien Bien Phu,,,gleam_basin,,W-AS,,VN,VNM,,,,,1126
+G-DIR,Dire Dawa,,,gleam_basin,,W-AF,,ET,ETH,,,,,229
+G-DIU,Diu,,,gleam_basin,,W-AS,,IN,IND,,,,,1078
+G-DIW,Dickwella,,,gleam_basin,,W-AS,,LK,LKA,,,,,755
+G-DIY,Diyarbakir,,,gleam_basin,,W-AS,,TR,TUR,,,,,1761
+G-DJB,Jambi,,,gleam_basin,,W-AS,,ID,IDN,,,,,1268
+G-DJE,Djerba,,,gleam_basin,,W-AF,,TN,TUN,,,,,1791
+G-DJG,Djanet,,,gleam_basin,,W-AF,,DZ,DZA,,,,,31
+G-DJJ,Jayapura,,,gleam_basin,,W-AS,,ID,IDN,,,,,1269
+G-DKA,Katsina,,,gleam_basin,,W-AF,,NG,NGA,,,,,1418
+G-DKI,Dunk Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1632
+G-DKR,Dakar,,,gleam_basin,,W-AF,,SN,SEN,,,,,1475
+G-DKS,Dikson,,,gleam_basin,,W-EU,,RU,RUS,,,,,1864
+G-DLA,Douala,,,gleam_basin,,W-AF,,CM,CMR,,,,,805
+G-DLC,Dalian,,,gleam_basin,,W-AS,,CN,CHN,,,,,394
+G-DLE,Dole,,,gleam_basin,,W-EU,,FR,FRA,,,,,1509
+G-DLG,Dillingham,,,gleam_basin,,W-NA,,US,USA,,,,,2472
+G-DLH,Duluth,,,gleam_basin,,W-NA,,US,USA,,,,,2085
+G-DLI,Dalat,,,gleam_basin,,W-AS,,VN,VNM,,,,,1120
+G-DLM,Dalaman,,,gleam_basin,,W-AS,,TR,TUR,,,,,1743
+G-DLU,Dali,,,gleam_basin,,W-AS,,CN,CHN,,,,,388
+G-DLZ,Dalanzadgad,,,gleam_basin,,W-AS,,MN,MNG,,,,,846
+G-DMB,Taraz,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,670
+G-DMD,Doomadgee Mission,,,gleam_basin,,W-OC,,AU,AUS,,,,,1584
+G-DME,Moscow,,,gleam_basin,,W-EU,,RU,RUS,,,,,1890
+G-DMM,Dammam,,,gleam_basin,,W-AS,,SA,SAU,,,,,247
+G-DMU,Dimapur,,,gleam_basin,,W-AS,,IN,IND,,,,,1060
+G-DND,Dundee,,,gleam_basin,,W-EU,,GB,GBR,,,,,763
+G-DNH,Dunhuang,,,gleam_basin,,W-AS,,CN,CHN,,,,,340
+G-DNK,Dnipropetrovsk,,,gleam_basin,,W-EU,,UA,UKR,,,,,2785
+G-DNR,St-Malo,,,gleam_basin,,W-EU,,FR,FRA,,,,,1500
+G-DNZ,Denizli,,,gleam_basin,,W-AS,,TR,TUR,,,,,1747
+G-DOB,Dobo,,,gleam_basin,,W-AS,,ID,IDN,,,,,1282
+G-DOG,Dongola,,,gleam_basin,,W-AF,,SD,SDN,,,,,3018
+G-DOH,Doha,,,gleam_basin,,W-AS,,QA,QAT,,,,,73
+G-DOK,Donetsk,,,gleam_basin,,W-EU,,UA,UKR,,,,,2783
+G-DOM,Dominica,,,gleam_basin,,W-NA,,DM,DMA,,,,,716
+G-DOP,Dolpa,,,gleam_basin,,W-AS,,NP,NPL,,,,,555
+G-DOU,Dourados,,,gleam_basin,,W-SA,,BR,BRA,,,,,1960
+G-DOV,Dover,,,gleam_basin,,W-NA,,US,USA,,,,,2179
+G-DOY,Dongying,,,gleam_basin,,W-AS,,CN,CHN,,,,,352
+G-DPL,Dipolog,,,gleam_basin,,W-AS,,PH,PHL,,,,,588
+G-DPO,Devonport,,,gleam_basin,,W-OC,,AU,AUS,,,,,1575
+G-DPS,Denpasar,,,gleam_basin,,W-AS,,ID,IDN,,,,,1238
+G-DQA,Daqing,,,gleam_basin,,W-AS,,CN,CHN,,,,,329
+G-DRG,Deering,,,gleam_basin,,W-NA,,US,USA,,,,,2130
+G-DRO,Durango (US),,,gleam_basin,,W-NA,,US,USA,,,,,2128
+G-DRS,Dresden,,,gleam_basin,,W-EU,,DE,DEU,,,,,727
+G-DRT,Del Rio,,,gleam_basin,,W-NA,,US,USA,,,,,2127
+G-DRV,Dharavandhoo Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1478
+G-DRW,Darwin,,,gleam_basin,,W-OC,,AU,AUS,,,,,1589
+G-DSA,Doncaster,,,gleam_basin,,W-EU,,GB,GBR,,,,,778
+G-DSK,Dera Ismail Khan,,,gleam_basin,,W-AS,,PK,PAK,,,,,116
+G-DSM,Des Moines,,,gleam_basin,,W-NA,,US,USA,,,,,2173
+G-DSN,Ordos,,,gleam_basin,,W-AS,,CN,CHN,,,,,349
+G-DTD,Datadawai,,,gleam_basin,,W-AS,,ID,IDN,,,,,1293
+G-DTM,Dortmund,,,gleam_basin,,W-EU,,DE,DEU,,,,,745
+G-DTW,Detroit,,,gleam_basin,,W-NA,,US,USA,,,,,2397
+G-DUB,Dublin,,,gleam_basin,,W-EU,,IE,IRL,,,,,2925
+G-DUD,Dunedin,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3061
+G-DUJ,Dubois,,,gleam_basin,,W-NA,,US,USA,,,,,2449
+G-DUR,Durban,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,639
+G-DUS,Duesseldorf,,,gleam_basin,,W-EU,,DE,DEU,,,,,750
+G-DUT,Dutch Harbor,,,gleam_basin,,W-NA,,US,USA,,,,,2451
+G-DVD,Andavadoaka,,,gleam_basin,,W-AF,,MG,MDG,,,,,1458
+G-DVL,Devils Lake,,,gleam_basin,,W-NA,,US,USA,,,,,2481
+G-DVO,Davao,,,gleam_basin,,W-AS,,PH,PHL,,,,,619
+G-DWD,Dawadmi,,,gleam_basin,,W-AS,,SA,SAU,,,,,270
+G-DXB,Dubai,,,gleam_basin,,W-AS,,AE,ARE,,,,,3181
+G-DYG,Zhangjiajie,,,gleam_basin,,W-AS,,CN,CHN,,,,,404
+G-DYR,Anadyr,,,gleam_basin,,W-EU,,RU,RUS,,,,,1862
+G-DYU,Dushanbe,,,gleam_basin,,W-AS,,TJ,TJK,,,,,975
+G-DZA,Dzaoudzi,,,gleam_basin,,W-AF,,YT,MYT,,,,,199
+G-DZN,Zhezkazgan,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,666
+G-EAA,Eagle,,,gleam_basin,,W-NA,,US,USA,,,,,2157
+G-EAM,Nejran,,,gleam_basin,,W-AS,,SA,SAU,,,,,248
+G-EAR,Kearney,,,gleam_basin,,W-NA,,US,USA,,,,,2159
+G-EAT,Wenatchee,,,gleam_basin,,W-NA,,US,USA,,,,,2161
+G-EAU,Eau Claire,,,gleam_basin,,W-NA,,US,USA,,,,,2160
+G-EBA,Elba Island,,,gleam_basin,,W-EU,,IT,ITA,,,,,3070
+G-EBB,Entebbe,,,gleam_basin,,W-AF,,UG,UGA,,,,,3163
+G-EBD,El Obeid,,,gleam_basin,,W-AF,,SD,SDN,,,,,3011
+G-EBH,El Bayadh,,,gleam_basin,,W-AF,,DZ,DZA,,,,,18
+G-EBL,Erbil,,,gleam_basin,,W-AS,,IQ,IRQ,,,,,2912
+G-EBU,St-etienne,,,gleam_basin,,W-EU,,FR,FRA,,,,,1497
+G-ECP,Panama City (US),,,gleam_basin,,W-NA,,US,USA,,,,,2094
+G-EDI,Edinburgh,,,gleam_basin,,W-EU,,GB,GBR,,,,,762
+G-EDL,Eldoret,,,gleam_basin,,W-AF,,KE,KEN,,,,,1724
+G-EDO,Edremit,,,gleam_basin,,W-AS,,TR,TUR,,,,,1742
+G-EDR,Pormpuraaw,,,gleam_basin,,W-OC,,AU,AUS,,,,,1574
+G-EFL,Kefallinia,,,gleam_basin,,W-EU,,GR,GRC,,,,,935
+G-EGC,Bergerac,,,gleam_basin,,W-EU,,FR,FRA,,,,,1526
+G-EGM,Seghe,,,gleam_basin,,W-OC,,SB,SLB,,,,,3034
+G-EGN,Geneina,,,gleam_basin,,W-AF,,SD,SDN,,,,,3019
+G-EGO,Belgorod,,,gleam_basin,,W-EU,,RU,RUS,,,,,1902
+G-EGS,Egilsstadir,,,gleam_basin,,W-EU,,IS,ISL,,,,,1351
+G-EGX,Egegik,,,gleam_basin,,W-NA,,US,USA,,,,,2422
+G-EIN,Eindhoven,,,gleam_basin,,W-EU,,NL,NLD,,,,,836
+G-EIS,Beef Island,,,gleam_basin,,W-NA,,VG,VGB,,,,,901
+G-EJA,Barrancabermeja,,,gleam_basin,,W-SA,,CO,COL,,,,,1384
+G-EJH,Wedjh,,,gleam_basin,,W-AS,,SA,SAU,,,,,261
+G-EKO,Elko,,,gleam_basin,,W-NA,,US,USA,,,,,2285
+G-EKS,Shakhtersk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1860
+G-ELC,Elcho Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1625
+G-ELD,El Dorado,,,gleam_basin,,W-NA,,US,USA,,,,,2259
+G-ELF,El Fasher,,,gleam_basin,,W-AF,,SD,SDN,,,,,3014
+G-ELG,El Golea,,,gleam_basin,,W-AF,,DZ,DZA,,,,,28
+G-ELH,North Eleuthera,,,gleam_basin,,W-NA,,BS,BHS,,,,,3222
+G-ELI,Elim,,,gleam_basin,,W-NA,,US,USA,,,,,2364
+G-ELM,Elmira,,,gleam_basin,,W-NA,,US,USA,,,,,2258
+G-ELP,El Paso,,,gleam_basin,,W-NA,,US,USA,,,,,2263
+G-ELQ,Gassim,,,gleam_basin,,W-AS,,SA,SAU,,,,,257
+G-ELS,East London,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,632
+G-ELU,El Oued,,,gleam_basin,,W-AF,,DZ,DZA,,,,,29
+G-ELY,Ely,,,gleam_basin,,W-NA,,US,USA,,,,,2261
+G-EMA,Nottingham,,,gleam_basin,,W-EU,,GB,GBR,,,,,773
+G-EMD,Emerald,,,gleam_basin,,W-OC,,AU,AUS,,,,,1613
+G-EMK,Emmonak,,,gleam_basin,,W-NA,,US,USA,,,,,2246
+G-EMN,Nema,,,gleam_basin,,W-AF,,MR,MRT,,,,,281
+G-ENA,Kenai,,,gleam_basin,,W-NA,,US,USA,,,,,2201
+G-ENE,Ende,,,gleam_basin,,W-AS,,ID,IDN,,,,,1260
+G-ENF,Enontekio,,,gleam_basin,,W-EU,,FI,FIN,,,,,504
+G-ENH,Enshi,,,gleam_basin,,W-AS,,CN,CHN,,,,,360
+G-ENU,Enugu,,,gleam_basin,,W-AF,,NG,NGA,,,,,1414
+G-ENY,Yan'an,,,gleam_basin,,W-AS,,CN,CHN,,,,,361
+G-EPL,Epinal,,,gleam_basin,,W-EU,,FR,FRA,,,,,1510
+G-EPR,Esperance,,,gleam_basin,,W-OC,,AU,AUS,,,,,1621
+G-EQS,Esquel,,,gleam_basin,,W-SA,,AR,ARG,,,,,3187
+G-ERC,Erzincan,,,gleam_basin,,W-AS,,TR,TUR,,,,,1753
+G-ERF,Erfurt,,,gleam_basin,,W-EU,,DE,DEU,,,,,731
+G-ERG,Yerbogachen,,,gleam_basin,,W-EU,,RU,RUS,,,,,1823
+G-ERH,Errachidia,,,gleam_basin,,W-AF,,MA,MAR,,,,,815
+G-ERI,Erie,,,gleam_basin,,W-NA,,US,USA,,,,,2186
+G-ERL,Erenhot,,,gleam_basin,,W-AS,,CN,CHN,,,,,356
+G-ERM,Erechim,,,gleam_basin,,W-SA,,BR,BRA,,,,,1965
+G-ERN,Eirunepe,,,gleam_basin,,W-SA,,BR,BRA,,,,,1966
+G-ERZ,Erzurum,,,gleam_basin,,W-AS,,TR,TUR,,,,,1752
+G-ESB,Ankara,,,gleam_basin,,W-AS,,TR,TUR,,,,,1749
+G-ESC,Escanaba,,,gleam_basin,,W-NA,,US,USA,,,,,2256
+G-ESL,Elista,,,gleam_basin,,W-EU,,RU,RUS,,,,,1820
+G-ESM,Esmeraldas,,,gleam_basin,,W-SA,,EC,ECU,,,,,1463
+G-ESR,El Salvador,,,gleam_basin,,W-SA,,CL,CHL,,,,,295
+G-ESU,Essaouira,,,gleam_basin,,W-AF,,MA,MAR,,,,,816
+G-ETH,Eilat,,,gleam_basin,,W-AS,,IL,ISR,,,,,1207
+G-ETR,Santa Rosa (EC),,,gleam_basin,,W-SA,,EC,ECU,,,,,1459
+G-ETZ,Metz,,,gleam_basin,,W-EU,,FR,FRA,,,,,1496
+G-EUG,Eugene,,,gleam_basin,,W-NA,,US,USA,,,,,2096
+G-EUN,Laayoune,,,gleam_basin,,W-AF,,MA,MAR,,,,,812
+G-EUX,St Eustatius,,,gleam_basin,,W-NA,,BQ,BES,,,,,795
+G-EVE,Harstad,,,gleam_basin,,W-EU,,NO,NOR,,,,,1170
+G-EVG,Sveg,,,gleam_basin,,W-EU,,SE,SWE,,,,,2541
+G-EVN,Yerevan,,,gleam_basin,,W-AS,,AM,ARM,,,,,3233
+G-EVV,Evansville,,,gleam_basin,,W-NA,,US,USA,,,,,2356
+G-EWN,New Bern,,,gleam_basin,,W-NA,,US,USA,,,,,2516
+G-EXT,Exeter,,,gleam_basin,,W-EU,,GB,GBR,,,,,766
+G-EYK,Beloyarsky,,,gleam_basin,,W-EU,,RU,RUS,,,,,1919
+G-EYP,El Yopal,,,gleam_basin,,W-SA,,CO,COL,,,,,1397
+G-EYW,Key West,,,gleam_basin,,W-NA,,US,USA,,,,,2431
+G-EZE,Buenos Aires,,,gleam_basin,,W-SA,,AR,ARG,,,,,3205
+G-EZS,Elazig,,,gleam_basin,,W-AS,,TR,TUR,,,,,1775
+G-EZV,Berezovo,,,gleam_basin,,W-EU,,RU,RUS,,,,,1894
+G-FAC,Faaite,,,gleam_basin,,W-OC,,PF,PYF,,,,,700
+G-FAE,Faroe Islands,,,gleam_basin,,W-EU,,FO,FRO,,,,,1558
+G-FAH,Farah,,,gleam_basin,,W-AS,,AF,AFG,,,,,894
+G-FAI,Fairbanks,,,gleam_basin,,W-NA,,US,USA,,,,,2357
+G-FAO,Faro,,,gleam_basin,,W-EU,,PT,PRT,,,,,1435
+G-FAR,Fargo,,,gleam_basin,,W-NA,,US,USA,,,,,2353
+G-FAT,Fresno,,,gleam_basin,,W-NA,,US,USA,,,,,2355
+G-FAV,Fakarava,,,gleam_basin,,W-OC,,PF,PYF,,,,,699
+G-FAY,Fayetteville (US-NC),,,gleam_basin,,W-NA,,US,USA,,,,,2352
+G-FBA,Fonte Boa,,,gleam_basin,,W-SA,,BR,BRA,,,,,1987
+G-FBD,Faizabad,,,gleam_basin,,W-AS,,AF,AFG,,,,,890
+G-FBE,Francisco Beltrao,,,gleam_basin,,W-SA,,BR,BRA,,,,,1988
+G-FBM,Lubumbashi,,,gleam_basin,,W-AF,,CD,COD,,,,,1338
+G-FCA,Kalispell,,,gleam_basin,,W-NA,,US,USA,,,,,2290
+G-FCO,Rome,,,gleam_basin,,W-EU,,IT,ITA,,,,,3099
+G-FDF,Fort de France,,,gleam_basin,,W-NA,,MQ,MTQ,,,,,859
+G-FDH,Friedrichshafen,,,gleam_basin,,W-EU,,DE,DEU,,,,,751
+G-FEG,Fergana,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2846
+G-FEN,Fernando de Noronha,,,gleam_basin,,W-SA,,BR,BRA,,,,,2046
+G-FEZ,Fes,,,gleam_basin,,W-AF,,MA,MAR,,,,,826
+G-FGU,Fangatau,,,gleam_basin,,W-OC,,PF,PYF,,,,,709
+G-FHZ,Fakahina,,,gleam_basin,,W-OC,,PF,PYF,,,,,679
+G-FIH,Kinshasa,,,gleam_basin,,W-AF,,CD,COD,,,,,1331
+G-FJR,Fujairah,,,gleam_basin,,W-AS,,AE,ARE,,,,,3176
+G-FKB,Karlsruhe,,,gleam_basin,,W-EU,,DE,DEU,,,,,725
+G-FKI,Kisangani,,,gleam_basin,,W-AF,,CD,COD,,,,,1328
+G-FKL,Franklin,,,gleam_basin,,W-NA,,US,USA,,,,,2101
+G-FKQ,Fak Fak,,,gleam_basin,,W-AS,,ID,IDN,,,,,1242
+G-FKS,Fukushima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3140
+G-FLA,Florencia,,,gleam_basin,,W-SA,,CO,COL,,,,,1378
+G-FLG,Flagstaff,,,gleam_basin,,W-NA,,US,USA,,,,,2252
+G-FLN,Florianopolis,,,gleam_basin,,W-SA,,BR,BRA,,,,,1984
+G-FLO,Florence (US),,,gleam_basin,,W-NA,,US,USA,,,,,2251
+G-FLR,Florence (IT),,,gleam_basin,,W-EU,,IT,ITA,,,,,3081
+G-FLS,Flinders Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1654
+G-FLW,Flores Island,,,gleam_basin,,W-EU,,PT,PRT,,,,,1433
+G-FMA,Formosa,,,gleam_basin,,W-SA,,AR,ARG,,,,,3198
+G-FMI,Kalemie,,,gleam_basin,,W-AF,,CD,COD,,,,,1341
+G-FMM,Memmingen,,,gleam_basin,,W-EU,,DE,DEU,,,,,739
+G-FMN,Farmington,,,gleam_basin,,W-NA,,US,USA,,,,,2291
+G-FMO,Muenster,,,gleam_basin,,W-EU,,DE,DEU,,,,,738
+G-FNA,Freetown,,,gleam_basin,,W-AF,,SL,SLE,,,,,490
+G-FNC,Funchal,,,gleam_basin,,W-EU,,PT,PRT,,,,,1431
+G-FNJ,Pyongyang,,,gleam_basin,,W-AS,,KP,PRK,,,,,200
+G-FNT,Flint,,,gleam_basin,,W-NA,,US,USA,,,,,2192
+G-FOC,Fuzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,376
+G-FOD,Fort Dodge,,,gleam_basin,,W-NA,,US,USA,,,,,2225
+G-FOG,Foggia,,,gleam_basin,,W-EU,,IT,ITA,,,,,3079
+G-FON,Fortuna,,,gleam_basin,,W-NA,,CR,CRI,,,,,800
+G-FOR,Fortaleza,,,gleam_basin,,W-SA,,BR,BRA,,,,,1980
+G-FPO,Freeport,,,gleam_basin,,W-NA,,BS,BHS,,,,,3220
+G-FRA,Frankfurt,,,gleam_basin,,W-EU,,DE,DEU,,,,,733
+G-FRE,Fera Island,,,gleam_basin,,W-OC,,SB,SLB,,,,,3026
+G-FRO,Floro,,,gleam_basin,,W-EU,,NO,NOR,,,,,1168
+G-FRS,Flores,,,gleam_basin,,W-NA,,GT,GTM,,,,,1559
+G-FRU,Bishkek,,,gleam_basin,,W-AS,,KG,KGZ,,,,,3161
+G-FRW,Francistown,,,gleam_basin,,W-AF,,BW,BWA,,,,,220
+G-FSC,Figari,,,gleam_basin,,W-EU,,FR,FRA,,,,,1508
+G-FSD,Sioux Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2245
+G-FSM,Fort Smith (US),,,gleam_basin,,W-NA,,US,USA,,,,,2230
+G-FSP,St Pierre,,,gleam_basin,,W-NA,,PM,SPM,,,,,1487
+G-FSZ,Shizuoka,,,gleam_basin,,W-AS,,JP,JPN,,,,,3121
+G-FTA,Futuna Island,,,gleam_basin,,W-OC,,VU,VUT,,,,,1319
+G-FTE,El Calafate,,,gleam_basin,,W-SA,,AR,ARG,,,,,3209
+G-FTU,Tolanaro,,,gleam_basin,,W-AF,,MG,MDG,,,,,1456
+G-FUE,Fuerteventura,,,gleam_basin,,W-EU,,ES,ESP,,,,,2906
+G-FUG,Fuyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,454
+G-FUJ,Fukue,,,gleam_basin,,W-AS,,JP,JPN,,,,,3146
+G-FUK,Fukuoka,,,gleam_basin,,W-AS,,JP,JPN,,,,,3147
+G-FUN,Funafuti,,,gleam_basin,,W-OC,,TV,TUV,,,,,1787
+G-FUT,Futuna,,,gleam_basin,,W-OC,,WF,WLF,,,,,1556
+G-FVM,Fuvahmulak Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1481
+G-FWA,Fort Wayne,,,gleam_basin,,W-NA,,US,USA,,,,,2111
+G-FXO,Cuamba,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,962
+G-FYU,Fort Yukon,,,gleam_basin,,W-NA,,US,USA,,,,,2281
+G-GAE,Gabes,,,gleam_basin,,W-AF,,TN,TUN,,,,,1795
+G-GAJ,Yamagata,,,gleam_basin,,W-AS,,JP,JPN,,,,,3157
+G-GAL,Galena,,,gleam_basin,,W-NA,,US,USA,,,,,2499
+G-GAM,Gambell,,,gleam_basin,,W-NA,,US,USA,,,,,2498
+G-GAN,Gan Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1485
+G-GAO,Guantanamo,,,gleam_basin,,W-NA,,CU,CUB,,,,,3252
+G-GAU,Guwahati,,,gleam_basin,,W-AS,,IN,IND,,,,,1112
+G-GAY,Gaya,,,gleam_basin,,W-AS,,IN,IND,,,,,1111
+G-GBB,Gabala,,,gleam_basin,,W-AS,,AZ,AZE,,,,,2576
+G-GBD,Great Bend,,,gleam_basin,,W-NA,,US,USA,,,,,2113
+G-GBE,Gaborone,,,gleam_basin,,W-AF,,BW,BWA,,,,,219
+G-GBT,Gorgan,,,gleam_basin,,W-AS,,IR,IRN,,,,,2932
+G-GCC,Gillette,,,gleam_basin,,W-NA,,US,USA,,,,,2280
+G-GCI,Guernsey,,,gleam_basin,,W-EU,,GG,GGY,,,,,1442
+G-GCK,Garden City,,,gleam_basin,,W-NA,,US,USA,,,,,2312
+G-GCM,Grand Cayman Island,,,gleam_basin,,W-NA,,KY,CYM,,,,,2863
+G-GCN,Grand Canyon,,,gleam_basin,,W-NA,,US,USA,,,,,2086
+G-GCW,Grand Canyon West,,,gleam_basin,,W-NA,,US,USA,,,,,2287
+G-GDE,Gode,,,gleam_basin,,W-AF,,ET,ETH,,,,,239
+G-GDL,Guadalajara,,,gleam_basin,,W-NA,,MX,MEX,,,,,1023
+G-GDN,Gdansk,,,gleam_basin,,W-EU,,PL,POL,,,,,2857
+G-GDQ,Gonder,,,gleam_basin,,W-AF,,ET,ETH,,,,,238
+G-GDT,Grand Turk,,,gleam_basin,,W-NA,,TC,TCA,,,,,674
+G-GDV,Glendive,,,gleam_basin,,W-NA,,US,USA,,,,,2376
+G-GDX,Magadan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1891
+G-GDZ,Gelendzhik,,,gleam_basin,,W-EU,,RU,RUS,,,,,1892
+G-GEG,Spokane,,,gleam_basin,,W-NA,,US,USA,,,,,2343
+G-GEL,Santo Angelo,,,gleam_basin,,W-SA,,BR,BRA,,,,,2003
+G-GEO,Georgetown,,,gleam_basin,,W-SA,,GY,GUY,,,,,797
+G-GER,Nueva Gerona,,,gleam_basin,,W-NA,,CU,CUB,,,,,3248
+G-GES,General Santos,,,gleam_basin,,W-AS,,PH,PHL,,,,,610
+G-GET,Geraldton (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1641
+G-GEV,Gallivare,,,gleam_basin,,W-EU,,SE,SWE,,,,,2559
+G-GFF,Griffith,,,gleam_basin,,W-OC,,AU,AUS,,,,,1673
+G-GFK,Grand Forks,,,gleam_basin,,W-NA,,US,USA,,,,,2467
+G-GFN,Grafton,,,gleam_basin,,W-OC,,AU,AUS,,,,,1670
+G-GGG,Longview,,,gleam_basin,,W-NA,,US,USA,,,,,2405
+G-GGT,George Town,,,gleam_basin,,W-NA,,BS,BHS,,,,,3228
+G-GGW,Glasgow (US),,,gleam_basin,,W-NA,,US,USA,,,,,2404
+G-GHA,Ghardaia,,,gleam_basin,,W-AF,,DZ,DZA,,,,,33
+G-GHT,Ghat,,,gleam_basin,,W-AF,,LY,LBY,,,,,161
+G-GIB,Gibraltar,,,gleam_basin,,W-EU,,GI,GIB,,,,,493
+G-GIG,Rio de Janeiro,,,gleam_basin,,W-SA,,BR,BRA,,,,,1990
+G-GIL,Gilgit,,,gleam_basin,,W-AS,,PK,PAK,,,,,106
+G-GIS,Gisborne,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3051
+G-GIZ,Jazan,,,gleam_basin,,W-AS,,SA,SAU,,,,,258
+G-GJA,Guanaja,,,gleam_basin,,W-NA,,HN,HND,,,,,1194
+G-GJL,Jijel,,,gleam_basin,,W-AF,,DZ,DZA,,,,,41
+G-GJT,Grand Junction,,,gleam_basin,,W-NA,,US,USA,,,,,2365
+G-GKA,Goroka,,,gleam_basin,,W-OC,,PG,PNG,,,,,2999
+G-GKK,Kooddoo Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1482
+G-GLA,Glasgow (UK),,,gleam_basin,,W-EU,,GB,GBR,,,,,782
+G-GLH,Greenville (US-MS),,,gleam_basin,,W-NA,,US,USA,,,,,2176
+G-GLK,Galcaio,,,gleam_basin,,W-AF,,SO,SOM,,,,,2832
+G-GLN,Guelmime,,,gleam_basin,,W-AF,,MA,MAR,,,,,822
+G-GLO,Gloucester,,,gleam_basin,,W-EU,,GB,GBR,,,,,783
+G-GLT,Gladstone,,,gleam_basin,,W-OC,,AU,AUS,,,,,1645
+G-GMA,Gemena,,,gleam_basin,,W-AF,,CD,COD,,,,,1330
+G-GMB,Gambela,,,gleam_basin,,W-AF,,ET,ETH,,,,,227
+G-GME,Gomel,,,gleam_basin,,W-EU,,BY,BLR,,,,,902
+G-GMO,Gombe,,,gleam_basin,,W-AF,,NG,NGA,,,,,1411
+G-GMR,Totegegie,,,gleam_basin,,W-OC,,PF,PYF,,,,,682
+G-GMZ,San Sebastian La Gomera,,,gleam_basin,,W-EU,,ES,ESP,,,,,2885
+G-GNA,Grodno,,,gleam_basin,,W-EU,,BY,BLR,,,,,903
+G-GND,Grenada,,,gleam_basin,,W-NA,,GD,GRD,,,,,907
+G-GNS,Gunung Sitoli,,,gleam_basin,,W-AS,,ID,IDN,,,,,1263
+G-GNU,Goodnews Bay,,,gleam_basin,,W-NA,,US,USA,,,,,2237
+G-GNV,Gainesville,,,gleam_basin,,W-NA,,US,USA,,,,,2236
+G-GNY,Sanliurfa,,,gleam_basin,,W-AS,,TR,TUR,,,,,1766
+G-GOA,Genoa,,,gleam_basin,,W-EU,,IT,ITA,,,,,3077
+G-GOH,Nuuk,,,gleam_basin,,W-NA,,GL,GRL,,,,,941
+G-GOI,Goa,,,gleam_basin,,W-AS,,IN,IND,,,,,1071
+G-GOJ,Nizhny Novgorod,,,gleam_basin,,W-EU,,RU,RUS,,,,,1836
+G-GOM,Goma,,,gleam_basin,,W-AF,,CD,COD,,,,,1542
+G-GOP,Gorakhpur,,,gleam_basin,,W-AS,,IN,IND,,,,,1073
+G-GOQ,Golmud,,,gleam_basin,,W-AS,,CN,CHN,,,,,369
+G-GOT,Goteborg,,,gleam_basin,,W-EU,,SE,SWE,,,,,2572
+G-GOU,Garoua,,,gleam_basin,,W-AF,,CM,CMR,,,,,806
+G-GOV,Nhulunbuy,,,gleam_basin,,W-OC,,AU,AUS,,,,,1607
+G-GPA,Patrai,,,gleam_basin,,W-EU,,GR,GRC,,,,,933
+G-GPI,Guapi,,,gleam_basin,,W-SA,,CO,COL,,,,,1401
+G-GPS,Baltra Island,,,gleam_basin,,W-SA,,EC,ECU,,,,,1472
+G-GPT,Gulfport,,,gleam_basin,,W-NA,,US,USA,,,,,2475
+G-GPZ,Grand Rapids (US-MN),,,gleam_basin,,W-NA,,US,USA,,,,,2474
+G-GRB,Green Bay,,,gleam_basin,,W-NA,,US,USA,,,,,2206
+G-GRI,Grand Island,,,gleam_basin,,W-NA,,US,USA,,,,,2063
+G-GRJ,George,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,625
+G-GRK,Killeen,,,gleam_basin,,W-NA,,US,USA,,,,,2062
+G-GRO,Girona,,,gleam_basin,,W-EU,,ES,ESP,,,,,2877
+G-GRQ,Groningen,,,gleam_basin,,W-EU,,NL,NLD,,,,,835
+G-GRR,Grand Rapids (US-MI),,,gleam_basin,,W-NA,,US,USA,,,,,2061
+G-GRU,Sao Paulo,,,gleam_basin,,W-SA,,BR,BRA,,,,,2042
+G-GRV,Grozny,,,gleam_basin,,W-EU,,RU,RUS,,,,,1797
+G-GRX,Granada,,,gleam_basin,,W-EU,,ES,ESP,,,,,2876
+G-GRY,Grimsey,,,gleam_basin,,W-EU,,IS,ISL,,,,,1347
+G-GRZ,Graz,,,gleam_basin,,W-EU,,AT,AUT,,,,,1694
+G-GSM,Gheshm Island,,,gleam_basin,,W-AS,,IR,IRN,,,,,2968
+G-GSN,Mount Gunson,,,gleam_basin,,W-OC,,AU,AUS,,,,,1681
+G-GSO,Greensboro,,,gleam_basin,,W-NA,,US,USA,,,,,2508
+G-GSP,Greenville (US-SC),,,gleam_basin,,W-NA,,US,USA,,,,,2506
+G-GST,Gustavus,,,gleam_basin,,W-NA,,US,USA,,,,,2507
+G-GTE,Groote Eylandt,,,gleam_basin,,W-OC,,AU,AUS,,,,,1637
+G-GTF,Great Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2321
+G-GTO,Gorontalo,,,gleam_basin,,W-AS,,ID,IDN,,,,,1277
+G-GTR,Golden Triangle,,,gleam_basin,,W-NA,,US,USA,,,,,2322
+G-GTS,The Granites,,,gleam_basin,,W-OC,,AU,AUS,,,,,1638
+G-GUA,Guatemala City,,,gleam_basin,,W-NA,,GT,GTM,,,,,1560
+G-GUC,Gunnison,,,gleam_basin,,W-NA,,US,USA,,,,,2279
+G-GUM,Guam,,,gleam_basin,,W-OC,,GU,GUM,,,,,753
+G-GUR,Alotau,,,gleam_basin,,W-OC,,PG,PNG,,,,,2989
+G-GUW,Atyrau,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,663
+G-GVA,Geneva,,,gleam_basin,,W-EU,,CH,CHE,,,,,279
+G-GVR,Governador Valadares,,,gleam_basin,,W-SA,,BR,BRA,,,,,2013
+G-GWD,Gwadar,,,gleam_basin,,W-AS,,PK,PAK,,,,,127
+G-GWL,Gwalior,,,gleam_basin,,W-AS,,IN,IND,,,,,1093
+G-GWT,Westerland,,,gleam_basin,,W-EU,,DE,DEU,,,,,741
+G-GXF,Sayun,,,gleam_basin,,W-AS,,YE,YEM,,,,,582
+G-GXH,Xiahe,,,gleam_basin,,W-AS,,CN,CHN,,,,,384
+G-GYA,Guayaramerin,,,gleam_basin,,W-SA,,BR,BRA,,,,,1975
+G-GYD,Baku,,,gleam_basin,,W-AS,,AZ,AZE,,,,,2574
+G-GYE,Guayaquil,,,gleam_basin,,W-SA,,EC,ECU,,,,,1465
+G-GYL,Argyle,,,gleam_basin,,W-OC,,AU,AUS,,,,,1606
+G-GYN,Goiania,,,gleam_basin,,W-SA,,BR,BRA,,,,,1976
+G-GYS,Guangyuan,,,gleam_basin,,W-AS,,CN,CHN,,,,,367
+G-GYU,Guyuan,,,gleam_basin,,W-AS,,CN,CHN,,,,,366
+G-GZO,Gizo,,,gleam_basin,,W-OC,,SB,SLB,,,,,3030
+G-GZP,Gazipasa,,,gleam_basin,,W-AS,,TR,TUR,,,,,1772
+G-GZT,Gaziantep,,,gleam_basin,,W-AS,,TR,TUR,,,,,1771
+G-HAA,Hasvik,,,gleam_basin,,W-EU,,NO,NOR,,,,,1141
+G-HAC,Hachijojima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3119
+G-HAH,Moroni,,,gleam_basin,,W-AF,,KM,COM,,,,,1360
+G-HAJ,Hannover,,,gleam_basin,,W-EU,,DE,DEU,,,,,730
+G-HAK,Haikou,,,gleam_basin,,W-AS,,CN,CHN,,,,,475
+G-HAM,Hamburg,,,gleam_basin,,W-EU,,DE,DEU,,,,,735
+G-HAN,Hanoi,,,gleam_basin,,W-AS,,VN,VNM,,,,,1125
+G-HAQ,Hanimaadhoo Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1480
+G-HAS,Hail,,,gleam_basin,,W-AS,,SA,SAU,,,,,253
+G-HAU,Haugesund,,,gleam_basin,,W-EU,,NO,NOR,,,,,1143
+G-HAV,Havana,,,gleam_basin,,W-NA,,CU,CUB,,,,,3250
+G-HBA,Hobart,,,gleam_basin,,W-OC,,AU,AUS,,,,,1618
+G-HBE,Alexandria (EG),,,gleam_basin,,W-AF,,EG,EGY,,,,,56
+G-HBX,Hubli,,,gleam_basin,,W-AS,,IN,IND,,,,,1080
+G-HCR,Holy Cross,,,gleam_basin,,W-NA,,US,USA,,,,,2283
+G-HDD,Hyderabad (PK),,,gleam_basin,,W-AS,,PK,PAK,,,,,123
+G-HDF,Heringsdorf,,,gleam_basin,,W-EU,,DE,DEU,,,,,740
+G-HDG,Handan,,,gleam_basin,,W-AS,,CN,CHN,,,,,408
+G-HDM,Hamadan,,,gleam_basin,,W-AS,,IR,IRN,,,,,2948
+G-HDN,Hayden,,,gleam_basin,,W-NA,,US,USA,,,,,2308
+G-HDS,Hoedspruit,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,633
+G-HDY,Hat Yai,,,gleam_basin,,W-AS,,TH,THA,,,,,536
+G-HEA,Herat,,,gleam_basin,,W-AS,,AF,AFG,,,,,893
+G-HEB,Henzada,,,gleam_basin,,W-AS,,MM,MMR,,,,,880
+G-HEH,Heho,,,gleam_basin,,W-AS,,MM,MMR,,,,,881
+G-HEK,Heihe,,,gleam_basin,,W-AS,,CN,CHN,,,,,433
+G-HEL,Helsinki,,,gleam_basin,,W-EU,,FI,FIN,,,,,512
+G-HER,Irakleion,,,gleam_basin,,W-EU,,GR,GRC,,,,,928
+G-HET,Hohhot,,,gleam_basin,,W-AS,,CN,CHN,,,,,429
+G-HFA,Haifa,,,gleam_basin,,W-AS,,IL,ISR,,,,,1206
+G-HFE,Hefei,,,gleam_basin,,W-AS,,CN,CHN,,,,,438
+G-HFS,Hagfors,,,gleam_basin,,W-EU,,SE,SWE,,,,,2566
+G-HFT,Hammerfest,,,gleam_basin,,W-EU,,NO,NOR,,,,,1162
+G-HGA,Hargeisa,,,gleam_basin,,W-AF,,SO,SOM,,,,,2833
+G-HGD,Hughenden,,,gleam_basin,,W-OC,,AU,AUS,,,,,1666
+G-HGH,Hangzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,457
+G-HGN,Mae Hong Son,,,gleam_basin,,W-AS,,TH,THA,,,,,542
+G-HGR,Hagerstown,,,gleam_basin,,W-NA,,US,USA,,,,,2443
+G-HGU,Mount Hagen,,,gleam_basin,,W-OC,,PG,PNG,,,,,2995
+G-HHN,Simmern,,,gleam_basin,,W-EU,,DE,DEU,,,,,743
+G-HHQ,Hua Hin,,,gleam_basin,,W-AS,,TH,THA,,,,,540
+G-HHZ,Hikueru,,,gleam_basin,,W-OC,,PF,PYF,,,,,702
+G-HIA,Huai'an,,,gleam_basin,,W-AS,,CN,CHN,,,,,449
+G-HIB,Hibbing,,,gleam_basin,,W-NA,,US,USA,,,,,2414
+G-HID,Horn Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1659
+G-HIJ,Hiroshima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3144
+G-HIR,Honiara,,,gleam_basin,,W-OC,,SB,SLB,,,,,3033
+G-HJJ,Huaihua,,,gleam_basin,,W-AS,,CN,CHN,,,,,463
+G-HJR,Khajuraho,,,gleam_basin,,W-AS,,IN,IND,,,,,1109
+G-HKB,Healy Lake,,,gleam_basin,,W-NA,,US,USA,,,,,2510
+G-HKD,Hakodate,,,gleam_basin,,W-AS,,JP,JPN,,,,,3159
+G-HKG,Hong Kong,,,gleam_basin,,W-AS,,CN,CHN,,,,,473
+G-HKK,Hokitika,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3054
+G-HKN,Hoskins,,,gleam_basin,,W-OC,,PG,PNG,,,,,3001
+G-HKT,Phuket,,,gleam_basin,,W-AS,,TH,THA,,,,,549
+G-HLD,Hailar,,,gleam_basin,,W-AS,,CN,CHN,,,,,314
+G-HLH,Ulanhot,,,gleam_basin,,W-AS,,CN,CHN,,,,,313
+G-HLN,Helena,,,gleam_basin,,W-NA,,US,USA,,,,,2064
+G-HLT,Hamilton (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1572
+G-HLZ,Hamilton (NZ),,,gleam_basin,,W-OC,,NZ,NZL,,,,,3038
+G-HMA,Khanty-Mansiysk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1807
+G-HMB,Sohag,,,gleam_basin,,W-AF,,EG,EGY,,,,,49
+G-HME,Hassi Messaoud,,,gleam_basin,,W-AF,,DZ,DZA,,,,,15
+G-HMI,Hami,,,gleam_basin,,W-AS,,CN,CHN,,,,,321
+G-HMO,Hermosillo,,,gleam_basin,,W-NA,,MX,MEX,,,,,983
+G-HMV,Hemavan,,,gleam_basin,,W-EU,,SE,SWE,,,,,2544
+G-HNA,Hanamaki,,,gleam_basin,,W-AS,,JP,JPN,,,,,3105
+G-HND,Tokyo,,,gleam_basin,,W-AS,,JP,JPN,,,,,3106
+G-HNL,Honolulu,,,gleam_basin,,W-NA,,US,USA,,,,,2511
+G-HNS,Haines,,,gleam_basin,,W-NA,,US,USA,,,,,2267
+G-HOB,Hobbs,,,gleam_basin,,W-NA,,US,USA,,,,,2162
+G-HOD,Hodeidah,,,gleam_basin,,W-AS,,YE,YEM,,,,,580
+G-HOE,Houeisay,,,gleam_basin,,W-AS,,LA,LAO,,,,,571
+G-HOF,Hofuf,,,gleam_basin,,W-AS,,SA,SAU,,,,,249
+G-HOG,Holguin,,,gleam_basin,,W-NA,,CU,CUB,,,,,3244
+G-HOI,Hao,,,gleam_basin,,W-OC,,PF,PYF,,,,,684
+G-HOM,Homer,,,gleam_basin,,W-NA,,US,USA,,,,,2340
+G-HON,Huron,,,gleam_basin,,W-NA,,US,USA,,,,,2163
+G-HOR,Horta,,,gleam_basin,,W-EU,,PT,PRT,,,,,1436
+G-HOT,Hot Springs,,,gleam_basin,,W-NA,,US,USA,,,,,2164
+G-HOX,Homalin,,,gleam_basin,,W-AS,,MM,MMR,,,,,872
+G-HPH,Haiphong,,,gleam_basin,,W-AS,,VN,VNM,,,,,1123
+G-HRB,Harbin,,,gleam_basin,,W-AS,,CN,CHN,,,,,358
+G-HRE,Harare,,,gleam_basin,,W-AF,,ZW,ZWE,,,,,960
+G-HRG,Hurghada,,,gleam_basin,,W-AF,,EG,EGY,,,,,53
+G-HRK,Kharkiv,,,gleam_basin,,W-EU,,UA,UKR,,,,,2784
+G-HRL,Harlingen,,,gleam_basin,,W-NA,,US,USA,,,,,2196
+G-HSL,Huslia,,,gleam_basin,,W-NA,,US,USA,,,,,2221
+G-HSN,Zhoushan,,,gleam_basin,,W-AS,,CN,CHN,,,,,370
+G-HSV,Huntsville,,,gleam_basin,,W-NA,,US,USA,,,,,2222
+G-HTA,Chita,,,gleam_basin,,W-EU,,RU,RUS,,,,,1852
+G-HTI,Hamilton Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1633
+G-HTM,Khatgal,,,gleam_basin,,W-AS,,MN,MNG,,,,,848
+G-HTN,Hotan,,,gleam_basin,,W-AS,,CN,CHN,,,,,386
+G-HTS,Huntington,,,gleam_basin,,W-NA,,US,USA,,,,,2255
+G-HTY,Hatay,,,gleam_basin,,W-AS,,TR,TUR,,,,,1764
+G-HUE,Humera,,,gleam_basin,,W-AF,,ET,ETH,,,,,232
+G-HUI,Hue,,,gleam_basin,,W-AS,,VN,VNM,,,,,1130
+G-HUN,Hualien,,,gleam_basin,,W-AS,,TW,TWN,,,,,2826
+G-HUS,Hughes,,,gleam_basin,,W-NA,,US,USA,,,,,2282
+G-HUU,Huanuco,,,gleam_basin,,W-SA,,PE,PER,,,,,1221
+G-HUW,Humaita,,,gleam_basin,,W-SA,,BR,BRA,,,,,1991
+G-HUX,Huatulco,,,gleam_basin,,W-NA,,MX,MEX,,,,,1010
+G-HVB,Hervey Bay,,,gleam_basin,,W-OC,,AU,AUS,,,,,1639
+G-HVD,Khovd,,,gleam_basin,,W-AS,,MN,MNG,,,,,850
+G-HVG,Honningsvag,,,gleam_basin,,W-EU,,NO,NOR,,,,,1157
+G-HVN,New Haven,,,gleam_basin,,W-NA,,US,USA,,,,,2323
+G-HVR,Havre,,,gleam_basin,,W-NA,,US,USA,,,,,2324
+G-HYD,Hyderabad (IN),,,gleam_basin,,W-AS,,IN,IND,,,,,1094
+G-HYN,Taizhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,434
+G-HYS,Hays,,,gleam_basin,,W-NA,,US,USA,,,,,2350
+G-HZH,Liping,,,gleam_basin,,W-AS,,CN,CHN,,,,,446
+G-IAA,Igarka,,,gleam_basin,,W-EU,,RU,RUS,,,,,1879
+G-IAH,Houston,,,gleam_basin,,W-NA,,US,USA,,,,,2334
+G-IAM,In Amenas,,,gleam_basin,,W-AF,,DZ,DZA,,,,,36
+G-IAO,Del Carmen,,,gleam_basin,,W-AS,,PH,PHL,,,,,614
+G-IAR,Yaroslavl,,,gleam_basin,,W-EU,,RU,RUS,,,,,1880
+G-IAS,Iasi,,,gleam_basin,,W-EU,,RO,ROU,,,,,147
+G-IBA,Ibadan,,,gleam_basin,,W-AF,,NG,NGA,,,,,1417
+G-IBE,Ibague,,,gleam_basin,,W-SA,,CO,COL,,,,,1379
+G-IBZ,Ibiza,,,gleam_basin,,W-EU,,ES,ESP,,,,,2899
+G-ICI,Cicia Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1187
+G-ICN,Seoul,,,gleam_basin,,W-AS,,KR,KOR,,,,,2803
+G-ICT,Wichita,,,gleam_basin,,W-NA,,US,USA,,,,,2274
+G-IDA,Idaho Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2520
+G-IDR,Indore,,,gleam_basin,,W-AS,,IN,IND,,,,,1115
+G-IFJ,Isafjordur,,,gleam_basin,,W-EU,,IS,ISL,,,,,1352
+G-IFN,Esfahan,,,gleam_basin,,W-AS,,IR,IRN,,,,,2963
+G-IFO,Ivano-Frankivsk,,,gleam_basin,,W-EU,,UA,UKR,,,,,2793
+G-IFP,Bullhead City,,,gleam_basin,,W-NA,,US,USA,,,,,2436
+G-IGA,Inagua,,,gleam_basin,,W-NA,,BS,BHS,,,,,3226
+G-IGD,Igdir,,,gleam_basin,,W-AS,,TR,TUR,,,,,1776
+G-IGG,Igiugig,,,gleam_basin,,W-NA,,US,USA,,,,,2399
+G-IGM,Kingman,,,gleam_basin,,W-NA,,US,USA,,,,,2400
+G-IGR,Iguazu,,,gleam_basin,,W-SA,,AR,ARG,,,,,3208
+G-IGU,Foz do Iguacu,,,gleam_basin,,W-SA,,BR,BRA,,,,,2016
+G-IIL,Ilam,,,gleam_basin,,W-AS,,IR,IRN,,,,,2927
+G-IJK,Izhevsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1931
+G-IKE,Ikerasak,,,gleam_basin,,W-NA,,GL,GRL,,,,,955
+G-IKI,Iki,,,gleam_basin,,W-AS,,JP,JPN,,,,,3154
+G-IKO,Nikolski,,,gleam_basin,,W-NA,,US,USA,,,,,2484
+G-IKS,Tiksi,,,gleam_basin,,W-EU,,RU,RUS,,,,,1917
+G-IKT,Irkutsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1918
+G-ILD,Lleida,,,gleam_basin,,W-EU,,ES,ESP,,,,,2889
+G-ILI,Iliamna,,,gleam_basin,,W-NA,,US,USA,,,,,2509
+G-ILL,Willmar,,,gleam_basin,,W-NA,,US,USA,,,,,2228
+G-ILM,Wilmington,,,gleam_basin,,W-NA,,US,USA,,,,,2229
+G-ILO,Ilo-Ilo,,,gleam_basin,,W-AS,,PH,PHL,,,,,601
+G-ILP,Ile des Pins,,,gleam_basin,,W-OC,,NC,NCL,,,,,3171
+G-ILR,Ilorin,,,gleam_basin,,W-AF,,NG,NGA,,,,,1416
+G-ILY,Islay,,,gleam_basin,,W-EU,,GB,GBR,,,,,790
+G-IMF,Imphal,,,gleam_basin,,W-AS,,IN,IND,,,,,1069
+G-IMK,Simikot,,,gleam_basin,,W-AS,,NP,NPL,,,,,557
+G-IMP,Imperatriz,,,gleam_basin,,W-SA,,BR,BRA,,,,,1972
+G-IMT,Iron Mountain,,,gleam_basin,,W-NA,,US,USA,,,,,2105
+G-INC,Yinchuan,,,gleam_basin,,W-AS,,CN,CHN,,,,,350
+G-IND,Indianapolis,,,gleam_basin,,W-NA,,US,USA,,,,,2175
+G-INF,In Guezzam,,,gleam_basin,,W-AF,,DZ,DZA,,,,,22
+G-INH,Inhambane,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,968
+G-INI,Nis,,,gleam_basin,,W-EU,,RS,SRB,,,,,2052
+G-INL,International Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2174
+G-INN,Innsbruck,,,gleam_basin,,W-EU,,AT,AUT,,,,,1697
+G-INU,Nauru Island,,,gleam_basin,,W-OC,,NR,NRU,,,,,3235
+G-INV,Inverness,,,gleam_basin,,W-EU,,GB,GBR,,,,,767
+G-INZ,In Salah,,,gleam_basin,,W-AF,,DZ,DZA,,,,,21
+G-IOA,Ioannina,,,gleam_basin,,W-EU,,GR,GRC,,,,,911
+G-IOM,Isle of Man,,,gleam_basin,,W-EU,,IM,IMN,,,,,1568
+G-IOS,Ilheus,,,gleam_basin,,W-SA,,BR,BRA,,,,,1954
+G-IPA,Ipota,,,gleam_basin,,W-OC,,VU,VUT,,,,,1318
+G-IPC,Easter Island,,,gleam_basin,,W-SA,,CL,CHL,,,,,299
+G-IPH,Ipoh,,,gleam_basin,,W-AS,,MY,MYS,,,,,181
+G-IPI,Ipiales,,,gleam_basin,,W-SA,,CO,COL,,,,,1382
+G-IPL,Imperial,,,gleam_basin,,W-NA,,US,USA,,,,,2306
+G-IPN,Ipatinga,,,gleam_basin,,W-SA,,BR,BRA,,,,,1996
+G-IPT,Williamsport,,,gleam_basin,,W-NA,,US,USA,,,,,2307
+G-IQQ,Iquique,,,gleam_basin,,W-SA,,CL,CHL,,,,,307
+G-IQT,Iquitos,,,gleam_basin,,W-SA,,PE,PER,,,,,1228
+G-IRA,Kirakira,,,gleam_basin,,W-OC,,SB,SLB,,,,,3029
+G-IRD,Ishurdi,,,gleam_basin,,W-AS,,BD,BGD,,,,,65
+G-IRG,Lockhart River,,,gleam_basin,,W-OC,,AU,AUS,,,,,1619
+G-IRI,Iringa,,,gleam_basin,,W-AF,,TZ,TZA,,,,,207
+G-IRJ,La Rioja,,,gleam_basin,,W-SA,,AR,ARG,,,,,3190
+G-IRK,Kirksville,,,gleam_basin,,W-NA,,US,USA,,,,,2239
+G-IRM,Igrim,,,gleam_basin,,W-EU,,RU,RUS,,,,,1844
+G-IRP,Isiro,,,gleam_basin,,W-AF,,CD,COD,,,,,1337
+G-IRZ,Santa Isabel Rio Negro,,,gleam_basin,,W-SA,,BR,BRA,,,,,1982
+G-ISA,Mount Isa,,,gleam_basin,,W-OC,,AU,AUS,,,,,1605
+G-ISB,Islamabad,,,gleam_basin,,W-AS,,PK,PAK,,,,,108
+G-ISC,Isles of Scilly,,,gleam_basin,,W-EU,,GB,GBR,,,,,777
+G-ISE,Isparta,,,gleam_basin,,W-AS,,TR,TUR,,,,,1754
+G-ISG,New Ishigaki,,,gleam_basin,,W-AS,,JP,JPN,,,,,3102
+G-ISN,Williston,,,gleam_basin,,W-NA,,US,USA,,,,,2207
+G-ISP,Long Island Macarthur,,,gleam_basin,,W-NA,,US,USA,,,,,2297
+G-IST,Istanbul,,,gleam_basin,,W-AS,,TR,TUR,,,,,1758
+G-ISU,Sulaymaniyah,,,gleam_basin,,W-AS,,IQ,IRQ,,,,,2914
+G-ITA,Itacoatiara,,,gleam_basin,,W-SA,,BR,BRA,,,,,2022
+G-ITB,Itaituba,,,gleam_basin,,W-SA,,BR,BRA,,,,,2021
+G-ITH,Ithaca,,,gleam_basin,,W-NA,,US,USA,,,,,2454
+G-ITO,Hilo,,,gleam_basin,,W-NA,,US,USA,,,,,2452
+G-IUE,Niue,,,gleam_basin,,W-OC,,NU,NIU,,,,,715
+G-IVC,Invercargill,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3056
+G-IVL,Ivalo,,,gleam_basin,,W-EU,,FI,FIN,,,,,513
+G-IWA,Ivanovo,,,gleam_basin,,W-EU,,RU,RUS,,,,,1877
+G-IWD,Ironwood,,,gleam_basin,,W-NA,,US,USA,,,,,2332
+G-IWJ,Masuda,,,gleam_basin,,W-AS,,JP,JPN,,,,,3134
+G-IWK,Iwakuni,,,gleam_basin,,W-AS,,JP,JPN,,,,,3133
+G-IXA,Agartala,,,gleam_basin,,W-AS,,IN,IND,,,,,1047
+G-IXB,Bagdogra,,,gleam_basin,,W-AS,,IN,IND,,,,,1044
+G-IXC,Chandigarh,,,gleam_basin,,W-AS,,IN,IND,,,,,1045
+G-IXD,Allahabad,,,gleam_basin,,W-AS,,IN,IND,,,,,1049
+G-IXE,Mangalore,,,gleam_basin,,W-AS,,IN,IND,,,,,1050
+G-IXG,Belgaum,,,gleam_basin,,W-AS,,IN,IND,,,,,1048
+G-IXJ,Jammu,,,gleam_basin,,W-AS,,IN,IND,,,,,1041
+G-IXL,Leh,,,gleam_basin,,W-AS,,IN,IND,,,,,1042
+G-IXM,Madurai,,,gleam_basin,,W-AS,,IN,IND,,,,,1043
+G-IXR,Ranchi,,,gleam_basin,,W-AS,,IN,IND,,,,,1056
+G-IXS,Silchar,,,gleam_basin,,W-AS,,IN,IND,,,,,1051
+G-IXU,Aurangabad,,,gleam_basin,,W-AS,,IN,IND,,,,,1052
+G-IXZ,Port Blair,,,gleam_basin,,W-AS,,IN,IND,,,,,1054
+G-IYK,Inyokern,,,gleam_basin,,W-NA,,US,USA,,,,,2495
+G-IZO,Izumo,,,gleam_basin,,W-AS,,JP,JPN,,,,,3150
+G-JAC,Jackson (US-WY),,,gleam_basin,,W-NA,,US,USA,,,,,2079
+G-JAI,Jaipur,,,gleam_basin,,W-AS,,IN,IND,,,,,1057
+G-JAL,Jalapa,,,gleam_basin,,W-NA,,MX,MEX,,,,,1002
+G-JAN,Jackson (US-MS),,,gleam_basin,,W-NA,,US,USA,,,,,2077
+G-JAU,Jauja,,,gleam_basin,,W-SA,,PE,PER,,,,,1212
+G-JAV,Ilulissat,,,gleam_basin,,W-NA,,GL,GRL,,,,,956
+G-JAX,Jacksonville (US-FL),,,gleam_basin,,W-NA,,US,USA,,,,,2076
+G-JBR,Jonesboro,,,gleam_basin,,W-NA,,US,USA,,,,,2072
+G-JCB,Joacaba,,,gleam_basin,,W-SA,,BR,BRA,,,,,2036
+G-JCK,Julia Creek,,,gleam_basin,,W-OC,,AU,AUS,,,,,1679
+G-JCU,Ceuta,,,gleam_basin,,W-EU,,ES,ESP,,,,,2910
+G-JDF,Juiz de Fora,,,gleam_basin,,W-SA,,BR,BRA,,,,,2024
+G-JDH,Jodhpur,,,gleam_basin,,W-AS,,IN,IND,,,,,1098
+G-JDO,Juazeiro do Norte,,,gleam_basin,,W-SA,,BR,BRA,,,,,2008
+G-JDR,Sao Joao del Rei,,,gleam_basin,,W-SA,,BR,BRA,,,,,1943
+G-JDZ,Jingdezhen,,,gleam_basin,,W-AS,,CN,CHN,,,,,435
+G-JED,Jeddah,,,gleam_basin,,W-AS,,SA,SAU,,,,,262
+G-JER,Jersey,,,gleam_basin,,W-EU,,JE,JEY,,,,,1557
+G-JFK,New York,,,gleam_basin,,W-NA,,US,USA,,,,,2518
+G-JFR,Paamiut,,,gleam_basin,,W-NA,,GL,GRL,,,,,945
+G-JGA,Jamnagar,,,gleam_basin,,W-AS,,IN,IND,,,,,1092
+G-JGD,Jiagedaqi,,,gleam_basin,,W-AS,,CN,CHN,,,,,426
+G-JGN,Jiayuguan,,,gleam_basin,,W-AS,,CN,CHN,,,,,425
+G-JGS,Ji'an,,,gleam_basin,,W-AS,,CN,CHN,,,,,427
+G-JHB,Johor Bahru,,,gleam_basin,,W-AS,,MY,MYS,,,,,179
+G-JHG,Jinghong,,,gleam_basin,,W-AS,,CN,CHN,,,,,399
+G-JHS,Sisimiut,,,gleam_basin,,W-NA,,GL,GRL,,,,,942
+G-JHW,Jamestown (US-NY),,,gleam_basin,,W-NA,,US,USA,,,,,2293
+G-JIB,Djibouti,,,gleam_basin,,W-AF,,DJ,DJI,,,,,494
+G-JIC,Jinchang,,,gleam_basin,,W-AS,,CN,CHN,,,,,392
+G-JIJ,Jijiga,,,gleam_basin,,W-AF,,ET,ETH,,,,,231
+G-JIM,Jimma,,,gleam_basin,,W-AF,,ET,ETH,,,,,230
+G-JIQ,Qianjiang,,,gleam_basin,,W-AS,,CN,CHN,,,,,393
+G-JIU,Jiujiang,,,gleam_basin,,W-AS,,CN,CHN,,,,,318
+G-JJM,Meru,,,gleam_basin,,W-AF,,KE,KEN,,,,,1727
+G-JJN,Quanzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,389
+G-JKG,Jonkoping,,,gleam_basin,,W-EU,,SE,SWE,,,,,2549
+G-JKH,Chios,,,gleam_basin,,W-EU,,GR,GRC,,,,,916
+G-JKR,Janakpur,,,gleam_basin,,W-AS,,NP,NPL,,,,,556
+G-JLN,Joplin,,,gleam_basin,,W-NA,,US,USA,,,,,2119
+G-JLR,Jabalpur,,,gleam_basin,,W-AS,,IN,IND,,,,,1061
+G-JMK,Mykonos,,,gleam_basin,,W-EU,,GR,GRC,,,,,932
+G-JMO,Jomsom,,,gleam_basin,,W-AS,,NP,NPL,,,,,554
+G-JMS,Jamestown (US-ND),,,gleam_basin,,W-NA,,US,USA,,,,,2137
+G-JMU,Jiamusi,,,gleam_basin,,W-AS,,CN,CHN,,,,,336
+G-JNB,Johannesburg,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,626
+G-JNG,Jining,,,gleam_basin,,W-AS,,CN,CHN,,,,,312
+G-JNU,Juneau,,,gleam_basin,,W-NA,,US,USA,,,,,2057
+G-JNZ,Jinzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,311
+G-JOE,Joensuu,,,gleam_basin,,W-EU,,FI,FIN,,,,,496
+G-JOG,Yogyakarta,,,gleam_basin,,W-AS,,ID,IDN,,,,,1308
+G-JOI,Joinville,,,gleam_basin,,W-SA,,BR,BRA,,,,,1941
+G-JOK,Yoshkar-Ola,,,gleam_basin,,W-EU,,RU,RUS,,,,,1804
+G-JOL,Jolo,,,gleam_basin,,W-AS,,PH,PHL,,,,,589
+G-JOS,Jos,,,gleam_basin,,W-AF,,NG,NGA,,,,,1420
+G-JPA,Joao Pessoa,,,gleam_basin,,W-SA,,BR,BRA,,,,,2026
+G-JPR,Ji-Parana,,,gleam_basin,,W-SA,,BR,BRA,,,,,2028
+G-JRH,Jorhat,,,gleam_basin,,W-AS,,IN,IND,,,,,1102
+G-JRO,Kilimanjaro,,,gleam_basin,,W-AF,,TZ,TZA,,,,,205
+G-JSH,Siteia,,,gleam_basin,,W-EU,,GR,GRC,,,,,930
+G-JSI,Skiathos,,,gleam_basin,,W-EU,,GR,GRC,,,,,931
+G-JSR,Jessore,,,gleam_basin,,W-AS,,BD,BGD,,,,,67
+G-JSU,Maniitsoq,,,gleam_basin,,W-NA,,GL,GRL,,,,,949
+G-JTC,Bauru,,,gleam_basin,,W-SA,,BR,BRA,,,,,1999
+G-JTR,Thira,,,gleam_basin,,W-EU,,GR,GRC,,,,,924
+G-JTY,Astypalaia Island,,,gleam_basin,,W-EU,,GR,GRC,,,,,923
+G-JUB,Juba,,,gleam_basin,,W-AF,,SS,SSD,,,,,2538
+G-JUH,Chizhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,422
+G-JUJ,Jujuy,,,gleam_basin,,W-SA,,AR,ARG,,,,,3203
+G-JUL,Juliaca,,,gleam_basin,,W-SA,,PE,PER,,,,,1224
+G-JUM,Jumla,,,gleam_basin,,W-AS,,NP,NPL,,,,,563
+G-JUV,Upernavik,,,gleam_basin,,W-NA,,GL,GRL,,,,,951
+G-JUZ,Quzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,423
+G-JXA,Jixi,,,gleam_basin,,W-AS,,CN,CHN,,,,,357
+G-JYV,Jyvaskyla,,,gleam_basin,,W-EU,,FI,FIN,,,,,505
+G-JZH,Jiuzhaigou,,,gleam_basin,,W-AS,,CN,CHN,,,,,333
+G-KAA,Kasama,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1548
+G-KAC,Kamishly,,,gleam_basin,,W-AS,,SY,SYR,,,,,650
+G-KAD,Kaduna,,,gleam_basin,,W-AF,,NG,NGA,,,,,1412
+G-KAE,Kake,,,gleam_basin,,W-NA,,US,USA,,,,,2198
+G-KAJ,Kajaani,,,gleam_basin,,W-EU,,FI,FIN,,,,,502
+G-KAL,Kaltag,,,gleam_basin,,W-NA,,US,USA,,,,,2199
+G-KAN,Kano,,,gleam_basin,,W-AF,,NG,NGA,,,,,1413
+G-KAO,Kuusamo,,,gleam_basin,,W-EU,,FI,FIN,,,,,503
+G-KAS,Karasburg,,,gleam_basin,,W-AF,,LY,LBY,,,,,158
+G-KAT,Kaitaia,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3047
+G-KAW,Kawthaung,,,gleam_basin,,W-AS,,MM,MMR,,,,,874
+G-KAX,Kalbarri,,,gleam_basin,,W-OC,,AU,AUS,,,,,1604
+G-KAZ,Kau,,,gleam_basin,,W-AS,,ID,IDN,,,,,1259
+G-KBL,Kabul,,,gleam_basin,,W-AS,,AF,AFG,,,,,898
+G-KBP,Kiev,,,gleam_basin,,W-EU,,UA,UKR,,,,,2796
+G-KBR,Kota Bharu,,,gleam_basin,,W-AS,,MY,MYS,,,,,178
+G-KBU,Kotabaru,,,gleam_basin,,W-AS,,ID,IDN,,,,,1270
+G-KBV,Krabi,,,gleam_basin,,W-AS,,TH,THA,,,,,523
+G-KCA,Kuqa,,,gleam_basin,,W-AS,,CN,CHN,,,,,385
+G-KCF,Kadanwari,,,gleam_basin,,W-AS,,PK,PAK,,,,,120
+G-KCH,Kuching,,,gleam_basin,,W-AS,,MY,MYS,,,,,177
+G-KCK,Kirensk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1899
+G-KCM,Kahramanmaras,,,gleam_basin,,W-AS,,TR,TUR,,,,,1763
+G-KCO,Kocaeli,,,gleam_basin,,W-AS,,TR,TUR,,,,,1782
+G-KCQ,Chignik,,,gleam_basin,,W-NA,,US,USA,,,,,2535
+G-KCZ,Kochi (JP),,,gleam_basin,,W-AS,,JP,JPN,,,,,3123
+G-KDH,Kandahar,,,gleam_basin,,W-AS,,AF,AFG,,,,,892
+G-KDI,Kendari,,,gleam_basin,,W-AS,,ID,IDN,,,,,1280
+G-KDL,Kardla,,,gleam_basin,,W-EU,,EE,EST,,,,,2868
+G-KDM,Kaadedhdhoo Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1483
+G-KDO,Kadhdhoo Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1484
+G-KDU,Skardu,,,gleam_basin,,W-AS,,PK,PAK,,,,,128
+G-KDV,Kadavu Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1189
+G-KDZ,Kandy,,,gleam_basin,,W-AS,,LK,LKA,,,,,756
+G-KEF,Reykjavik,,,gleam_basin,,W-EU,,IS,ISL,,,,,1350
+G-KEJ,Kemerovo,,,gleam_basin,,W-EU,,RU,RUS,,,,,1873
+G-KEM,Kemi,,,gleam_basin,,W-EU,,FI,FIN,,,,,510
+G-KEP,Nepalganj,,,gleam_basin,,W-AS,,NP,NPL,,,,,561
+G-KER,Kerman,,,gleam_basin,,W-AS,,IR,IRN,,,,,2951
+G-KET,Kengtung,,,gleam_basin,,W-AS,,MM,MMR,,,,,879
+G-KFP,False Pass,,,gleam_basin,,W-NA,,US,USA,,,,,2412
+G-KFS,Kastamonu,,,gleam_basin,,W-AS,,TR,TUR,,,,,1778
+G-KGA,Kananga,,,gleam_basin,,W-AF,,CD,COD,,,,,1344
+G-KGC,Kingscote,,,gleam_basin,,W-OC,,AU,AUS,,,,,1649
+G-KGD,Kaliningrad,,,gleam_basin,,W-EU,,RU,RUS,,,,,1895
+G-KGE,Kagau Island,,,gleam_basin,,W-OC,,SB,SLB,,,,,3032
+G-KGF,Karaganda,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,667
+G-KGI,Kalgoorlie-Boulder,,,gleam_basin,,W-OC,,AU,AUS,,,,,1650
+G-KGL,Kigali,,,gleam_basin,,W-AF,,RW,RWA,,,,,1543
+G-KGP,Kogalym,,,gleam_basin,,W-EU,,RU,RUS,,,,,1893
+G-KGS,Kos,,,gleam_basin,,W-EU,,GR,GRC,,,,,939
+G-KGT,Kangding,,,gleam_basin,,W-AS,,CN,CHN,,,,,444
+G-KHD,Khorramabad,,,gleam_basin,,W-AS,,IR,IRN,,,,,2970
+G-KHE,Kherson,,,gleam_basin,,W-EU,,UA,UKR,,,,,2790
+G-KHG,Kashi,,,gleam_basin,,W-AS,,CN,CHN,,,,,474
+G-KHH,Kaohsiung,,,gleam_basin,,W-AS,,TW,TWN,,,,,2828
+G-KHI,Karachi,,,gleam_basin,,W-AS,,PK,PAK,,,,,105
+G-KHN,Nanchang,,,gleam_basin,,W-AS,,CN,CHN,,,,,472
+G-KHS,Khasab,,,gleam_basin,,W-AS,,OM,OMN,,,,,1786
+G-KHV,Khabarovsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1882
+G-KHY,Khoy,,,gleam_basin,,W-AS,,IR,IRN,,,,,2969
+G-KID,Kristianstad,,,gleam_basin,,W-EU,,SE,SWE,,,,,2548
+G-KIH,Kish Island,,,gleam_basin,,W-AS,,IR,IRN,,,,,2965
+G-KIJ,Niigata,,,gleam_basin,,W-AS,,JP,JPN,,,,,3152
+G-KIM,Kimberley,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,640
+G-KIN,Kingston (JM),,,gleam_basin,,W-NA,,JM,JAM,,,,,492
+G-KIR,Kerry,,,gleam_basin,,W-EU,,IE,IRL,,,,,2926
+G-KIS,Kisumu,,,gleam_basin,,W-AF,,KE,KEN,,,,,1736
+G-KIT,Kythira,,,gleam_basin,,W-EU,,GR,GRC,,,,,934
+G-KIV,Chisinau,,,gleam_basin,,W-EU,,MD,MDA,,,,,1441
+G-KIX,Osaka,,,gleam_basin,,W-AS,,JP,JPN,,,,,3151
+G-KJA,Krasnoyarsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1874
+G-KJI,Burqin,,,gleam_basin,,W-AS,,CN,CHN,,,,,324
+G-KKA,Koyuk,,,gleam_basin,,W-NA,,US,USA,,,,,2065
+G-KKC,Khon Kaen,,,gleam_basin,,W-AS,,TH,THA,,,,,525
+G-KKD,Kokoda,,,gleam_basin,,W-OC,,PG,PNG,,,,,2977
+G-KKE,Kerikeri,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3039
+G-KKJ,Kitakyushu,,,gleam_basin,,W-AS,,JP,JPN,,,,,3139
+G-KKN,Kirkenes,,,gleam_basin,,W-EU,,NO,NOR,,,,,1144
+G-KKR,Kaukura,,,gleam_basin,,W-OC,,PF,PYF,,,,,680
+G-KLM,Kalaleh,,,gleam_basin,,W-AS,,IR,IRN,,,,,2936
+G-KLO,Kalibo,,,gleam_basin,,W-AS,,PH,PHL,,,,,602
+G-KLR,Kalmar,,,gleam_basin,,W-EU,,SE,SWE,,,,,2545
+G-KLU,Klagenfurt,,,gleam_basin,,W-EU,,AT,AUT,,,,,1696
+G-KLV,Karlovy Vary,,,gleam_basin,,W-EU,,CZ,CZE,,,,,1177
+G-KLX,Kalamata,,,gleam_basin,,W-EU,,GR,GRC,,,,,913
+G-KMA,Kerema,,,gleam_basin,,W-OC,,PG,PNG,,,,,2982
+G-KME,Cyangugu,,,gleam_basin,,W-AF,,RW,RWA,,,,,1544
+G-KMG,Kunming,,,gleam_basin,,W-AS,,CN,CHN,,,,,458
+G-KMI,Miyazaki,,,gleam_basin,,W-AS,,JP,JPN,,,,,3107
+G-KMJ,Kumamoto,,,gleam_basin,,W-AS,,JP,JPN,,,,,3153
+G-KMQ,Komatsu,,,gleam_basin,,W-AS,,JP,JPN,,,,,3108
+G-KMS,Kumasi,,,gleam_basin,,W-AF,,GH,GHA,,,,,101
+G-KMU,Kisimayu,,,gleam_basin,,W-AF,,SO,SOM,,,,,2835
+G-KMV,Kalemyo,,,gleam_basin,,W-AS,,MM,MMR,,,,,870
+G-KND,Kindu,,,gleam_basin,,W-AF,,CD,COD,,,,,1333
+G-KNG,Utarom,,,gleam_basin,,W-AS,,ID,IDN,,,,,1258
+G-KNH,Kinmen,,,gleam_basin,,W-AS,,TW,TWN,,,,,2823
+G-KNQ,Kone,,,gleam_basin,,W-OC,,NC,NCL,,,,,3170
+G-KNS,King Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1602
+G-KNU,Kanpur,,,gleam_basin,,W-AS,,IN,IND,,,,,1067
+G-KNX,Kununurra,,,gleam_basin,,W-OC,,AU,AUS,,,,,1611
+G-KOA,Kona,,,gleam_basin,,W-NA,,US,USA,,,,,2445
+G-KOC,Koumac,,,gleam_basin,,W-OC,,NC,NCL,,,,,3168
+G-KOE,Kupang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1296
+G-KOJ,Kagoshima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3115
+G-KOK,Kokkola,,,gleam_basin,,W-EU,,FI,FIN,,,,,501
+G-KOO,Kongolo,,,gleam_basin,,W-AF,,CD,COD,,,,,1332
+G-KOP,Nakhon Phanom,,,gleam_basin,,W-AS,,TH,THA,,,,,541
+G-KOS,Sihanoukville,,,gleam_basin,,W-AS,,KH,KHM,,,,,223
+G-KOT,Kotlik,,,gleam_basin,,W-NA,,US,USA,,,,,2413
+G-KOV,Kokshetau,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,669
+G-KOW,Ganzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,450
+G-KQA,Akutan,,,gleam_basin,,W-NA,,US,USA,,,,,2328
+G-KQT,Qurghonteppa,,,gleam_basin,,W-AS,,TJ,TJK,,,,,974
+G-KRC,Kerinci,,,gleam_basin,,W-AS,,ID,IDN,,,,,1281
+G-KRF,Kramfors,,,gleam_basin,,W-EU,,SE,SWE,,,,,2540
+G-KRK,Krakow,,,gleam_basin,,W-EU,,PL,POL,,,,,2855
+G-KRL,Korla,,,gleam_basin,,W-AS,,CN,CHN,,,,,310
+G-KRN,Kiruna,,,gleam_basin,,W-EU,,SE,SWE,,,,,2560
+G-KRO,Kurgan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1932
+G-KRP,Karup,,,gleam_basin,,W-EU,,DK,DNK,,,,,1563
+G-KRR,Krasnodar,,,gleam_basin,,W-EU,,RU,RUS,,,,,1883
+G-KRS,Kristiansand,,,gleam_basin,,W-EU,,NO,NOR,,,,,1161
+G-KRT,Khartoum,,,gleam_basin,,W-AF,,SD,SDN,,,,,3017
+G-KRY,Karamay,,,gleam_basin,,W-AS,,CN,CHN,,,,,431
+G-KSA,Kosrae,,,gleam_basin,,W-OC,,FM,FSM,,,,,1211
+G-KSC,Kosice,,,gleam_basin,,W-EU,,SK,SVK,,,,,2814
+G-KSD,Karlstad,,,gleam_basin,,W-EU,,SE,SWE,,,,,2557
+G-KSE,Kasese,,,gleam_basin,,W-AF,,UG,UGA,,,,,3164
+G-KSF,Kassel,,,gleam_basin,,W-EU,,DE,DEU,,,,,737
+G-KSH,Kermanshah,,,gleam_basin,,W-AS,,IR,IRN,,,,,2949
+G-KSL,Kassala,,,gleam_basin,,W-AF,,SD,SDN,,,,,3015
+G-KSM,St Marys,,,gleam_basin,,W-NA,,US,USA,,,,,2494
+G-KSN,Kostanay,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,665
+G-KSO,Kastoria,,,gleam_basin,,W-EU,,GR,GRC,,,,,921
+G-KSQ,Karshi,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2839
+G-KSY,Kars,,,gleam_basin,,W-AS,,TR,TUR,,,,,1769
+G-KSZ,Kotlas,,,gleam_basin,,W-EU,,RU,RUS,,,,,1869
+G-KTA,Karratha,,,gleam_basin,,W-OC,,AU,AUS,,,,,1661
+G-KTE,Kerteh,,,gleam_basin,,W-AS,,MY,MYS,,,,,193
+G-KTG,Ketapang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1298
+G-KTL,Kitale,,,gleam_basin,,W-AF,,KE,KEN,,,,,1733
+G-KTM,Kathmandu,,,gleam_basin,,W-AS,,NP,NPL,,,,,566
+G-KTN,Ketchikan,,,gleam_basin,,W-NA,,US,USA,,,,,2522
+G-KTS,Teller Mission,,,gleam_basin,,W-NA,,US,USA,,,,,2476
+G-KTT,Kittila,,,gleam_basin,,W-EU,,FI,FIN,,,,,515
+G-KTW,Katowice,,,gleam_basin,,W-EU,,PL,POL,,,,,2856
+G-KUA,Kuantan,,,gleam_basin,,W-AS,,MY,MYS,,,,,185
+G-KUD,Kudat,,,gleam_basin,,W-AS,,MY,MYS,,,,,170
+G-KUF,Samara,,,gleam_basin,,W-EU,,RU,RUS,,,,,1826
+G-KUH,Kushiro,,,gleam_basin,,W-AS,,JP,JPN,,,,,3116
+G-KUL,Kuala Lumpur,,,gleam_basin,,W-AS,,MY,MYS,,,,,182
+G-KUN,Kaunas,,,gleam_basin,,W-EU,,LT,LTU,,,,,1539
+G-KUO,Kuopio,,,gleam_basin,,W-EU,,FI,FIN,,,,,514
+G-KUS,Kulusuk Island,,,gleam_basin,,W-NA,,GL,GRL,,,,,948
+G-KUT,Kutaisi,,,gleam_basin,,W-AS,,GE,GEO,,,,,841
+G-KUU,Kullu,,,gleam_basin,,W-AS,,IN,IND,,,,,1110
+G-KUV,Gunsan,,,gleam_basin,,W-AS,,KR,KOR,,,,,2805
+G-KVA,Kavala,,,gleam_basin,,W-EU,,GR,GRC,,,,,937
+G-KVD,Ganja,,,gleam_basin,,W-AS,,AZ,AZE,,,,,2577
+G-KVG,Kavieng,,,gleam_basin,,W-OC,,PG,PNG,,,,,3002
+G-KVK,Kirovsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1887
+G-KVL,Kivalina,,,gleam_basin,,W-NA,,US,USA,,,,,2512
+G-KVX,Kirov,,,gleam_basin,,W-EU,,RU,RUS,,,,,1923
+G-KWA,Kwajalein Island,,,gleam_basin,,W-OC,,MH,MHL,,,,,858
+G-KWE,Guiyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,460
+G-KWG,Krivyi Rih,,,gleam_basin,,W-EU,,UA,UKR,,,,,2794
+G-KWI,Kuwait,,,gleam_basin,,W-AS,,KW,KWT,,,,,2861
+G-KWJ,Gwangju,,,gleam_basin,,W-AS,,KR,KOR,,,,,2808
+G-KWL,Guilin,,,gleam_basin,,W-AS,,CN,CHN,,,,,461
+G-KWM,Kowanyama,,,gleam_basin,,W-OC,,AU,AUS,,,,,1588
+G-KWN,Quinhagak,,,gleam_basin,,W-NA,,US,USA,,,,,2129
+G-KXK,Komsomolsk-na-Amure,,,gleam_basin,,W-EU,,RU,RUS,,,,,1851
+G-KXU,Katiu,,,gleam_basin,,W-OC,,PF,PYF,,,,,694
+G-KYA,Konya,,,gleam_basin,,W-AS,,TR,TUR,,,,,1740
+G-KYP,Kyaukpyu,,,gleam_basin,,W-AS,,MM,MMR,,,,,869
+G-KZI,Kozani,,,gleam_basin,,W-EU,,GR,GRC,,,,,919
+G-KZN,Kazan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1840
+G-KZO,Kyzylorda,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,658
+G-KZR,Kutahya,,,gleam_basin,,W-AS,,TR,TUR,,,,,1748
+G-KZS,Megisti,,,gleam_basin,,W-EU,,GR,GRC,,,,,912
+G-LAD,Luanda,,,gleam_basin,,W-AF,,AO,AGO,,,,,11
+G-LAE,Lae,,,gleam_basin,,W-OC,,PG,PNG,,,,,2993
+G-LAI,Lannion,,,gleam_basin,,W-EU,,FR,FRA,,,,,1523
+G-LAK,Aklavik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2741
+G-LAN,Lansing,,,gleam_basin,,W-NA,,US,USA,,,,,2392
+G-LAO,Laoag,,,gleam_basin,,W-AS,,PH,PHL,,,,,612
+G-LAP,La Paz (MX),,,gleam_basin,,W-NA,,MX,MEX,,,,,1026
+G-LAQ,Beida,,,gleam_basin,,W-AF,,LY,LBY,,,,,163
+G-LAR,Laramie,,,gleam_basin,,W-NA,,US,USA,,,,,2395
+G-LAS,Las Vegas,,,gleam_basin,,W-NA,,US,USA,,,,,2396
+G-LAU,Lamu,,,gleam_basin,,W-AF,,KE,KEN,,,,,1732
+G-LAW,Lawton,,,gleam_basin,,W-NA,,US,USA,,,,,2394
+G-LAX,Los Angeles,,,gleam_basin,,W-NA,,US,USA,,,,,2393
+G-LBA,Leeds Bradford,,,gleam_basin,,W-EU,,GB,GBR,,,,,787
+G-LBB,Lubbock,,,gleam_basin,,W-NA,,US,USA,,,,,2423
+G-LBC,Lubeck,,,gleam_basin,,W-EU,,DE,DEU,,,,,746
+G-LBD,Khujand,,,gleam_basin,,W-AS,,TJ,TJK,,,,,977
+G-LBE,Latrobe,,,gleam_basin,,W-NA,,US,USA,,,,,2424
+G-LBF,North Platte,,,gleam_basin,,W-NA,,US,USA,,,,,2425
+G-LBJ,Labuan Bajo,,,gleam_basin,,W-AS,,ID,IDN,,,,,1300
+G-LBL,Liberal,,,gleam_basin,,W-NA,,US,USA,,,,,2426
+G-LBP,Long Banga,,,gleam_basin,,W-AS,,MY,MYS,,,,,190
+G-LBR,Labrea,,,gleam_basin,,W-SA,,BR,BRA,,,,,2019
+G-LBS,Labasa,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1190
+G-LBU,Labuan,,,gleam_basin,,W-AS,,MY,MYS,,,,,191
+G-LBV,Libreville,,,gleam_basin,,W-AF,,GA,GAB,,,,,647
+G-LCA,Larnaca,,,gleam_basin,,W-AS,,CY,CYP,,,,,2817
+G-LCH,Lake Charles,,,gleam_basin,,W-NA,,US,USA,,,,,2480
+G-LCJ,Lodz,,,gleam_basin,,W-EU,,PL,POL,,,,,2860
+G-LCR,La Chorrera,,,gleam_basin,,W-SA,,CO,COL,,,,,1403
+G-LCX,Longyan,,,gleam_basin,,W-AS,,CN,CHN,,,,,467
+G-LDB,Londrina,,,gleam_basin,,W-SA,,BR,BRA,,,,,1957
+G-LDG,Leshukonskoye,,,gleam_basin,,W-EU,,RU,RUS,,,,,1839
+G-LDH,Lord Howe Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1614
+G-LDS,Yichun (Heilongjiang),,,gleam_basin,,W-AS,,CN,CHN,,,,,374
+G-LDU,Lahad Datu,,,gleam_basin,,W-AS,,MY,MYS,,,,,172
+G-LDY,Derry,,,gleam_basin,,W-EU,,GB,GBR,,,,,774
+G-LEA,Learmonth,,,gleam_basin,,W-OC,,AU,AUS,,,,,1674
+G-LEB,Lebanon,,,gleam_basin,,W-NA,,US,USA,,,,,2264
+G-LEC,Lencois,,,gleam_basin,,W-SA,,BR,BRA,,,,,1986
+G-LED,St Petersburg,,,gleam_basin,,W-EU,,RU,RUS,,,,,1855
+G-LEI,Almeria,,,gleam_basin,,W-EU,,ES,ESP,,,,,2894
+G-LEJ,Leipzig,,,gleam_basin,,W-EU,,DE,DEU,,,,,736
+G-LEN,Leon (ES),,,gleam_basin,,W-EU,,ES,ESP,,,,,2895
+G-LET,Leticia,,,gleam_basin,,W-SA,,BR,BRA,,,,,2001
+G-LEX,Lexington,,,gleam_basin,,W-NA,,US,USA,,,,,2265
+G-LFT,Lafayette,,,gleam_basin,,W-NA,,US,USA,,,,,2148
+G-LFW,Lome,,,gleam_basin,,W-AF,,TG,TGO,,,,,723
+G-LGG,Liege,,,gleam_basin,,W-EU,,BE,BEL,,,,,719
+G-LGI,Deadmans Cay,,,gleam_basin,,W-NA,,BS,BHS,,,,,3227
+G-LGK,Langkawi,,,gleam_basin,,W-AS,,MY,MYS,,,,,183
+G-LGP,Legaspi,,,gleam_basin,,W-AS,,PH,PHL,,,,,609
+G-LGQ,Lago Agrio,,,gleam_basin,,W-SA,,EC,ECU,,,,,1467
+G-LHE,Lahore,,,gleam_basin,,W-AS,,PK,PAK,,,,,115
+G-LHR,London (UK),,,gleam_basin,,W-EU,,GB,GBR,,,,,791
+G-LHW,Lanzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,343
+G-LIF,Lifou,,,gleam_basin,,W-OC,,NC,NCL,,,,,3169
+G-LIG,Limoges,,,gleam_basin,,W-EU,,FR,FRA,,,,,1531
+G-LIH,Kauai Island,,,gleam_basin,,W-NA,,US,USA,,,,,2193
+G-LIL,Lille,,,gleam_basin,,W-EU,,FR,FRA,,,,,1505
+G-LIM,Lima,,,gleam_basin,,W-SA,,PE,PER,,,,,1216
+G-LIR,Liberia,,,gleam_basin,,W-NA,,CR,CRI,,,,,803
+G-LIS,Lisbon,,,gleam_basin,,W-EU,,PT,PRT,,,,,1439
+G-LIT,Little Rock,,,gleam_basin,,W-NA,,US,USA,,,,,2194
+G-LIX,Likoma Island,,,gleam_basin,,W-AF,,MW,MWI,,,,,2869
+G-LJA,Lodja,,,gleam_basin,,W-AF,,CD,COD,,,,,1336
+G-LJG,Lijiang,,,gleam_basin,,W-AS,,CN,CHN,,,,,375
+G-LJU,Ljubljana,,,gleam_basin,,W-EU,,SI,SVN,,,,,272
+G-LKB,Lakeba Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1186
+G-LKG,Lokichogio,,,gleam_basin,,W-AF,,KE,KEN,,,,,1729
+G-LKL,Lakselv,,,gleam_basin,,W-EU,,NO,NOR,,,,,1148
+G-LKN,Leknes,,,gleam_basin,,W-EU,,NO,NOR,,,,,1159
+G-LKO,Lucknow,,,gleam_basin,,W-AS,,IN,IND,,,,,1082
+G-LKY,Lake Manyara,,,gleam_basin,,W-AF,,TZ,TZA,,,,,213
+G-LLA,Lulea,,,gleam_basin,,W-EU,,SE,SWE,,,,,2573
+G-LLB,Libo,,,gleam_basin,,W-AS,,CN,CHN,,,,,478
+G-LLF,Yongzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,479
+G-LLI,Lalibela,,,gleam_basin,,W-AF,,ET,ETH,,,,,242
+G-LLK,Lankaran,,,gleam_basin,,W-AS,,AZ,AZE,,,,,2578
+G-LLW,Lilongwe,,,gleam_basin,,W-AF,,MW,MWI,,,,,2872
+G-LMA,Lake Minchumina,,,gleam_basin,,W-NA,,US,USA,,,,,2068
+G-LMC,Lamacarena,,,gleam_basin,,W-SA,,CO,COL,,,,,1362
+G-LMM,Los Mochis,,,gleam_basin,,W-NA,,MX,MEX,,,,,994
+G-LMN,Limbang,,,gleam_basin,,W-AS,,MY,MYS,,,,,187
+G-LMP,Lampedusa,,,gleam_basin,,W-EU,,IT,ITA,,,,,3066
+G-LMT,Klamath Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2067
+G-LNJ,Lincang,,,gleam_basin,,W-AS,,CN,CHN,,,,,416
+G-LNK,Lincoln,,,gleam_basin,,W-NA,,US,USA,,,,,2093
+G-LNV,Lihir Island,,,gleam_basin,,W-OC,,PG,PNG,,,,,2978
+G-LNZ,Linz,,,gleam_basin,,W-EU,,AT,AUT,,,,,1695
+G-LOD,Longana,,,gleam_basin,,W-OC,,VU,VUT,,,,,1321
+G-LOE,Loei,,,gleam_basin,,W-AS,,TH,THA,,,,,524
+G-LOH,Loja,,,gleam_basin,,W-SA,,EC,ECU,,,,,1461
+G-LOK,Lodwar,,,gleam_basin,,W-AF,,KE,KEN,,,,,1725
+G-LOO,Laghouat,,,gleam_basin,,W-AF,,DZ,DZA,,,,,17
+G-LOP,Praya,,,gleam_basin,,W-AS,,ID,IDN,,,,,1251
+G-LOS,Lagos,,,gleam_basin,,W-AF,,NG,NGA,,,,,1409
+G-LPA,Gran Canaria,,,gleam_basin,,W-EU,,ES,ESP,,,,,2905
+G-LPB,La Paz (BO),,,gleam_basin,,W-SA,,BO,BOL,,,,,96
+G-LPD,La Pedrera,,,gleam_basin,,W-SA,,CO,COL,,,,,1398
+G-LPK,Lipetsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1903
+G-LPP,Lappeenranta,,,gleam_basin,,W-EU,,FI,FIN,,,,,516
+G-LPQ,Luang Prabang,,,gleam_basin,,W-AS,,LA,LAO,,,,,577
+G-LPT,Lampang,,,gleam_basin,,W-AS,,TH,THA,,,,,543
+G-LPU,Long Apung,,,gleam_basin,,W-AS,,ID,IDN,,,,,1261
+G-LPY,Le Puy,,,gleam_basin,,W-EU,,FR,FRA,,,,,1527
+G-LQM,Puerto Leguizamo,,,gleam_basin,,W-SA,,CO,COL,,,,,1400
+G-LRD,Laredo,,,gleam_basin,,W-NA,,US,USA,,,,,2519
+G-LRE,Longreach,,,gleam_basin,,W-OC,,AU,AUS,,,,,1688
+G-LRH,La Rochelle,,,gleam_basin,,W-EU,,FR,FRA,,,,,1537
+G-LRM,La Romana,,,gleam_basin,,W-NA,,DO,DOM,,,,,1202
+G-LRR,Lar,,,gleam_basin,,W-AS,,IR,IRN,,,,,2972
+G-LRT,Lorient,,,gleam_basin,,W-EU,,FR,FRA,,,,,1538
+G-LSA,Losuia,,,gleam_basin,,W-OC,,PG,PNG,,,,,2976
+G-LSC,La Serena,,,gleam_basin,,W-SA,,CL,CHL,,,,,291
+G-LSE,La Crosse,,,gleam_basin,,W-NA,,US,USA,,,,,2059
+G-LSH,Lashio,,,gleam_basin,,W-AS,,MM,MMR,,,,,868
+G-LSI,Shetland Islands,,,gleam_basin,,W-EU,,GB,GBR,,,,,793
+G-LSP,Las Piedras,,,gleam_basin,,W-SA,,VE,VEN,,,,,1703
+G-LST,Launceston,,,gleam_basin,,W-OC,,AU,AUS,,,,,1571
+G-LSW,Lhok Seumawe,,,gleam_basin,,W-AS,,ID,IDN,,,,,1235
+G-LTD,Ghadames,,,gleam_basin,,W-AF,,LY,LBY,,,,,162
+G-LTI,Altai,,,gleam_basin,,W-AS,,MN,MNG,,,,,849
+G-LTK,Latakia,,,gleam_basin,,W-AS,,SY,SYR,,,,,651
+G-LTO,Loreto,,,gleam_basin,,W-NA,,MX,MEX,,,,,1014
+G-LTQ,Le Touquet,,,gleam_basin,,W-EU,,FR,FRA,,,,,1516
+G-LTX,Latacunga,,,gleam_basin,,W-SA,,EC,ECU,,,,,1466
+G-LUA,Lukla,,,gleam_basin,,W-AS,,NP,NPL,,,,,560
+G-LUD,Luderitz,,,gleam_basin,,W-AF,,NA,NAM,,,,,79
+G-LUG,Lugano,,,gleam_basin,,W-EU,,CH,CHE,,,,,277
+G-LUH,Ludhiana,,,gleam_basin,,W-AS,,IN,IND,,,,,1088
+G-LUM,Mangshi,,,gleam_basin,,W-AS,,CN,CHN,,,,,414
+G-LUN,Lusaka,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1549
+G-LUO,Luena,,,gleam_basin,,W-AF,,AO,AGO,,,,,7
+G-LUQ,San Luis,,,gleam_basin,,W-SA,,AR,ARG,,,,,3201
+G-LUR,Cape Lisburne,,,gleam_basin,,W-NA,,US,USA,,,,,2319
+G-LUV,Langgur,,,gleam_basin,,W-AS,,ID,IDN,,,,,1275
+G-LUW,Luwuk,,,gleam_basin,,W-AS,,ID,IDN,,,,,1276
+G-LUX,Luxembourg,,,gleam_basin,,W-EU,,LU,LUX,,,,,1203
+G-LUZ,Lublin,,,gleam_basin,,W-EU,,PL,POL,,,,,2854
+G-LVI,Livingstone,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1551
+G-LWB,Lewisburg,,,gleam_basin,,W-NA,,US,USA,,,,,2380
+G-LWN,Gyumri,,,gleam_basin,,W-AS,,AM,ARM,,,,,3234
+G-LWO,Lviv,,,gleam_basin,,W-EU,,UA,UKR,,,,,2791
+G-LWS,Lewiston,,,gleam_basin,,W-NA,,US,USA,,,,,2378
+G-LWT,Lewistown,,,gleam_basin,,W-NA,,US,USA,,,,,2379
+G-LXA,Lhasa,,,gleam_basin,,W-AS,,CN,CHN,,,,,372
+G-LXG,Luang Namtha,,,gleam_basin,,W-AS,,LA,LAO,,,,,573
+G-LXR,Luxor,,,gleam_basin,,W-AF,,EG,EGY,,,,,55
+G-LXS,Limnos,,,gleam_basin,,W-EU,,GR,GRC,,,,,918
+G-LYA,Luoyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,381
+G-LYC,Lycksele,,,gleam_basin,,W-EU,,SE,SWE,,,,,2555
+G-LYG,Lianyungang,,,gleam_basin,,W-AS,,CN,CHN,,,,,380
+G-LYH,Lynchburg,,,gleam_basin,,W-NA,,US,USA,,,,,2247
+G-LYI,Linyi,,,gleam_basin,,W-AS,,CN,CHN,,,,,382
+G-LYP,Faisalabad,,,gleam_basin,,W-AS,,PK,PAK,,,,,118
+G-LYR,Longyearbyen,,,gleam_basin,,W-EU,,SJ,SJM,,,,,1700
+G-LYS,Lyon,,,gleam_basin,,W-EU,,FR,FRA,,,,,1513
+G-LYX,Lydd,,,gleam_basin,,W-EU,,GB,GBR,,,,,775
+G-LZC,Lazaro Cardenas,,,gleam_basin,,W-NA,,MX,MEX,,,,,1011
+G-LZH,Liuzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,397
+G-LZO,Luzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,398
+G-LZY,Nyingchi,,,gleam_basin,,W-AS,,CN,CHN,,,,,396
+G-MAA,Chennai,,,gleam_basin,,W-AS,,IN,IND,,,,,1053
+G-MAB,Maraba,,,gleam_basin,,W-SA,,BR,BRA,,,,,1935
+G-MAD,Madrid,,,gleam_basin,,W-EU,,ES,ESP,,,,,2874
+G-MAF,Midland,,,gleam_basin,,W-NA,,US,USA,,,,,2058
+G-MAG,Madang,,,gleam_basin,,W-OC,,PG,PNG,,,,,2975
+G-MAH,Menorca,,,gleam_basin,,W-EU,,ES,ESP,,,,,2875
+G-MAJ,Majuro,,,gleam_basin,,W-OC,,MH,MHL,,,,,857
+G-MAM,Matamoros,,,gleam_basin,,W-NA,,MX,MEX,,,,,981
+G-MAN,Manchester,,,gleam_basin,,W-EU,,GB,GBR,,,,,789
+G-MAO,Manaus,,,gleam_basin,,W-SA,,BR,BRA,,,,,1936
+G-MAQ,Mae Sot,,,gleam_basin,,W-AS,,TH,THA,,,,,534
+G-MAR,Maracaibo,,,gleam_basin,,W-SA,,VE,VEN,,,,,1701
+G-MAS,Manus Island,,,gleam_basin,,W-OC,,PG,PNG,,,,,2974
+G-MAU,Maupiti Island,,,gleam_basin,,W-OC,,PF,PYF,,,,,676
+G-MBA,Mombasa,,,gleam_basin,,W-AF,,KE,KEN,,,,,1737
+G-MBE,Monbetsu,,,gleam_basin,,W-AS,,JP,JPN,,,,,3156
+G-MBI,Mbeya,,,gleam_basin,,W-AF,,TZ,TZA,,,,,214
+G-MBJ,Montego Bay,,,gleam_basin,,W-NA,,JM,JAM,,,,,491
+G-MBL,Manistee,,,gleam_basin,,W-NA,,US,USA,,,,,2497
+G-MBS,Saginaw,,,gleam_basin,,W-NA,,US,USA,,,,,2501
+G-MBT,Masbate,,,gleam_basin,,W-AS,,PH,PHL,,,,,621
+G-MCE,Merced,,,gleam_basin,,W-NA,,US,USA,,,,,2466
+G-MCG,Mcgrath,,,gleam_basin,,W-NA,,US,USA,,,,,2469
+G-MCI,Kansas City,,,gleam_basin,,W-NA,,US,USA,,,,,2465
+G-MCK,Mccook,,,gleam_basin,,W-NA,,US,USA,,,,,2464
+G-MCM,Monaco,,,gleam_basin,,W-EU,,MC,MCO,,,,,3064
+G-MCN,Macon,,,gleam_basin,,W-NA,,US,USA,,,,,2463
+G-MCO,Orlando,,,gleam_basin,,W-NA,,US,USA,,,,,2532
+G-MCP,Macapa,,,gleam_basin,,W-SA,,BR,BRA,,,,,2029
+G-MCT,Muscat,,,gleam_basin,,W-AS,,OM,OMN,,,,,1784
+G-MCV,Mcarthur River Mine,,,gleam_basin,,W-OC,,AU,AUS,,,,,1672
+G-MCW,Mason City,,,gleam_basin,,W-NA,,US,USA,,,,,2468
+G-MCX,Makhachkala,,,gleam_basin,,W-EU,,RU,RUS,,,,,1915
+G-MCY,Sunshine Coast,,,gleam_basin,,W-OC,,AU,AUS,,,,,1671
+G-MCZ,Maceio,,,gleam_basin,,W-SA,,BR,BRA,,,,,2027
+G-MDC,Manado,,,gleam_basin,,W-AS,,ID,IDN,,,,,1295
+G-MDE,Medellin,,,gleam_basin,,W-SA,,CO,COL,,,,,1396
+G-MDG,Mudanjiang,,,gleam_basin,,W-AS,,CN,CHN,,,,,436
+G-MDK,Mbandaka,,,gleam_basin,,W-AF,,CD,COD,,,,,1342
+G-MDL,Mandalay,,,gleam_basin,,W-AS,,MM,MMR,,,,,884
+G-MDQ,Mar del Plata,,,gleam_basin,,W-SA,,AR,ARG,,,,,3210
+G-MDT,Harrisburg,,,gleam_basin,,W-NA,,US,USA,,,,,2406
+G-MDU,Mendi,,,gleam_basin,,W-OC,,PG,PNG,,,,,2994
+G-MDZ,Mendoza,,,gleam_basin,,W-SA,,AR,ARG,,,,,3204
+G-MEA,Macae,,,gleam_basin,,W-SA,,BR,BRA,,,,,1997
+G-MEC,Manta,,,gleam_basin,,W-SA,,EC,ECU,,,,,1469
+G-MED,Madinah,,,gleam_basin,,W-AS,,SA,SAU,,,,,252
+G-MEE,Mare,,,gleam_basin,,W-OC,,NC,NCL,,,,,3174
+G-MEG,Malange,,,gleam_basin,,W-AF,,AO,AGO,,,,,9
+G-MEI,Meridian,,,gleam_basin,,W-NA,,US,USA,,,,,2377
+G-MEL,Melbourne (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1648
+G-MEM,Memphis,,,gleam_basin,,W-NA,,US,USA,,,,,2316
+G-MEQ,Cut Nyak Dien,,,gleam_basin,,W-AS,,ID,IDN,,,,,1289
+G-MES,Medan,,,gleam_basin,,W-AS,,ID,IDN,,,,,1290
+G-MEX,Mexico City,,,gleam_basin,,W-NA,,MX,MEX,,,,,1024
+G-MFE,Mcallen,,,gleam_basin,,W-NA,,US,USA,,,,,2462
+G-MFR,Medford,,,gleam_basin,,W-NA,,US,USA,,,,,2473
+G-MFU,Mfuwe,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1550
+G-MGA,Managua,,,gleam_basin,,W-NA,,NI,NIC,,,,,654
+G-MGB,Mount Gambier,,,gleam_basin,,W-OC,,AU,AUS,,,,,1646
+G-MGF,Maringa,,,gleam_basin,,W-SA,,BR,BRA,,,,,2000
+G-MGM,Montgomery,,,gleam_basin,,W-NA,,US,USA,,,,,2315
+G-MGQ,Mogadishu,,,gleam_basin,,W-AF,,SO,SOM,,,,,2831
+G-MGS,Mangaia Island,,,gleam_basin,,W-OC,,CK,COK,,,,,1356
+G-MGT,Milingimbi Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1636
+G-MGW,Morgantown,,,gleam_basin,,W-NA,,US,USA,,,,,2317
+G-MGZ,Myeik,,,gleam_basin,,W-AS,,MM,MMR,,,,,878
+G-MHC,Castro,,,gleam_basin,,W-SA,,CL,CHL,,,,,300
+G-MHD,Mashhad,,,gleam_basin,,W-AS,,IR,IRN,,,,,2955
+G-MHH,Marsh Harbour,,,gleam_basin,,W-NA,,BS,BHS,,,,,3231
+G-MHK,Manhattan,,,gleam_basin,,W-NA,,US,USA,,,,,2344
+G-MHQ,Mariehamn,,,gleam_basin,,W-EU,,AX,ALA,,,,,1788
+G-MHU,Mount Hotham,,,gleam_basin,,W-OC,,AU,AUS,,,,,1676
+G-MIA,Miami,,,gleam_basin,,W-NA,,US,USA,,,,,2305
+G-MID,Merida (MX),,,gleam_basin,,W-NA,,MX,MEX,,,,,1015
+G-MIG,Mianyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,405
+G-MII,Marilia,,,gleam_basin,,W-SA,,BR,BRA,,,,,1964
+G-MIM,Merimbula,,,gleam_basin,,W-OC,,AU,AUS,,,,,1609
+G-MIS,Misima Island,,,gleam_basin,,W-OC,,PG,PNG,,,,,2990
+G-MIU,Maiduguri,,,gleam_basin,,W-AF,,NG,NGA,,,,,1419
+G-MJD,Mohenjodaro,,,gleam_basin,,W-AS,,PK,PAK,,,,,122
+G-MJF,Mosjoen,,,gleam_basin,,W-EU,,NO,NOR,,,,,1151
+G-MJM,Mbuji-Mayi,,,gleam_basin,,W-AF,,CD,COD,,,,,1339
+G-MJN,Mahajanga,,,gleam_basin,,W-AF,,MG,MDG,,,,,1450
+G-MJT,Mytilini,,,gleam_basin,,W-EU,,GR,GRC,,,,,936
+G-MJU,Mamuju,,,gleam_basin,,W-AS,,ID,IDN,,,,,1267
+G-MJV,Murcia,,,gleam_basin,,W-EU,,ES,ESP,,,,,2897
+G-MJZ,Mirny,,,gleam_basin,,W-EU,,RU,RUS,,,,,1857
+G-MKE,Milwaukee,,,gleam_basin,,W-NA,,US,USA,,,,,2288
+G-MKG,Muskegon,,,gleam_basin,,W-NA,,US,USA,,,,,2286
+G-MKL,Jackson (US-TN),,,gleam_basin,,W-NA,,US,USA,,,,,2269
+G-MKM,Mukah,,,gleam_basin,,W-AS,,MY,MYS,,,,,174
+G-MKP,Makemo,,,gleam_basin,,W-OC,,PF,PYF,,,,,690
+G-MKQ,Merauke,,,gleam_basin,,W-AS,,ID,IDN,,,,,1271
+G-MKW,Manokwari,,,gleam_basin,,W-AS,,ID,IDN,,,,,1272
+G-MKY,Mackay,,,gleam_basin,,W-OC,,AU,AUS,,,,,1629
+G-MKZ,Malacca,,,gleam_basin,,W-AS,,MY,MYS,,,,,175
+G-MLA,Malta,,,gleam_basin,,W-EU,,MT,MLT,,,,,655
+G-MLB,Melbourne (US),,,gleam_basin,,W-NA,,US,USA,,,,,2133
+G-MLE,Male,,,gleam_basin,,W-AS,,MV,MDV,,,,,1479
+G-MLG,Malang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1252
+G-MLI,Moline,,,gleam_basin,,W-NA,,US,USA,,,,,2218
+G-MLM,Morelia,,,gleam_basin,,W-NA,,MX,MEX,,,,,1000
+G-MLN,Melilla,,,gleam_basin,,W-EU,,ES,ESP,,,,,2878
+G-MLO,Milos,,,gleam_basin,,W-EU,,GR,GRC,,,,,908
+G-MLS,Miles City,,,gleam_basin,,W-NA,,US,USA,,,,,2142
+G-MLU,Monroe,,,gleam_basin,,W-NA,,US,USA,,,,,2219
+G-MLX,Malatya,,,gleam_basin,,W-AS,,TR,TUR,,,,,1757
+G-MLY,Manley Hot Springs,,,gleam_basin,,W-NA,,US,USA,,,,,2147
+G-MMB,Memambetsu,,,gleam_basin,,W-AS,,JP,JPN,,,,,3114
+G-MME,Durham,,,gleam_basin,,W-EU,,GB,GBR,,,,,769
+G-MMH,Mammoth Lakes,,,gleam_basin,,W-NA,,US,USA,,,,,2184
+G-MMJ,Matsumoto,,,gleam_basin,,W-AS,,JP,JPN,,,,,3113
+G-MMK,Murmansk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1822
+G-MMX,Malmo,,,gleam_basin,,W-EU,,SE,SWE,,,,,2547
+G-MMY,Miyako,,,gleam_basin,,W-AS,,JP,JPN,,,,,3112
+G-MMZ,Maimanah,,,gleam_basin,,W-AS,,AF,AFG,,,,,888
+G-MNA,Melangguane,,,gleam_basin,,W-AS,,ID,IDN,,,,,1253
+G-MNC,Nacala,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,965
+G-MNG,Maningrida,,,gleam_basin,,W-OC,,AU,AUS,,,,,1592
+G-MNI,Montserrat,,,gleam_basin,,W-NA,,MS,MSR,,,,,722
+G-MNL,Manila,,,gleam_basin,,W-AS,,PH,PHL,,,,,596
+G-MNR,Mongu,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1546
+G-MNS,Mansa,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1547
+G-MNT,Minto,,,gleam_basin,,W-NA,,US,USA,,,,,2138
+G-MNU,Mawlamyine,,,gleam_basin,,W-AS,,MM,MMR,,,,,871
+G-MNY,Mono Island,,,gleam_basin,,W-OC,,SB,SLB,,,,,3021
+G-MOA,Moa,,,gleam_basin,,W-NA,,CU,CUB,,,,,3240
+G-MOB,Mobile,,,gleam_basin,,W-NA,,US,USA,,,,,2118
+G-MOC,Montes Claros,,,gleam_basin,,W-SA,,BR,BRA,,,,,1951
+G-MOF,Maumere,,,gleam_basin,,W-AS,,ID,IDN,,,,,1247
+G-MOL,Molde,,,gleam_basin,,W-EU,,NO,NOR,,,,,1156
+G-MON,Mount Cook,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3045
+G-MOQ,Morondava,,,gleam_basin,,W-AF,,MG,MDG,,,,,1444
+G-MOT,Minot,,,gleam_basin,,W-NA,,US,USA,,,,,2117
+G-MOV,Moranbah,,,gleam_basin,,W-OC,,AU,AUS,,,,,1587
+G-MPA,Katima Mulilo,,,gleam_basin,,W-AF,,NA,NAM,,,,,75
+G-MPH,Caticlan,,,gleam_basin,,W-AS,,PH,PHL,,,,,597
+G-MPL,Montpellier,,,gleam_basin,,W-EU,,FR,FRA,,,,,1506
+G-MPM,Maputo,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,966
+G-MPN,Mount Pleasant,,,gleam_basin,,W-SA,,FK,FLK,,,,,759
+G-MQF,Magnitogorsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1811
+G-MQJ,Khonuu,,,gleam_basin,,W-EU,,RU,RUS,,,,,1812
+G-MQL,Mildura,,,gleam_basin,,W-OC,,AU,AUS,,,,,1583
+G-MQM,Mardin,,,gleam_basin,,W-AS,,TR,TUR,,,,,1744
+G-MQN,Mo I Rana,,,gleam_basin,,W-EU,,NO,NOR,,,,,1166
+G-MQP,Nelspruit,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,628
+G-MQT,Marquette,,,gleam_basin,,W-NA,,US,USA,,,,,2108
+G-MQX,Mekele,,,gleam_basin,,W-AF,,ET,ETH,,,,,226
+G-MRA,Misurata,,,gleam_basin,,W-AF,,LY,LBY,,,,,159
+G-MRD,Merida (VE),,,gleam_basin,,W-SA,,VE,VEN,,,,,1706
+G-MRE,Masai Mara,,,gleam_basin,,W-AF,,KE,KEN,,,,,1728
+G-MRO,Masterton,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3050
+G-MRQ,Marinduque,,,gleam_basin,,W-AS,,PH,PHL,,,,,590
+G-MRS,Marseille,,,gleam_basin,,W-EU,,FR,FRA,,,,,1503
+G-MRU,Mauritius,,,gleam_basin,,W-AF,,MU,MUS,,,,,1196
+G-MRV,Mineralnye Vody,,,gleam_basin,,W-EU,,RU,RUS,,,,,1805
+G-MRX,Bandar Mahshahr,,,gleam_basin,,W-AS,,IR,IRN,,,,,2929
+G-MRY,Monterey,,,gleam_basin,,W-NA,,US,USA,,,,,2075
+G-MRZ,Moree,,,gleam_basin,,W-OC,,AU,AUS,,,,,1617
+G-MSA,Muskrat Dam,,,gleam_basin,,W-NA,,CA,CAN,,,,,2778
+G-MSE,Manston,,,gleam_basin,,W-EU,,GB,GBR,,,,,792
+G-MSJ,Misawa,,,gleam_basin,,W-AS,,JP,JPN,,,,,3160
+G-MSL,Muscle Shoals,,,gleam_basin,,W-NA,,US,USA,,,,,2491
+G-MSN,Madison,,,gleam_basin,,W-NA,,US,USA,,,,,2530
+G-MSO,Missoula,,,gleam_basin,,W-NA,,US,USA,,,,,2529
+G-MSP,Minneapolis,,,gleam_basin,,W-NA,,US,USA,,,,,2528
+G-MSQ,Minsk,,,gleam_basin,,W-EU,,BY,BLR,,,,,905
+G-MSR,Mus,,,gleam_basin,,W-AS,,TR,TUR,,,,,1781
+G-MSS,Massena,,,gleam_basin,,W-NA,,US,USA,,,,,2527
+G-MST,Maastricht,,,gleam_basin,,W-EU,,NL,NLD,,,,,838
+G-MSU,Maseru,,,gleam_basin,,W-AF,,LS,LSO,,,,,829
+G-MSW,Massawa,,,gleam_basin,,W-AF,,ER,ERI,,,,,2849
+G-MSY,New Orleans,,,gleam_basin,,W-NA,,US,USA,,,,,2524
+G-MSZ,Namibe,,,gleam_basin,,W-AF,,AO,AGO,,,,,13
+G-MTJ,Montrose,,,gleam_basin,,W-NA,,US,USA,,,,,2502
+G-MTR,Monteria,,,gleam_basin,,W-SA,,CO,COL,,,,,1405
+G-MTS,Manzini,,,gleam_basin,,W-AF,,SZ,SWZ,,,,,2580
+G-MTT,Minatitlan,,,gleam_basin,,W-NA,,MX,MEX,,,,,1033
+G-MTY,Monterrey,,,gleam_basin,,W-NA,,MX,MEX,,,,,1032
+G-MUA,Munda,,,gleam_basin,,W-OC,,SB,SLB,,,,,3035
+G-MUB,Maun,,,gleam_basin,,W-AF,,BW,BWA,,,,,217
+G-MUC,Munich,,,gleam_basin,,W-EU,,DE,DEU,,,,,748
+G-MUH,Mersa Matruh,,,gleam_basin,,W-AF,,EG,EGY,,,,,48
+G-MUN,Maturin,,,gleam_basin,,W-SA,,VE,VEN,,,,,1719
+G-MUW,Mascara,,,gleam_basin,,W-AF,,DZ,DZA,,,,,44
+G-MUX,Multan,,,gleam_basin,,W-AS,,PK,PAK,,,,,131
+G-MVD,Montevideo,,,gleam_basin,,W-SA,,UY,URY,,,,,519
+G-MVP,Mitu,,,gleam_basin,,W-SA,,CO,COL,,,,,1393
+G-MVR,Maroua,,,gleam_basin,,W-AF,,CM,CMR,,,,,809
+G-MVT,Mataiva,,,gleam_basin,,W-OC,,PF,PYF,,,,,707
+G-MWA,Marion,,,gleam_basin,,W-NA,,US,USA,,,,,2140
+G-MWX,Muan,,,gleam_basin,,W-AS,,KR,KOR,,,,,2799
+G-MWZ,Mwanza,,,gleam_basin,,W-AF,,TZ,TZA,,,,,211
+G-MXH,Moro,,,gleam_basin,,W-OC,,PG,PNG,,,,,2991
+G-MXL,Mexicali,,,gleam_basin,,W-NA,,MX,MEX,,,,,1027
+G-MXP,Milan,,,gleam_basin,,W-EU,,IT,ITA,,,,,3093
+G-MXV,Moron,,,gleam_basin,,W-AS,,MN,MNG,,,,,852
+G-MXX,Mora,,,gleam_basin,,W-EU,,SE,SWE,,,,,2564
+G-MXZ,Meixian,,,gleam_basin,,W-AS,,CN,CHN,,,,,447
+G-MYA,Moruya,,,gleam_basin,,W-OC,,AU,AUS,,,,,1644
+G-MYD,Malindi,,,gleam_basin,,W-AF,,KE,KEN,,,,,1730
+G-MYE,Miyakejima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3138
+G-MYG,Mayaguana,,,gleam_basin,,W-NA,,BS,BHS,,,,,3225
+G-MYJ,Matsuyama,,,gleam_basin,,W-AS,,JP,JPN,,,,,3137
+G-MYQ,Mysore,,,gleam_basin,,W-AS,,IN,IND,,,,,1097
+G-MYR,Myrtle Beach,,,gleam_basin,,W-NA,,US,USA,,,,,2120
+G-MYT,Myitkyina,,,gleam_basin,,W-AS,,MM,MMR,,,,,883
+G-MYU,Mekoryuk,,,gleam_basin,,W-NA,,US,USA,,,,,2361
+G-MYW,Mtwara,,,gleam_basin,,W-AF,,TZ,TZA,,,,,210
+G-MYY,Miri,,,gleam_basin,,W-AS,,MY,MYS,,,,,192
+G-MZB,Mocimboa Da Praia,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,971
+G-MZG,Magong,,,gleam_basin,,W-AS,,TW,TWN,,,,,2827
+G-MZH,Amasya,,,gleam_basin,,W-AS,,TR,TUR,,,,,1773
+G-MZJ,Marana,,,gleam_basin,,W-NA,,US,USA,,,,,2339
+G-MZO,Manzanillo (CU),,,gleam_basin,,W-NA,,CU,CUB,,,,,3247
+G-MZR,Mazar-e Sharif,,,gleam_basin,,W-AS,,AF,AFG,,,,,891
+G-MZT,Mazatlan,,,gleam_basin,,W-NA,,MX,MEX,,,,,1017
+G-MZV,Mulu,,,gleam_basin,,W-AS,,MY,MYS,,,,,184
+G-MZW,Mecheria,,,gleam_basin,,W-AF,,DZ,DZA,,,,,37
+G-NAA,Narrabri,,,gleam_basin,,W-OC,,AU,AUS,,,,,1620
+G-NAC,Naracoorte,,,gleam_basin,,W-OC,,AU,AUS,,,,,1585
+G-NAG,Nagpur,,,gleam_basin,,W-AS,,IN,IND,,,,,1079
+G-NAH,Tahuna,,,gleam_basin,,W-AS,,ID,IDN,,,,,1264
+G-NAJ,Nakchivan,,,gleam_basin,,W-AS,,AZ,AZE,,,,,2575
+G-NAL,Nalchik,,,gleam_basin,,W-EU,,RU,RUS,,,,,1845
+G-NAN,Nadi,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1184
+G-NAO,Nanchong,,,gleam_basin,,W-AS,,CN,CHN,,,,,418
+G-NAP,Naples,,,gleam_basin,,W-EU,,IT,ITA,,,,,3071
+G-NAQ,Qaanaaq,,,gleam_basin,,W-NA,,GL,GRL,,,,,950
+G-NAS,Nassau,,,gleam_basin,,W-NA,,BS,BHS,,,,,3224
+G-NAT,Natal,,,gleam_basin,,W-SA,,BR,BRA,,,,,2002
+G-NAU,Napuka,,,gleam_basin,,W-OC,,PF,PYF,,,,,697
+G-NAV,Nevsehir,,,gleam_basin,,W-AS,,TR,TUR,,,,,1762
+G-NAW,Narathiwat,,,gleam_basin,,W-AS,,TH,THA,,,,,532
+G-NBC,Nizhnekamsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1818
+G-NBE,Enfidha,,,gleam_basin,,W-AF,,TN,TUN,,,,,1792
+G-NBO,Nairobi,,,gleam_basin,,W-AF,,KE,KEN,,,,,1738
+G-NBS,Baishan,,,gleam_basin,,W-AS,,CN,CHN,,,,,339
+G-NBX,Nabire,,,gleam_basin,,W-AS,,ID,IDN,,,,,1255
+G-NCE,Nice,,,gleam_basin,,W-EU,,FR,FRA,,,,,1534
+G-NCJ,Sunchales,,,gleam_basin,,W-SA,,AR,ARG,,,,,3186
+G-NCL,Newcastle (UK),,,gleam_basin,,W-EU,,GB,GBR,,,,,770
+G-NCU,Nukus,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2838
+G-NDB,Nouadhibou,,,gleam_basin,,W-AF,,MR,MRT,,,,,282
+G-NDC,Nanded,,,gleam_basin,,W-AS,,IN,IND,,,,,1075
+G-NDG,Qiqihar,,,gleam_basin,,W-AS,,CN,CHN,,,,,488
+G-NDJ,N'djamena,,,gleam_basin,,W-AF,,TD,TCD,,,,,840
+G-NDR,Nador,,,gleam_basin,,W-AF,,MA,MAR,,,,,821
+G-NDU,Rundu,,,gleam_basin,,W-AF,,NA,NAM,,,,,78
+G-NER,Neryungri,,,gleam_basin,,W-EU,,RU,RUS,,,,,1828
+G-NGB,Ningbo,,,gleam_basin,,W-AS,,CN,CHN,,,,,407
+G-NGE,Ngaoundere,,,gleam_basin,,W-AF,,CM,CMR,,,,,808
+G-NGK,Nogliki,,,gleam_basin,,W-EU,,RU,RUS,,,,,1801
+G-NGO,Nagoya,,,gleam_basin,,W-AS,,JP,JPN,,,,,3141
+G-NGQ,Shiquande,,,gleam_basin,,W-AS,,CN,CHN,,,,,409
+G-NGS,Nagasaki,,,gleam_basin,,W-AS,,JP,JPN,,,,,3129
+G-NHV,Nuku Hiva,,,gleam_basin,,W-OC,,PF,PYF,,,,,708
+G-NIB,Nikolai,,,gleam_basin,,W-NA,,US,USA,,,,,2200
+G-NIM,Niamey,,,gleam_basin,,W-AF,,NE,NER,,,,,70
+G-NIU,Niau,,,gleam_basin,,W-OC,,PF,PYF,,,,,711
+G-NJC,Nizhnevartovsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1925
+G-NJF,Al Najaf,,,gleam_basin,,W-AS,,IQ,IRQ,,,,,2917
+G-NKC,Nouakchott,,,gleam_basin,,W-AF,,MR,MRT,,,,,283
+G-NKG,Nanjing,,,gleam_basin,,W-AS,,CN,CHN,,,,,445
+G-NKT,Sirnak,,,gleam_basin,,W-AS,,TR,TUR,,,,,1765
+G-NLA,Ndola,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1545
+G-NLD,Nuevo Laredo,,,gleam_basin,,W-NA,,MX,MEX,,,,,1009
+G-NLK,Norfolk Island,,,gleam_basin,,W-OC,,NF,NFK,,,,,865
+G-NLT,Xinyuan,,,gleam_basin,,W-AS,,CN,CHN,,,,,320
+G-NLV,Mykolaiv,,,gleam_basin,,W-EU,,UA,UKR,,,,,2781
+G-NMA,Namangan,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2837
+G-NNB,Santa Ana Island,,,gleam_basin,,W-OC,,SB,SLB,,,,,3031
+G-NNG,Nanning,,,gleam_basin,,W-AS,,CN,CHN,,,,,470
+G-NNM,Naryan-Mar,,,gleam_basin,,W-EU,,RU,RUS,,,,,1863
+G-NNT,Nan,,,gleam_basin,,W-AS,,TH,THA,,,,,550
+G-NNX,Nunukan,,,gleam_basin,,W-AS,,ID,IDN,,,,,1310
+G-NNY,Nanyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,432
+G-NOC,Knock,,,gleam_basin,,W-EU,,IE,IRL,,,,,2920
+G-NOJ,Nojabrsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1798
+G-NOS,Nosy-Be,,,gleam_basin,,W-AF,,MG,MDG,,,,,1445
+G-NOU,Noumea,,,gleam_basin,,W-OC,,NC,NCL,,,,,3173
+G-NOV,Huambo,,,gleam_basin,,W-AF,,AO,AGO,,,,,1
+G-NOZ,Novokuznetsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1800
+G-NPE,Napier-Hastings,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3053
+G-NPL,New Plymouth,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3052
+G-NQN,Neuquen,,,gleam_basin,,W-SA,,AR,ARG,,,,,3200
+G-NQU,Nuqui,,,gleam_basin,,W-SA,,CO,COL,,,,,1381
+G-NQY,Newquay,,,gleam_basin,,W-EU,,GB,GBR,,,,,780
+G-NRA,Narrandera,,,gleam_basin,,W-OC,,AU,AUS,,,,,1608
+G-NRN,Kevelaer,,,gleam_basin,,W-EU,,DE,DEU,,,,,734
+G-NRT,Tokyo Narita,,,gleam_basin,,W-AS,,JP,JPN,,,,,3127
+G-NSH,Now Shahr,,,gleam_basin,,W-AS,,IR,IRN,,,,,2943
+G-NSI,Yaounde,,,gleam_basin,,W-AF,,CM,CMR,,,,,807
+G-NSK,Norilsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1843
+G-NSN,Nelson,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3049
+G-NSQ,Nuussuaq,,,gleam_basin,,W-NA,,GL,GRL,,,,,943
+G-NST,Nakhon Si Thammarat,,,gleam_basin,,W-AS,,TH,THA,,,,,527
+G-NTE,Nantes,,,gleam_basin,,W-EU,,FR,FRA,,,,,1525
+G-NTG,Nantong,,,gleam_basin,,W-AS,,CN,CHN,,,,,448
+G-NTL,Newcastle (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1657
+G-NTN,Normanton,,,gleam_basin,,W-OC,,AU,AUS,,,,,1653
+G-NTQ,Wajima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3142
+G-NTX,Natuna,,,gleam_basin,,W-AS,,ID,IDN,,,,,1292
+G-NTY,Sun City,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,636
+G-NUE,Nuremberg,,,gleam_basin,,W-EU,,DE,DEU,,,,,749
+G-NUI,Nuiqsut,,,gleam_basin,,W-NA,,US,USA,,,,,2448
+G-NUK,Nukutavake,,,gleam_basin,,W-OC,,PF,PYF,,,,,683
+G-NUS,Norsup,,,gleam_basin,,W-OC,,VU,VUT,,,,,1325
+G-NUU,Nakuru,,,gleam_basin,,W-AF,,KE,KEN,,,,,1735
+G-NUX,Novy Urengoy,,,gleam_basin,,W-EU,,RU,RUS,,,,,1808
+G-NVA,Neiva,,,gleam_basin,,W-SA,,CO,COL,,,,,1404
+G-NVI,Navoi,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2843
+G-NVT,Navegantes,,,gleam_basin,,W-SA,,BR,BRA,,,,,2033
+G-NWI,Norwich,,,gleam_basin,,W-EU,,GB,GBR,,,,,784
+G-NYA,Nyagan,,,gleam_basin,,W-EU,,RU,RUS,,,,,1878
+G-NYI,Sunyani,,,gleam_basin,,W-AF,,GH,GHA,,,,,99
+G-NYK,Nanyuki,,,gleam_basin,,W-AF,,KE,KEN,,,,,1723
+G-NYM,Nadym,,,gleam_basin,,W-EU,,RU,RUS,,,,,1796
+G-NYO,Nykoping,,,gleam_basin,,W-EU,,SE,SWE,,,,,2552
+G-NYT,Nay Pyi Taw,,,gleam_basin,,W-AS,,MM,MMR,,,,,866
+G-NYU,Bagan,,,gleam_basin,,W-AS,,MM,MMR,,,,,867
+G-NZH,Manzhouli,,,gleam_basin,,W-AS,,CN,CHN,,,,,359
+G-OAG,Orange,,,gleam_basin,,W-OC,,AU,AUS,,,,,1663
+G-OAJ,Jacksonville (US-NC),,,gleam_basin,,W-NA,,US,USA,,,,,2095
+G-OAL,Cacoal,,,gleam_basin,,W-SA,,BR,BRA,,,,,1950
+G-OAX,Oaxaca,,,gleam_basin,,W-NA,,MX,MEX,,,,,1019
+G-OAZ,Camp Bastion,,,gleam_basin,,W-AS,,AF,AFG,,,,,895
+G-OBN,Oban,,,gleam_basin,,W-EU,,GB,GBR,,,,,768
+G-OBO,Obihiro,,,gleam_basin,,W-AS,,JP,JPN,,,,,3155
+G-OCC,Coca,,,gleam_basin,,W-SA,,EC,ECU,,,,,1471
+G-ODO,Bodaybo,,,gleam_basin,,W-EU,,RU,RUS,,,,,1853
+G-ODS,Odesa,,,gleam_basin,,W-EU,,UA,UKR,,,,,2787
+G-ODY,Muang Xay,,,gleam_basin,,W-AS,,LA,LAO,,,,,574
+G-OER,Ornskoldsvik,,,gleam_basin,,W-EU,,SE,SWE,,,,,2553
+G-OFI,Ouango-Fitini,,,gleam_basin,,W-AF,,CI,CIV,,,,,2049
+G-OGG,Kahului,,,gleam_basin,,W-NA,,US,USA,,,,,2318
+G-OGN,Yonaguni Jima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3117
+G-OGS,Ogdensburg,,,gleam_basin,,W-NA,,US,USA,,,,,2301
+G-OGX,Ouargla,,,gleam_basin,,W-AF,,DZ,DZA,,,,,25
+G-OGZ,Vladikavkaz,,,gleam_basin,,W-EU,,RU,RUS,,,,,1897
+G-OHD,Ohrid,,,gleam_basin,,W-EU,,MK,MKD,,,,,1326
+G-OHE,Mohe,,,gleam_basin,,W-AS,,CN,CHN,,,,,335
+G-OHH,Okha,,,gleam_basin,,W-EU,,RU,RUS,,,,,1815
+G-OIM,Oshima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3103
+G-OIT,Oita,,,gleam_basin,,W-AS,,JP,JPN,,,,,3104
+G-OKA,Okinawa,,,gleam_basin,,W-AS,,JP,JPN,,,,,3135
+G-OKC,Oklahoma City,,,gleam_basin,,W-NA,,US,USA,,,,,2354
+G-OKI,Oki,,,gleam_basin,,W-AS,,JP,JPN,,,,,3136
+G-OKJ,Okayama,,,gleam_basin,,W-AS,,JP,JPN,,,,,3110
+G-OKL,Oksibil,,,gleam_basin,,W-AS,,ID,IDN,,,,,1256
+G-OLA,Orland,,,gleam_basin,,W-EU,,NO,NOR,,,,,1169
+G-OLB,Olbia,,,gleam_basin,,W-EU,,IT,ITA,,,,,3094
+G-OLC,Sao Paula de Olivenca,,,gleam_basin,,W-SA,,BR,BRA,,,,,1985
+G-OLF,Wolf Point,,,gleam_basin,,W-NA,,US,USA,,,,,2482
+G-OLJ,Olpoi,,,gleam_basin,,W-OC,,VU,VUT,,,,,1323
+G-OLP,Olympic Dam,,,gleam_basin,,W-OC,,AU,AUS,,,,,1677
+G-OLZ,Olekminsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1854
+G-OMA,Omaha,,,gleam_basin,,W-NA,,US,USA,,,,,2453
+G-OMD,Oranjemund,,,gleam_basin,,W-AF,,NA,NAM,,,,,80
+G-OME,Nome,,,gleam_basin,,W-NA,,US,USA,,,,,2112
+G-OMH,Urumiyeh,,,gleam_basin,,W-AS,,IR,IRN,,,,,2964
+G-OMR,Oradea,,,gleam_basin,,W-EU,,RO,ROU,,,,,148
+G-OMS,Omsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1912
+G-OND,Ondangwa,,,gleam_basin,,W-AF,,NA,NAM,,,,,74
+G-ONG,Mornington Island,,,gleam_basin,,W-OC,,AU,AUS,,,,,1576
+G-ONJ,Odate,,,gleam_basin,,W-AS,,JP,JPN,,,,,3101
+G-ONL,Oneill,,,gleam_basin,,W-NA,,US,USA,,,,,2070
+G-OOL,Gold Coast,,,gleam_basin,,W-OC,,AU,AUS,,,,,1691
+G-OOM,Cooma,,,gleam_basin,,W-OC,,AU,AUS,,,,,1693
+G-OPO,Porto,,,gleam_basin,,W-EU,,PT,PRT,,,,,1440
+G-OPS,Sinop,,,gleam_basin,,W-SA,,BR,BRA,,,,,2031
+G-OPU,Balimo,,,gleam_basin,,W-OC,,PG,PNG,,,,,2998
+G-ORB,Orebro,,,gleam_basin,,W-EU,,SE,SWE,,,,,2543
+G-ORD,Chicago,,,gleam_basin,,W-NA,,US,USA,,,,,2217
+G-ORF,Norfolk,,,gleam_basin,,W-NA,,US,USA,,,,,2437
+G-ORH,Worcester,,,gleam_basin,,W-NA,,US,USA,,,,,2172
+G-ORK,Cork,,,gleam_basin,,W-EU,,IE,IRL,,,,,2923
+G-ORN,Oran,,,gleam_basin,,W-AF,,DZ,DZA,,,,,20
+G-ORU,Oruro,,,gleam_basin,,W-SA,,BO,BOL,,,,,91
+G-OSD,Are,,,gleam_basin,,W-EU,,SE,SWE,,,,,2563
+G-OSI,Osijek,,,gleam_basin,,W-EU,,HR,HRV,,,,,289
+G-OSK,Oskarshamn,,,gleam_basin,,W-EU,,SE,SWE,,,,,2562
+G-OSL,Oslo,,,gleam_basin,,W-EU,,NO,NOR,,,,,1173
+G-OSM,Mosul,,,gleam_basin,,W-AS,,IQ,IRQ,,,,,2916
+G-OSR,Ostrava,,,gleam_basin,,W-EU,,CZ,CZE,,,,,1179
+G-OSS,Osh,,,gleam_basin,,W-AS,,KG,KGZ,,,,,3162
+G-OST,Oostende,,,gleam_basin,,W-EU,,BE,BEL,,,,,721
+G-OSW,Orsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1896
+G-OSY,Namsos,,,gleam_basin,,W-EU,,NO,NOR,,,,,1172
+G-OTD,Contadora,,,gleam_basin,,W-NA,,PA,PAN,,,,,3007
+G-OTH,North Bend,,,gleam_basin,,W-NA,,US,USA,,,,,2330
+G-OTP,Bucharest,,,gleam_basin,,W-EU,,RO,ROU,,,,,146
+G-OTZ,Kotzebue,,,gleam_basin,,W-NA,,US,USA,,,,,2331
+G-OUA,Ouagadougou,,,gleam_basin,,W-AF,,BF,BFA,,,,,274
+G-OUD,Oujda,,,gleam_basin,,W-AF,,MA,MAR,,,,,819
+G-OUL,Oulu,,,gleam_basin,,W-EU,,FI,FIN,,,,,509
+G-OUZ,Zouerate,,,gleam_basin,,W-AF,,MR,MRT,,,,,280
+G-OVB,Novosibirsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1870
+G-OVD,Asturias,,,gleam_basin,,W-EU,,ES,ESP,,,,,2903
+G-OVS,Sovetsky,,,gleam_basin,,W-EU,,RU,RUS,,,,,1865
+G-OXB,Bissau,,,gleam_basin,,W-AF,,GW,GNB,,,,,2579
+G-OXF,Oxford,,,gleam_basin,,W-EU,,GB,GBR,,,,,771
+G-OZC,Ozamis,,,gleam_basin,,W-AS,,PH,PHL,,,,,603
+G-OZH,Zaporizhia,,,gleam_basin,,W-EU,,UA,UKR,,,,,2795
+G-OZZ,Ouarzazate,,,gleam_basin,,W-AF,,MA,MAR,,,,,817
+G-PAD,Paderborn,,,gleam_basin,,W-EU,,DE,DEU,,,,,726
+G-PAF,Pakuba,,,gleam_basin,,W-AF,,UG,UGA,,,,,3166
+G-PAG,Pagadian,,,gleam_basin,,W-AS,,PH,PHL,,,,,594
+G-PAH,Paducah,,,gleam_basin,,W-NA,,US,USA,,,,,2106
+G-PAP,Port au Prince,,,gleam_basin,,W-NA,,HT,HTI,,,,,978
+G-PAT,Patna,,,gleam_basin,,W-AS,,IN,IND,,,,,1059
+G-PAV,Paulo Afonso,,,gleam_basin,,W-SA,,BR,BRA,,,,,1948
+G-PAZ,Poza Rica,,,gleam_basin,,W-NA,,MX,MEX,,,,,985
+G-PBC,Puebla,,,gleam_basin,,W-NA,,MX,MEX,,,,,995
+G-PBD,Porbandar,,,gleam_basin,,W-AS,,IN,IND,,,,,1064
+G-PBH,Paro,,,gleam_basin,,W-AS,,BT,BTN,,,,,1117
+G-PBI,West Palm Beach,,,gleam_basin,,W-NA,,US,USA,,,,,2141
+G-PBM,Paramaribo,,,gleam_basin,,W-SA,,SR,SUR,,,,,834
+G-PBO,Paraburdoo,,,gleam_basin,,W-OC,,AU,AUS,,,,,1593
+G-PBU,Putao,,,gleam_basin,,W-AS,,MM,MMR,,,,,882
+G-PCL,Pucallpa,,,gleam_basin,,W-SA,,PE,PER,,,,,1215
+G-PCR,Puerto Carreno,,,gleam_basin,,W-SA,,CO,COL,,,,,1383
+G-PDA,Puerto Inirida,,,gleam_basin,,W-SA,,CO,COL,,,,,1375
+G-PDG,Padang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1243
+G-PDL,Ponta Delgada,,,gleam_basin,,W-EU,,PT,PRT,,,,,1432
+G-PDP,Punta del Este,,,gleam_basin,,W-SA,,UY,URY,,,,,518
+G-PDS,Piedras Negras,,,gleam_basin,,W-NA,,MX,MEX,,,,,984
+G-PDT,Pendleton,,,gleam_basin,,W-NA,,US,USA,,,,,2213
+G-PDV,Plovdiv,,,gleam_basin,,W-EU,,BG,BGR,,,,,81
+G-PDX,Portland (US-OR),,,gleam_basin,,W-NA,,US,USA,,,,,2299
+G-PED,Pardubice,,,gleam_basin,,W-EU,,CZ,CZE,,,,,1178
+G-PEE,Perm,,,gleam_basin,,W-EU,,RU,RUS,,,,,1842
+G-PEG,Perugia,,,gleam_basin,,W-EU,,IT,ITA,,,,,3080
+G-PEI,Pereira,,,gleam_basin,,W-SA,,CO,COL,,,,,1402
+G-PEK,Beijing,,,gleam_basin,,W-AS,,CN,CHN,,,,,420
+G-PEM,Puerto Maldonado,,,gleam_basin,,W-SA,,PE,PER,,,,,1219
+G-PEN,Penang,,,gleam_basin,,W-AS,,MY,MYS,,,,,173
+G-PER,Perth,,,gleam_basin,,W-OC,,AU,AUS,,,,,1615
+G-PES,Petrozavodsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1850
+G-PET,Pelotas,,,gleam_basin,,W-SA,,BR,BRA,,,,,1981
+G-PEU,Puerto Lempira,,,gleam_basin,,W-NA,,HN,HND,,,,,1193
+G-PEW,Peshawar,,,gleam_basin,,W-AS,,PK,PAK,,,,,119
+G-PEX,Pechora,,,gleam_basin,,W-EU,,RU,RUS,,,,,1930
+G-PEZ,Penza,,,gleam_basin,,W-EU,,RU,RUS,,,,,1841
+G-PFB,Passo Fundo,,,gleam_basin,,W-SA,,BR,BRA,,,,,1989
+G-PFO,Paphos,,,gleam_basin,,W-AS,,CY,CYP,,,,,2816
+G-PFQ,Parsabad,,,gleam_basin,,W-AS,,IR,IRN,,,,,2945
+G-PGA,Page,,,gleam_basin,,W-NA,,US,USA,,,,,2296
+G-PGF,Perpignan,,,gleam_basin,,W-EU,,FR,FRA,,,,,1517
+G-PGK,Pangkalpinang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1273
+G-PGU,Asaloyeh,,,gleam_basin,,W-AS,,IR,IRN,,,,,2947
+G-PGV,Greenville (US-NC),,,gleam_basin,,W-NA,,US,USA,,,,,2298
+G-PHC,Port Harcourt,,,gleam_basin,,W-AF,,NG,NGA,,,,,1421
+G-PHE,Port Hedland,,,gleam_basin,,W-OC,,AU,AUS,,,,,1640
+G-PHL,Philadelphia,,,gleam_basin,,W-NA,,US,USA,,,,,2432
+G-PHO,Point Hope,,,gleam_basin,,W-NA,,US,USA,,,,,2337
+G-PHS,Phitsanulok,,,gleam_basin,,W-AS,,TH,THA,,,,,546
+G-PHW,Phalaborwa,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,638
+G-PHX,Phoenix,,,gleam_basin,,W-NA,,US,USA,,,,,2441
+G-PIA,Peoria,,,gleam_basin,,W-NA,,US,USA,,,,,2359
+G-PIB,Laurel,,,gleam_basin,,W-NA,,US,USA,,,,,2360
+G-PIH,Pocatello,,,gleam_basin,,W-NA,,US,USA,,,,,2115
+G-PIN,Parintins,,,gleam_basin,,W-SA,,BR,BRA,,,,,2006
+G-PIR,Pierre,,,gleam_basin,,W-NA,,US,USA,,,,,2363
+G-PIS,Poitiers,,,gleam_basin,,W-EU,,FR,FRA,,,,,1522
+G-PIT,Pittsburgh,,,gleam_basin,,W-NA,,US,USA,,,,,2125
+G-PIU,Piura,,,gleam_basin,,W-SA,,PE,PER,,,,,1213
+G-PIZ,Point Lay,,,gleam_basin,,W-NA,,US,USA,,,,,2362
+G-PJA,Pajala,,,gleam_basin,,W-EU,,SE,SWE,,,,,2565
+G-PJG,Panjgur,,,gleam_basin,,W-AS,,PK,PAK,,,,,113
+G-PJM,Puerto Jimenez,,,gleam_basin,,W-NA,,CR,CRI,,,,,804
+G-PKB,Parkersburg,,,gleam_basin,,W-NA,,US,USA,,,,,2440
+G-PKC,Petropavlovsk (RU),,,gleam_basin,,W-EU,,RU,RUS,,,,,1907
+G-PKE,Parkes,,,gleam_basin,,W-OC,,AU,AUS,,,,,1665
+G-PKG,Pangkor,,,gleam_basin,,W-AS,,MY,MYS,,,,,166
+G-PKN,Pangkalanbun,,,gleam_basin,,W-AS,,ID,IDN,,,,,1303
+G-PKP,Puka Puka,,,gleam_basin,,W-OC,,PF,PYF,,,,,714
+G-PKR,Pokhara,,,gleam_basin,,W-AS,,NP,NPL,,,,,569
+G-PKU,Pekanbaru,,,gleam_basin,,W-AS,,ID,IDN,,,,,1301
+G-PKY,Palangkaraya,,,gleam_basin,,W-AS,,ID,IDN,,,,,1302
+G-PKZ,Pakse,,,gleam_basin,,W-AS,,LA,LAO,,,,,578
+G-PLM,Palembang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1306
+G-PLN,Pellston,,,gleam_basin,,W-NA,,US,USA,,,,,2493
+G-PLO,Port Lincoln,,,gleam_basin,,W-OC,,AU,AUS,,,,,1678
+G-PLQ,Klaipeda,,,gleam_basin,,W-EU,,LT,LTU,,,,,1540
+G-PLS,Providenciales,,,gleam_basin,,W-NA,,TC,TCA,,,,,675
+G-PLW,Palu,,,gleam_basin,,W-AS,,ID,IDN,,,,,1305
+G-PLX,Semey,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,671
+G-PLZ,Port Elizabeth,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,641
+G-PMC,Puerto Montt,,,gleam_basin,,W-SA,,CL,CHL,,,,,309
+G-PMF,Parma,,,gleam_basin,,W-EU,,IT,ITA,,,,,3097
+G-PMI,Palma de Mallorca,,,gleam_basin,,W-EU,,ES,ESP,,,,,2911
+G-PML,Port Moller,,,gleam_basin,,W-NA,,US,USA,,,,,2450
+G-PMO,Palermo,,,gleam_basin,,W-EU,,IT,ITA,,,,,3090
+G-PMQ,Perito Moreno,,,gleam_basin,,W-SA,,AR,ARG,,,,,3218
+G-PMR,Palmerston North,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3060
+G-PMV,Porlamar,,,gleam_basin,,W-SA,,VE,VEN,,,,,1718
+G-PMW,Palmas,,,gleam_basin,,W-SA,,BR,BRA,,,,,2043
+G-PMY,Puerto Madryn,,,gleam_basin,,W-SA,,AR,ARG,,,,,3213
+G-PNA,Pamplona,,,gleam_basin,,W-EU,,ES,ESP,,,,,2879
+G-PND,Punta Gorda,,,gleam_basin,,W-NA,,BZ,BLZ,,,,,861
+G-PNH,Phnom Penh,,,gleam_basin,,W-AS,,KH,KHM,,,,,221
+G-PNI,Pohnpei,,,gleam_basin,,W-OC,,FM,FSM,,,,,1208
+G-PNK,Pontianak,,,gleam_basin,,W-AS,,ID,IDN,,,,,1239
+G-PNL,Pantelleria,,,gleam_basin,,W-EU,,IT,ITA,,,,,3067
+G-PNP,Popondetta,,,gleam_basin,,W-OC,,PG,PNG,,,,,2986
+G-PNQ,Pune,,,gleam_basin,,W-AS,,IN,IND,,,,,1055
+G-PNR,Pointe-Noire,,,gleam_basin,,W-AF,,CG,COG,,,,,1345
+G-PNS,Pensacola,,,gleam_basin,,W-NA,,US,USA,,,,,2071
+G-PNT,Puerto Natales,,,gleam_basin,,W-SA,,CL,CHL,,,,,293
+G-PNY,Pondicherry,,,gleam_basin,,W-AS,,IN,IND,,,,,1108
+G-PNZ,Petrolina,,,gleam_basin,,W-SA,,BR,BRA,,,,,1938
+G-POA,Porto Alegre,,,gleam_basin,,W-SA,,BR,BRA,,,,,1946
+G-POG,Port Gentil,,,gleam_basin,,W-AF,,GA,GAB,,,,,646
+G-POI,Potosi,,,gleam_basin,,W-SA,,BO,BOL,,,,,94
+G-POJ,Patos de Minas,,,gleam_basin,,W-SA,,BR,BRA,,,,,1945
+G-POL,Pemba,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,964
+G-POM,Port Moresby,,,gleam_basin,,W-OC,,PG,PNG,,,,,2979
+G-POR,Pori,,,gleam_basin,,W-EU,,FI,FIN,,,,,497
+G-POS,Port of Spain,,,gleam_basin,,W-NA,,TT,TTO,,,,,224
+G-POZ,Poznan,,,gleam_basin,,W-EU,,PL,POL,,,,,2851
+G-PPB,President Prudente,,,gleam_basin,,W-SA,,BR,BRA,,,,,2035
+G-PPE,Puerto Penasco,,,gleam_basin,,W-NA,,MX,MEX,,,,,993
+G-PPG,Pago Pago,,,gleam_basin,,W-OC,,AS,ASM,,,,,1486
+G-PPK,Petropavlovsk (KZ),,,gleam_basin,,W-AS,,KZ,KAZ,,,,,672
+G-PPN,Popayan,,,gleam_basin,,W-SA,,CO,COL,,,,,1380
+G-PPS,Puerto Princesa,,,gleam_basin,,W-AS,,PH,PHL,,,,,608
+G-PPT,Tahiti,,,gleam_basin,,W-OC,,PF,PYF,,,,,712
+G-PQC,Phuquoc,,,gleam_basin,,W-AS,,VN,VNM,,,,,1124
+G-PQI,Presque Isle,,,gleam_basin,,W-NA,,US,USA,,,,,2081
+G-PQQ,Port Macquarie,,,gleam_basin,,W-OC,,AU,AUS,,,,,1630
+G-PRC,Prescott,,,gleam_basin,,W-NA,,US,USA,,,,,2073
+G-PRG,Prague,,,gleam_basin,,W-EU,,CZ,CZE,,,,,1175
+G-PRH,Phrae,,,gleam_basin,,W-AS,,TH,THA,,,,,522
+G-PSA,Pisa,,,gleam_basin,,W-EU,,IT,ITA,,,,,3068
+G-PSC,Pasco,,,gleam_basin,,W-NA,,US,USA,,,,,2116
+G-PSE,Ponce,,,gleam_basin,,W-NA,,PR,PRI,,,,,198
+G-PSG,Petersburg,,,gleam_basin,,W-NA,,US,USA,,,,,2496
+G-PSJ,Poso,,,gleam_basin,,W-AS,,ID,IDN,,,,,1246
+G-PSO,Pasto,,,gleam_basin,,W-SA,,CO,COL,,,,,1366
+G-PSP,Palm Springs,,,gleam_basin,,W-NA,,US,USA,,,,,2503
+G-PSR,Pescara,,,gleam_basin,,W-EU,,IT,ITA,,,,,3095
+G-PSS,Posadas,,,gleam_basin,,W-SA,,AR,ARG,,,,,3211
+G-PSU,Putussibau,,,gleam_basin,,W-AS,,ID,IDN,,,,,1299
+G-PSZ,Puerto Suarez,,,gleam_basin,,W-SA,,BO,BOL,,,,,89
+G-PTG,Polokwane,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,629
+G-PTH,Port Heiden,,,gleam_basin,,W-NA,,US,USA,,,,,2136
+G-PTJ,Portland (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1591
+G-PTP,Pointe-a-Pitre,,,gleam_basin,,W-NA,,GP,GLP,,,,,1354
+G-PTY,Panama City (PA),,,gleam_basin,,W-NA,,PA,PAN,,,,,3004
+G-PUB,Pueblo,,,gleam_basin,,W-NA,,US,USA,,,,,2182
+G-PUE,Puerto Obaldia,,,gleam_basin,,W-NA,,PA,PAN,,,,,3006
+G-PUF,Pau,,,gleam_basin,,W-EU,,FR,FRA,,,,,1518
+G-PUG,Port Augusta,,,gleam_basin,,W-OC,,AU,AUS,,,,,1652
+G-PUJ,Punta Cana,,,gleam_basin,,W-NA,,DO,DOM,,,,,1198
+G-PUK,Pukarua,,,gleam_basin,,W-OC,,PF,PYF,,,,,706
+G-PUM,Kolaka,,,gleam_basin,,W-AS,,ID,IDN,,,,,1257
+G-PUQ,Punta Arenas,,,gleam_basin,,W-SA,,CL,CHL,,,,,306
+G-PUS,Pusan,,,gleam_basin,,W-AS,,KR,KOR,,,,,2806
+G-PUU,Puerto Asis,,,gleam_basin,,W-SA,,CO,COL,,,,,1372
+G-PUY,Pula,,,gleam_basin,,W-EU,,HR,HRV,,,,,290
+G-PVA,Providencia,,,gleam_basin,,W-SA,,CO,COL,,,,,1364
+G-PVD,Providence,,,gleam_basin,,W-NA,,US,USA,,,,,2517
+G-PVG,Shanghai,,,gleam_basin,,W-AS,,CN,CHN,,,,,412
+G-PVH,Porto Velho,,,gleam_basin,,W-SA,,BR,BRA,,,,,1971
+G-PVK,Preveza,,,gleam_basin,,W-EU,,GR,GRC,,,,,917
+G-PVR,Puerto Vallarta,,,gleam_basin,,W-NA,,MX,MEX,,,,,997
+G-PVU,Provo,,,gleam_basin,,W-NA,,US,USA,,,,,2209
+G-PWE,Pevek,,,gleam_basin,,W-EU,,RU,RUS,,,,,1875
+G-PWM,Portland (US-ME),,,gleam_basin,,W-NA,,US,USA,,,,,2242
+G-PWQ,Pavlodar,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,660
+G-PXM,Puerto Escondido,,,gleam_basin,,W-NA,,MX,MEX,,,,,1005
+G-PXO,Porto Santo,,,gleam_basin,,W-EU,,PT,PRT,,,,,1434
+G-PXU,Pleiku,,,gleam_basin,,W-AS,,VN,VNM,,,,,1128
+G-PYH,Puerto Ayacucho,,,gleam_basin,,W-SA,,VE,VEN,,,,,1712
+G-PYJ,Polyarny,,,gleam_basin,,W-EU,,RU,RUS,,,,,1868
+G-PZB,Pietermaritzburg,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,634
+G-PZH,Zhob,,,gleam_basin,,W-AS,,PK,PAK,,,,,124
+G-PZI,Panzhihua,,,gleam_basin,,W-AS,,CN,CHN,,,,,417
+G-PZO,Puerto Ordaz,,,gleam_basin,,W-SA,,VE,VEN,,,,,1713
+G-PZU,Port Sudan,,,gleam_basin,,W-AF,,SD,SDN,,,,,3016
+G-QBC,Bella Coola,,,gleam_basin,,W-NA,,CA,CAN,,,,,2640
+G-QJH,Qassumiut Heliport,,,gleam_basin,,W-NA,,GL,GRL,,,,,953
+G-QOW,Owerri,,,gleam_basin,,W-AF,,NG,NGA,,,,,1408
+G-QPW,Kangaatsiaq,,,gleam_basin,,W-NA,,GL,GRL,,,,,947
+G-QRO,Queretaro,,,gleam_basin,,W-NA,,MX,MEX,,,,,988
+G-QRW,Warri,,,gleam_basin,,W-AF,,NG,NGA,,,,,1410
+G-QSF,Setif,,,gleam_basin,,W-AF,,DZ,DZA,,,,,16
+G-QUB,Ubari,,,gleam_basin,,W-AF,,LY,LBY,,,,,160
+G-QUP,Saqqaq,,,gleam_basin,,W-NA,,GL,GRL,,,,,940
+G-RAB,Rabaul,,,gleam_basin,,W-OC,,PG,PNG,,,,,2997
+G-RAE,Arar,,,gleam_basin,,W-AS,,SA,SAU,,,,,266
+G-RAH,Rafha,,,gleam_basin,,W-AS,,SA,SAU,,,,,265
+G-RAI,Praia,,,gleam_basin,,W-AF,,CV,CPV,,,,,137
+G-RAJ,Rajkot,,,gleam_basin,,W-AS,,IN,IND,,,,,1106
+G-RAK,Marrakech,,,gleam_basin,,W-AF,,MA,MAR,,,,,824
+G-RAO,Ribeirao Preto,,,gleam_basin,,W-SA,,BR,BRA,,,,,1998
+G-RAP,Rapid City,,,gleam_basin,,W-NA,,US,USA,,,,,2485
+G-RAR,Rarotonga Island,,,gleam_basin,,W-OC,,CK,COK,,,,,1358
+G-RAS,Rasht,,,gleam_basin,,W-AS,,IR,IRN,,,,,2953
+G-RBA,Rabat,,,gleam_basin,,W-AF,,MA,MAR,,,,,820
+G-RBQ,Rurrenabaque,,,gleam_basin,,W-SA,,BO,BOL,,,,,93
+G-RBR,Rio Branco,,,gleam_basin,,W-SA,,BR,BRA,,,,,2009
+G-RBX,Rumbek,,,gleam_basin,,W-AF,,SS,SSD,,,,,2539
+G-RBY,Ruby,,,gleam_basin,,W-NA,,US,USA,,,,,2329
+G-RCB,Richards Bay,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,627
+G-RCH,Riohacha,,,gleam_basin,,W-SA,,CO,COL,,,,,1389
+G-RCM,Richmond (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1643
+G-RDD,Redding,,,gleam_basin,,W-NA,,US,USA,,,,,2260
+G-RDM,Redmond,,,gleam_basin,,W-NA,,US,USA,,,,,2262
+G-RDU,Raleigh,,,gleam_basin,,W-NA,,US,USA,,,,,2257
+G-RDZ,Rodez,,,gleam_basin,,W-EU,,FR,FRA,,,,,1514
+G-REA,Reao,,,gleam_basin,,W-OC,,PF,PYF,,,,,693
+G-REC,Recife,,,gleam_basin,,W-SA,,BR,BRA,,,,,1992
+G-REG,Reggio Di Calabria,,,gleam_basin,,W-EU,,IT,ITA,,,,,3087
+G-REL,Trelew,,,gleam_basin,,W-SA,,AR,ARG,,,,,3197
+G-REN,Orenburg,,,gleam_basin,,W-EU,,RU,RUS,,,,,1858
+G-REP,Siem Reap,,,gleam_basin,,W-AS,,KH,KHM,,,,,222
+G-RES,Resistencia,,,gleam_basin,,W-SA,,AR,ARG,,,,,3196
+G-RET,Rost,,,gleam_basin,,W-EU,,NO,NOR,,,,,1153
+G-REU,Reus,,,gleam_basin,,W-EU,,ES,ESP,,,,,2898
+G-REX,Reynosa,,,gleam_basin,,W-NA,,MX,MEX,,,,,1012
+G-REZ,Resende,,,gleam_basin,,W-SA,,BR,BRA,,,,,1952
+G-RFD,Rockford,,,gleam_basin,,W-NA,,US,USA,,,,,2203
+G-RGA,Rio Grande,,,gleam_basin,,W-SA,,AR,ARG,,,,,3188
+G-RGI,Rangiroa Island,,,gleam_basin,,W-OC,,PF,PYF,,,,,687
+G-RGK,Gorno-Altaysk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1838
+G-RGL,Rio Gallegos,,,gleam_basin,,W-SA,,AR,ARG,,,,,3189
+G-RGN,Yangon,,,gleam_basin,,W-AS,,MM,MMR,,,,,875
+G-RGS,Burgos,,,gleam_basin,,W-EU,,ES,ESP,,,,,2887
+G-RHD,Rio Hondo,,,gleam_basin,,W-SA,,AR,ARG,,,,,3217
+G-RHI,Rhinelander,,,gleam_basin,,W-NA,,US,USA,,,,,2513
+G-RHO,Rhodes,,,gleam_basin,,W-EU,,GR,GRC,,,,,914
+G-RIA,Santa Maria,,,gleam_basin,,W-SA,,BR,BRA,,,,,1979
+G-RIB,Riberalta,,,gleam_basin,,W-SA,,BO,BOL,,,,,92
+G-RIC,Richmond (US),,,gleam_basin,,W-NA,,US,USA,,,,,2223
+G-RIS,Rishiri,,,gleam_basin,,W-AS,,JP,JPN,,,,,3118
+G-RIW,Riverton,,,gleam_basin,,W-NA,,US,USA,,,,,2220
+G-RIX,Riga,,,gleam_basin,,W-EU,,LV,LVA,,,,,1116
+G-RIY,Mukalla,,,gleam_basin,,W-AS,,YE,YEM,,,,,581
+G-RJA,Rajahmundry,,,gleam_basin,,W-AS,,IN,IND,,,,,1062
+G-RJH,Rajshahi,,,gleam_basin,,W-AS,,BD,BGD,,,,,63
+G-RJK,Rijeka,,,gleam_basin,,W-EU,,HR,HRV,,,,,286
+G-RJL,Logrono,,,gleam_basin,,W-EU,,ES,ESP,,,,,2881
+G-RKA,Aratika,,,gleam_basin,,W-OC,,PF,PYF,,,,,713
+G-RKD,Rockland,,,gleam_basin,,W-NA,,US,USA,,,,,2158
+G-RKS,Rock Springs,,,gleam_basin,,W-NA,,US,USA,,,,,2156
+G-RKT,Ras al Khaimah,,,gleam_basin,,W-AS,,AE,ARE,,,,,3178
+G-RKZ,Xigaze,,,gleam_basin,,W-AS,,CN,CHN,,,,,342
+G-RLG,Rostock,,,gleam_basin,,W-EU,,DE,DEU,,,,,729
+G-RLK,Bayannur,,,gleam_basin,,W-AS,,CN,CHN,,,,,317
+G-RLR,Ranohira,,,gleam_basin,,W-AF,,MG,MDG,,,,,1443
+G-RMA,Roma,,,gleam_basin,,W-OC,,AU,AUS,,,,,1581
+G-RMF,Marsa Alam,,,gleam_basin,,W-AF,,EG,EGY,,,,,51
+G-RMI,Rimini,,,gleam_basin,,W-EU,,IT,ITA,,,,,3076
+G-RMP,Rampart,,,gleam_basin,,W-NA,,US,USA,,,,,2092
+G-RMQ,Taichung Cingcyuangang,,,gleam_basin,,W-AS,,TW,TWN,,,,,2822
+G-RMT,Rimatara,,,gleam_basin,,W-OC,,PF,PYF,,,,,677
+G-RNA,Arona,,,gleam_basin,,W-OC,,SB,SLB,,,,,3036
+G-RNB,Ronneby,,,gleam_basin,,W-EU,,SE,SWE,,,,,2569
+G-RNL,Rennell Island,,,gleam_basin,,W-OC,,SB,SLB,,,,,3027
+G-RNN,Bornholm,,,gleam_basin,,W-EU,,DK,DNK,,,,,1567
+G-RNO,Reno,,,gleam_basin,,W-NA,,US,USA,,,,,2234
+G-RNS,Rennes,,,gleam_basin,,W-EU,,FR,FRA,,,,,1532
+G-ROA,Roanoke,,,gleam_basin,,W-NA,,US,USA,,,,,2514
+G-ROB,Monrovia,,,gleam_basin,,W-AF,,LR,LBR,,,,,153
+G-ROC,Rochester (US-NY),,,gleam_basin,,W-NA,,US,USA,,,,,2387
+G-ROI,Roi Et,,,gleam_basin,,W-AS,,TH,THA,,,,,539
+G-ROK,Rockhampton,,,gleam_basin,,W-OC,,AU,AUS,,,,,1685
+G-ROO,Rondonopolis,,,gleam_basin,,W-SA,,BR,BRA,,,,,2041
+G-ROP,Rota,,,gleam_basin,,W-OC,,MP,MNP,,,,,828
+G-ROR,Koror,,,gleam_basin,,W-OC,,PW,PLW,,,,,1722
+G-ROS,Rosario,,,gleam_basin,,W-SA,,AR,ARG,,,,,3216
+G-ROV,Rostov,,,gleam_basin,,W-EU,,RU,RUS,,,,,1924
+G-ROW,Roswell,,,gleam_basin,,W-NA,,US,USA,,,,,2515
+G-RPR,Raipur,,,gleam_basin,,W-AS,,IN,IND,,,,,1089
+G-RRG,Rodrigues Island,,,gleam_basin,,W-AF,,MU,MUS,,,,,1197
+G-RRR,Raroia,,,gleam_basin,,W-OC,,PF,PYF,,,,,703
+G-RRS,Roros,,,gleam_basin,,W-EU,,NO,NOR,,,,,1150
+G-RSA,Santa Rosa (AR),,,gleam_basin,,W-SA,,AR,ARG,,,,,3199
+G-RST,Rochester (US-MN),,,gleam_basin,,W-NA,,US,USA,,,,,2302
+G-RSU,Yeosu,,,gleam_basin,,W-AS,,KR,KOR,,,,,2807
+G-RSW,Fort Myers,,,gleam_basin,,W-NA,,US,USA,,,,,2304
+G-RTA,Rotuma Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1185
+G-RTB,Roatan,,,gleam_basin,,W-NA,,HN,HND,,,,,1195
+G-RTW,Saratov,,,gleam_basin,,W-EU,,RU,RUS,,,,,1829
+G-RUA,Arua,,,gleam_basin,,W-AF,,UG,UGA,,,,,3165
+G-RUD,Shahrud,,,gleam_basin,,W-AS,,IR,IRN,,,,,2942
+G-RUH,Riyadh,,,gleam_basin,,W-AS,,SA,SAU,,,,,256
+G-RUN,St-denis,,,gleam_basin,,W-AF,,RE,REU,,,,,1232
+G-RUP,Rupsi,,,gleam_basin,,W-AS,,IN,IND,,,,,1076
+G-RUR,Rurutu,,,gleam_basin,,W-OC,,PF,PYF,,,,,689
+G-RUS,Marau,,,gleam_basin,,W-OC,,SB,SLB,,,,,3028
+G-RUT,Rutland,,,gleam_basin,,W-NA,,US,USA,,,,,2235
+G-RVD,Rio Verde,,,gleam_basin,,W-SA,,BR,BRA,,,,,1953
+G-RVE,Saravena,,,gleam_basin,,W-SA,,CO,COL,,,,,1368
+G-RVN,Rovaniemi,,,gleam_basin,,W-EU,,FI,FIN,,,,,499
+G-RVT,Ravensthorpe,,,gleam_basin,,W-OC,,AU,AUS,,,,,1590
+G-RVV,Raivavae,,,gleam_basin,,W-OC,,PF,PYF,,,,,681
+G-RYG,Moss,,,gleam_basin,,W-EU,,NO,NOR,,,,,1158
+G-RYK,Rahim Yar Khan,,,gleam_basin,,W-AS,,PK,PAK,,,,,114
+G-RZE,Rzeszow,,,gleam_basin,,W-EU,,PL,POL,,,,,2850
+G-RZR,Ramsar,,,gleam_basin,,W-AS,,IR,IRN,,,,,2928
+G-SAF,Santa Fe (US),,,gleam_basin,,W-NA,,US,USA,,,,,2391
+G-SAH,Sanaa,,,gleam_basin,,W-AS,,YE,YEM,,,,,583
+G-SAL,San Salvador (SV),,,gleam_basin,,W-NA,,SV,SLV,,,,,2918
+G-SAN,San Diego,,,gleam_basin,,W-NA,,US,USA,,,,,2272
+G-SAP,San Pedro Sula,,,gleam_basin,,W-NA,,HN,HND,,,,,1192
+G-SAT,San Antonio,,,gleam_basin,,W-NA,,US,USA,,,,,2341
+G-SAV,Savannah,,,gleam_basin,,W-NA,,US,USA,,,,,2386
+G-SBA,Santa Barbara,,,gleam_basin,,W-NA,,US,USA,,,,,2183
+G-SBH,St Barthelemy,,,gleam_basin,,W-NA,,BL,BLM,,,,,906
+G-SBN,South Bend,,,gleam_basin,,W-NA,,US,USA,,,,,2185
+G-SBP,San Luis Obispo,,,gleam_basin,,W-NA,,US,USA,,,,,2401
+G-SBW,Sibu,,,gleam_basin,,W-AS,,MY,MYS,,,,,188
+G-SBY,Salisbury,,,gleam_basin,,W-NA,,US,USA,,,,,2384
+G-SBZ,Sibiu,,,gleam_basin,,W-EU,,RO,ROU,,,,,145
+G-SCC,Prudhoe Bay,,,gleam_basin,,W-NA,,US,USA,,,,,2167
+G-SCE,State College,,,gleam_basin,,W-NA,,US,USA,,,,,2165
+G-SCG,Spring Creek,,,gleam_basin,,W-OC,,AU,AUS,,,,,1598
+G-SCK,Stockton,,,gleam_basin,,W-NA,,US,USA,,,,,2135
+G-SCL,Santiago (CL),,,gleam_basin,,W-SA,,CL,CHL,,,,,296
+G-SCN,Saarbrucken,,,gleam_basin,,W-EU,,DE,DEU,,,,,744
+G-SCO,Aktau,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,657
+G-SCQ,Santiago de Compostela,,,gleam_basin,,W-EU,,ES,ESP,,,,,2909
+G-SCT,Socotra,,,gleam_basin,,W-AS,,YE,YEM,,,,,584
+G-SCU,Santiago (CU),,,gleam_basin,,W-NA,,CU,CUB,,,,,3243
+G-SCV,Suceava,,,gleam_basin,,W-EU,,RO,ROU,,,,,141
+G-SCW,Syktyvkar,,,gleam_basin,,W-EU,,RU,RUS,,,,,1821
+G-SCY,San Cristobal Island,,,gleam_basin,,W-SA,,EC,ECU,,,,,1464
+G-SCZ,Santa Cruz Island,,,gleam_basin,,W-OC,,SB,SLB,,,,,3022
+G-SDD,Lubango,,,gleam_basin,,W-AF,,AO,AGO,,,,,4
+G-SDE,Santiago del Estero,,,gleam_basin,,W-SA,,AR,ARG,,,,,3191
+G-SDF,Louisville,,,gleam_basin,,W-NA,,US,USA,,,,,2241
+G-SDG,Sanandaj,,,gleam_basin,,W-AS,,IR,IRN,,,,,2952
+G-SDJ,Sendai,,,gleam_basin,,W-AS,,JP,JPN,,,,,3122
+G-SDK,Sandakan,,,gleam_basin,,W-AS,,MY,MYS,,,,,176
+G-SDL,Sundsvall,,,gleam_basin,,W-EU,,SE,SWE,,,,,2554
+G-SDP,Sand Point,,,gleam_basin,,W-NA,,US,USA,,,,,2240
+G-SDQ,Santo Domingo (DO),,,gleam_basin,,W-NA,,DO,DOM,,,,,1201
+G-SDR,Santander,,,gleam_basin,,W-EU,,ES,ESP,,,,,2890
+G-SDT,Saidu Sharif,,,gleam_basin,,W-AS,,PK,PAK,,,,,117
+G-SDY,Sidney,,,gleam_basin,,W-NA,,US,USA,,,,,2326
+G-SEA,Seattle,,,gleam_basin,,W-NA,,US,USA,,,,,2429
+G-SEB,Sebha,,,gleam_basin,,W-AF,,LY,LBY,,,,,156
+G-SEK,Srednekolymsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1830
+G-SER,Seymour,,,gleam_basin,,W-NA,,US,USA,,,,,2215
+G-SEU,Seronera,,,gleam_basin,,W-AF,,TZ,TZA,,,,,204
+G-SEZ,Mahe Island,,,gleam_basin,,W-AF,,SC,SYC,,,,,552
+G-SFA,Sfax,,,gleam_basin,,W-AF,,TN,TUN,,,,,1793
+G-SFJ,Kangerlussuaq,,,gleam_basin,,W-NA,,GL,GRL,,,,,946
+G-SFL,Sao Filipe,,,gleam_basin,,W-AF,,CV,CPV,,,,,134
+G-SFN,Santa Fe (AR),,,gleam_basin,,W-SA,,AR,ARG,,,,,3194
+G-SFO,San Francisco,,,gleam_basin,,W-NA,,US,USA,,,,,2375
+G-SFT,Skelleftea,,,gleam_basin,,W-EU,,SE,SWE,,,,,2556
+G-SGC,Surgut,,,gleam_basin,,W-EU,,RU,RUS,,,,,1856
+G-SGD,Sonderborg,,,gleam_basin,,W-EU,,DK,DNK,,,,,1561
+G-SGF,Springfield (US-MO),,,gleam_basin,,W-NA,,US,USA,,,,,2270
+G-SGK,Sangapi,,,gleam_basin,,W-OC,,PG,PNG,,,,,2988
+G-SGN,Ho Chi Minh City,,,gleam_basin,,W-AS,,VN,VNM,,,,,1129
+G-SGO,St George (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1682
+G-SGS,Sanga Sanga,,,gleam_basin,,W-AS,,PH,PHL,,,,,605
+G-SGU,St George (US),,,gleam_basin,,W-NA,,US,USA,,,,,2268
+G-SGX,Songea,,,gleam_basin,,W-AF,,TZ,TZA,,,,,208
+G-SHB,Nakashibetsu,,,gleam_basin,,W-AS,,JP,JPN,,,,,3130
+G-SHC,Inda Selassie,,,gleam_basin,,W-AF,,ET,ETH,,,,,234
+G-SHE,Shenyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,413
+G-SHH,Shishmaref,,,gleam_basin,,W-NA,,US,USA,,,,,2314
+G-SHL,Shillong,,,gleam_basin,,W-AS,,IN,IND,,,,,1087
+G-SHM,Shirahama,,,gleam_basin,,W-AS,,JP,JPN,,,,,3131
+G-SHP,Qinhuangdao,,,gleam_basin,,W-AS,,CN,CHN,,,,,411
+G-SHR,Sheridan,,,gleam_basin,,W-NA,,US,USA,,,,,2310
+G-SHV,Shreveport,,,gleam_basin,,W-NA,,US,USA,,,,,2311
+G-SHW,Sharurah,,,gleam_basin,,W-AS,,SA,SAU,,,,,260
+G-SHX,Shageluk,,,gleam_basin,,W-NA,,US,USA,,,,,2348
+G-SID,Sal Island,,,gleam_basin,,W-AF,,CV,CPV,,,,,135
+G-SIF,Simara,,,gleam_basin,,W-AS,,NP,NPL,,,,,559
+G-SIN,Singapore,,,gleam_basin,,W-AS,,SG,SGP,,,,,2821
+G-SIP,Simferopol,,,gleam_basin,,W-EU,,UA,UKR,,,,,2789
+G-SIT,Sitka,,,gleam_basin,,W-NA,,US,USA,,,,,2276
+G-SJD,San Jose Cabo,,,gleam_basin,,W-NA,,MX,MEX,,,,,1022
+G-SJE,San Jose del Guaviare,,,gleam_basin,,W-SA,,CO,COL,,,,,1392
+G-SJI,San Jose (PH),,,gleam_basin,,W-AS,,PH,PHL,,,,,611
+G-SJJ,Sarajevo,,,gleam_basin,,W-EU,,BA,BIH,,,,,2819
+G-SJK,Sao Jose Dos Campos,,,gleam_basin,,W-SA,,BR,BRA,,,,,2011
+G-SJL,Sao Gabriel,,,gleam_basin,,W-SA,,BR,BRA,,,,,2012
+G-SJO,San Jose (CR),,,gleam_basin,,W-NA,,CR,CRI,,,,,802
+G-SJP,Sao Jose do Rio Preto,,,gleam_basin,,W-SA,,BR,BRA,,,,,2010
+G-SJT,San Angelo,,,gleam_basin,,W-NA,,US,USA,,,,,2374
+G-SJU,San Juan (PR),,,gleam_basin,,W-NA,,PR,PRI,,,,,197
+G-SJW,Shijiazhuang,,,gleam_basin,,W-AS,,CN,CHN,,,,,440
+G-SJY,Seinajoki,,,gleam_basin,,W-EU,,FI,FIN,,,,,506
+G-SKB,St Kitts,,,gleam_basin,,W-NA,,KN,KNA,,,,,489
+G-SKD,Samarkand,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2842
+G-SKG,Thessaloniki,,,gleam_basin,,W-EU,,GR,GRC,,,,,927
+G-SKH,Surkhet,,,gleam_basin,,W-AS,,NP,NPL,,,,,562
+G-SKK,Shaktoolik,,,gleam_basin,,W-NA,,US,USA,,,,,2342
+G-SKO,Sokoto,,,gleam_basin,,W-AF,,NG,NGA,,,,,1422
+G-SKP,Skopje,,,gleam_basin,,W-EU,,MK,MKD,,,,,1327
+G-SKT,Sialkot,,,gleam_basin,,W-AS,,PK,PAK,,,,,125
+G-SKU,Skyros,,,gleam_basin,,W-EU,,GR,GRC,,,,,926
+G-SKX,Saransk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1881
+G-SKZ,Sukkur,,,gleam_basin,,W-AS,,PK,PAK,,,,,110
+G-SLA,Salta,,,gleam_basin,,W-SA,,AR,ARG,,,,,3214
+G-SLC,Salt Lake City,,,gleam_basin,,W-NA,,US,USA,,,,,2303
+G-SLD,Sliac,,,gleam_basin,,W-EU,,SK,SVK,,,,,2815
+G-SLH,Sola,,,gleam_basin,,W-OC,,VU,VUT,,,,,1324
+G-SLI,Solwezi,,,gleam_basin,,W-AF,,ZM,ZMB,,,,,1552
+G-SLJ,Solomon,,,gleam_basin,,W-OC,,AU,AUS,,,,,1669
+G-SLK,Saranac Lake,,,gleam_basin,,W-NA,,US,USA,,,,,2461
+G-SLL,Salalah,,,gleam_basin,,W-AS,,OM,OMN,,,,,1785
+G-SLM,Salamanca,,,gleam_basin,,W-EU,,ES,ESP,,,,,2908
+G-SLN,Salina,,,gleam_basin,,W-NA,,US,USA,,,,,2460
+G-SLP,San Luis Potosi,,,gleam_basin,,W-NA,,MX,MEX,,,,,1031
+G-SLW,Saltillo,,,gleam_basin,,W-NA,,MX,MEX,,,,,1030
+G-SLY,Salekhard,,,gleam_basin,,W-EU,,RU,RUS,,,,,1914
+G-SLZ,Sao Luiz,,,gleam_basin,,W-SA,,BR,BRA,,,,,2025
+G-SMA,Santa Maria Island,,,gleam_basin,,W-EU,,PT,PRT,,,,,1437
+G-SMF,Sacramento,,,gleam_basin,,W-NA,,US,USA,,,,,2382
+G-SMI,Samos,,,gleam_basin,,W-EU,,GR,GRC,,,,,929
+G-SMK,St Michael,,,gleam_basin,,W-NA,,US,USA,,,,,2402
+G-SMQ,Sampit,,,gleam_basin,,W-AS,,ID,IDN,,,,,1294
+G-SMR,Santa Marta,,,gleam_basin,,W-SA,,CO,COL,,,,,1394
+G-SMS,Ste Marie,,,gleam_basin,,W-AF,,MG,MDG,,,,,1457
+G-SNE,Sao Nicolau Island,,,gleam_basin,,W-AF,,CV,CPV,,,,,136
+G-SNN,Shannon,,,gleam_basin,,W-EU,,IE,IRL,,,,,2921
+G-SNO,Sakon Nakhon,,,gleam_basin,,W-AS,,TH,THA,,,,,521
+G-SNP,St Paul Island,,,gleam_basin,,W-NA,,US,USA,,,,,2084
+G-SNU,Santa Clara,,,gleam_basin,,W-NA,,CU,CUB,,,,,3251
+G-SNV,Santa Elena,,,gleam_basin,,W-SA,,VE,VEN,,,,,1716
+G-SNW,Thandwe,,,gleam_basin,,W-AS,,MM,MMR,,,,,885
+G-SOB,Balaton,,,gleam_basin,,W-EU,,HU,HUN,,,,,832
+G-SOF,Sofia,,,gleam_basin,,W-EU,,BG,BGR,,,,,84
+G-SOG,Sogndal,,,gleam_basin,,W-EU,,NO,NOR,,,,,1152
+G-SOJ,Sorkjosen,,,gleam_basin,,W-EU,,NO,NOR,,,,,1154
+G-SOM,San Tome,,,gleam_basin,,W-SA,,VE,VEN,,,,,1720
+G-SON,Espiritu Santo,,,gleam_basin,,W-OC,,VU,VUT,,,,,1320
+G-SOQ,Sorong,,,gleam_basin,,W-AS,,ID,IDN,,,,,1284
+G-SOU,Southampton,,,gleam_basin,,W-EU,,GB,GBR,,,,,781
+G-SOW,Show Low,,,gleam_basin,,W-NA,,US,USA,,,,,2500
+G-SPC,Santa Cruz de la Palma,,,gleam_basin,,W-EU,,ES,ESP,,,,,2882
+G-SPD,Saidpur,,,gleam_basin,,W-AS,,BD,BGD,,,,,61
+G-SPI,Springfield (US-IL),,,gleam_basin,,W-NA,,US,USA,,,,,2066
+G-SPN,Saipan,,,gleam_basin,,W-OC,,MP,MNP,,,,,827
+G-SPP,Menongue,,,gleam_basin,,W-AF,,AO,AGO,,,,,0
+G-SPS,Wichita Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2056
+G-SPU,Split,,,gleam_basin,,W-EU,,HR,HRV,,,,,284
+G-SQG,Sintang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1311
+G-SRE,Sucre,,,gleam_basin,,W-SA,,BO,BOL,,,,,98
+G-SRG,Semarang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1248
+G-SRI,Samarinda,,,gleam_basin,,W-AS,,ID,IDN,,,,,1249
+G-SRP,Stord,,,gleam_basin,,W-EU,,NO,NOR,,,,,1140
+G-SRQ,Sarasota,,,gleam_basin,,W-NA,,US,USA,,,,,2124
+G-SRX,Sirte,,,gleam_basin,,W-AF,,LY,LBY,,,,,155
+G-SRY,Sari,,,gleam_basin,,W-AS,,IR,IRN,,,,,2934
+G-SSA,Salvador,,,gleam_basin,,W-SA,,BR,BRA,,,,,1994
+G-SSG,Malabo,,,gleam_basin,,W-AF,,GQ,GNQ,,,,,2053
+G-SSH,Sharm El-Sheikh,,,gleam_basin,,W-AF,,EG,EGY,,,,,50
+G-SSY,M'Banza Congo,,,gleam_basin,,W-AF,,AO,AGO,,,,,2
+G-STC,St Cloud,,,gleam_basin,,W-NA,,US,USA,,,,,2189
+G-STD,Santo Domingo (VE),,,gleam_basin,,W-SA,,VE,VEN,,,,,1709
+G-STG,St George Island,,,gleam_basin,,W-NA,,US,USA,,,,,2188
+G-STI,Santiago,,,gleam_basin,,W-NA,,DO,DOM,,,,,1199
+G-STL,St Louis,,,gleam_basin,,W-NA,,US,USA,,,,,2190
+G-STM,Santarem,,,gleam_basin,,W-SA,,BR,BRA,,,,,1967
+G-STR,Stuttgart,,,gleam_basin,,W-EU,,DE,DEU,,,,,732
+G-STS,Santa Rosa (US),,,gleam_basin,,W-NA,,US,USA,,,,,2191
+G-STT,St Thomas Island,,,gleam_basin,,W-NA,,VI,VIR,,,,,649
+G-STV,Surat,,,gleam_basin,,W-AS,,IN,IND,,,,,1066
+G-STW,Stavropol,,,gleam_basin,,W-EU,,RU,RUS,,,,,1825
+G-STX,St Croix Island,,,gleam_basin,,W-NA,,VI,VIR,,,,,648
+G-STY,Salto,,,gleam_basin,,W-SA,,UY,URY,,,,,517
+G-SUB,Surabaya,,,gleam_basin,,W-AS,,ID,IDN,,,,,1254
+G-SUF,Lamezia Terme,,,gleam_basin,,W-EU,,IT,ITA,,,,,3072
+G-SUG,Surigao,,,gleam_basin,,W-AS,,PH,PHL,,,,,598
+G-SUJ,Satu Mare,,,gleam_basin,,W-EU,,RO,ROU,,,,,142
+G-SUK,Sakkyryr,,,gleam_basin,,W-EU,,RU,RUS,,,,,1816
+G-SUL,Sui,,,gleam_basin,,W-AS,,PK,PAK,,,,,112
+G-SUN,Sun Valley,,,gleam_basin,,W-NA,,US,USA,,,,,2145
+G-SUR,Summer Beaver,,,gleam_basin,,W-NA,,CA,CAN,,,,,2612
+G-SUT,Sumbawanga,,,gleam_basin,,W-AF,,TZ,TZA,,,,,202
+G-SUV,Suva,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1183
+G-SUX,Sioux City,,,gleam_basin,,W-NA,,US,USA,,,,,2146
+G-SUY,Suntar,,,gleam_basin,,W-EU,,RU,RUS,,,,,1817
+G-SVA,Savoonga,,,gleam_basin,,W-NA,,US,USA,,,,,2249
+G-SVB,Sambava,,,gleam_basin,,W-AF,,MG,MDG,,,,,1448
+G-SVC,Silver City,,,gleam_basin,,W-NA,,US,USA,,,,,2358
+G-SVD,St Vincent,,,gleam_basin,,W-NA,,VC,VCT,,,,,1118
+G-SVG,Stavanger,,,gleam_basin,,W-EU,,NO,NOR,,,,,1147
+G-SVI,San Vicente del Caguan,,,gleam_basin,,W-SA,,CO,COL,,,,,1390
+G-SVL,Savonlinna,,,gleam_basin,,W-EU,,FI,FIN,,,,,507
+G-SVP,Kuito,,,gleam_basin,,W-AF,,AO,AGO,,,,,5
+G-SVQ,Sevilla,,,gleam_basin,,W-EU,,ES,ESP,,,,,2891
+G-SVR,Savissivik,,,gleam_basin,,W-NA,,GL,GRL,,,,,944
+G-SVS,Stevens Village,,,gleam_basin,,W-NA,,US,USA,,,,,2250
+G-SVX,Yekaterinburg,,,gleam_basin,,W-EU,,RU,RUS,,,,,1849
+G-SWA,Shantou,,,gleam_basin,,W-AS,,CN,CHN,,,,,363
+G-SWF,Newburgh,,,gleam_basin,,W-NA,,US,USA,,,,,2121
+G-SWV,Evensk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1834
+G-SXB,Strasbourg,,,gleam_basin,,W-EU,,FR,FRA,,,,,1512
+G-SXK,Saumlaki,,,gleam_basin,,W-AS,,ID,IDN,,,,,1265
+G-SXM,St Maarten,,,gleam_basin,,W-NA,,SX,SXM,,,,,645
+G-SXR,Srinagar,,,gleam_basin,,W-AS,,IN,IND,,,,,1081
+G-SYD,Sydney (AU),,,gleam_basin,,W-OC,,AU,AUS,,,,,1612
+G-SYJ,Sirjan,,,gleam_basin,,W-AS,,IR,IRN,,,,,2939
+G-SYM,Simao,,,gleam_basin,,W-AS,,CN,CHN,,,,,371
+G-SYO,Shonai,,,gleam_basin,,W-AS,,JP,JPN,,,,,3120
+G-SYR,Syracuse,,,gleam_basin,,W-NA,,US,USA,,,,,2333
+G-SYS,Sashylakh,,,gleam_basin,,W-EU,,RU,RUS,,,,,1827
+G-SYX,Sanya,,,gleam_basin,,W-AS,,CN,CHN,,,,,373
+G-SYY,Stornoway,,,gleam_basin,,W-EU,,GB,GBR,,,,,772
+G-SYZ,Shiraz,,,gleam_basin,,W-AS,,IR,IRN,,,,,2940
+G-SZA,Soyo,,,gleam_basin,,W-AF,,AO,AGO,,,,,3
+G-SZE,Semera,,,gleam_basin,,W-AF,,ET,ETH,,,,,233
+G-SZF,Carsamba,,,gleam_basin,,W-AS,,TR,TUR,,,,,1770
+G-SZG,Salzburg,,,gleam_basin,,W-EU,,AT,AUT,,,,,1698
+G-SZI,Zaysan,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,661
+G-SZL,Warrensburg,,,gleam_basin,,W-NA,,US,USA,,,,,2275
+G-SZZ,Szczecin,,,gleam_basin,,W-EU,,PL,POL,,,,,2853
+G-TAB,Tobago,,,gleam_basin,,W-NA,,TT,TTO,,,,,225
+G-TAC,Tacloban,,,gleam_basin,,W-AS,,PH,PHL,,,,,607
+G-TAE,Daegu,,,gleam_basin,,W-AS,,KR,KOR,,,,,2804
+G-TAG,Tagbilaran,,,gleam_basin,,W-AS,,PH,PHL,,,,,606
+G-TAH,Tanna,,,gleam_basin,,W-OC,,VU,VUT,,,,,1316
+G-TAI,Taizz,,,gleam_basin,,W-AS,,YE,YEM,,,,,585
+G-TAK,Takamatsu,,,gleam_basin,,W-AS,,JP,JPN,,,,,3145
+G-TAL,Tanana,,,gleam_basin,,W-NA,,US,USA,,,,,2277
+G-TAM,Tampico,,,gleam_basin,,W-NA,,MX,MEX,,,,,1008
+G-TAO,Qingdao,,,gleam_basin,,W-AS,,CN,CHN,,,,,391
+G-TAP,Tapachula,,,gleam_basin,,W-NA,,MX,MEX,,,,,1007
+G-TAS,Tashkent,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2841
+G-TAT,Poprad,,,gleam_basin,,W-EU,,SK,SVK,,,,,2813
+G-TAY,Tartu,,,gleam_basin,,W-EU,,EE,EST,,,,,2865
+G-TBB,Tuyhoa,,,gleam_basin,,W-AS,,VN,VNM,,,,,1133
+G-TBG,Tabubil,,,gleam_basin,,W-OC,,PG,PNG,,,,,2983
+G-TBI,The Bight,,,gleam_basin,,W-NA,,BS,BHS,,,,,3221
+G-TBN,Fort Leonard Wood,,,gleam_basin,,W-NA,,US,USA,,,,,2300
+G-TBO,Tabora,,,gleam_basin,,W-AF,,TZ,TZA,,,,,209
+G-TBP,Tumbes,,,gleam_basin,,W-SA,,PE,PER,,,,,1222
+G-TBS,Tbilisi,,,gleam_basin,,W-AS,,GE,GEO,,,,,843
+G-TBU,Nuku'alofa,,,gleam_basin,,W-OC,,TO,TON,,,,,2581
+G-TBW,Tambov,,,gleam_basin,,W-EU,,RU,RUS,,,,,1920
+G-TBZ,Tabriz,,,gleam_basin,,W-AS,,IR,IRN,,,,,2950
+G-TCD,Tarapaca,,,gleam_basin,,W-SA,,CO,COL,,,,,1386
+G-TCG,Tacheng,,,gleam_basin,,W-AS,,CN,CHN,,,,,424
+G-TCO,Tumaco,,,gleam_basin,,W-SA,,CO,COL,,,,,1385
+G-TCP,Taba,,,gleam_basin,,W-AF,,EG,EGY,,,,,60
+G-TCQ,Tacna,,,gleam_basin,,W-SA,,PE,PER,,,,,1227
+G-TCR,Tuticorin,,,gleam_basin,,W-AS,,IN,IND,,,,,1091
+G-TCX,Tabas,,,gleam_basin,,W-AS,,IR,IRN,,,,,2954
+G-TCZ,Tengchong,,,gleam_basin,,W-AS,,CN,CHN,,,,,421
+G-TDD,Trinidad,,,gleam_basin,,W-SA,,BO,BOL,,,,,86
+G-TDX,Trat,,,gleam_basin,,W-AS,,TH,THA,,,,,520
+G-TEE,Tebessa,,,gleam_basin,,W-AF,,DZ,DZA,,,,,19
+G-TEN,Tongren,,,gleam_basin,,W-AS,,CN,CHN,,,,,338
+G-TEQ,Tekirdag,,,gleam_basin,,W-AS,,TR,TUR,,,,,1755
+G-TER,Terceira,,,gleam_basin,,W-EU,,PT,PRT,,,,,1430
+G-TET,Tete,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,967
+G-TEX,Telluride,,,gleam_basin,,W-NA,,US,USA,,,,,2149
+G-TFF,Tefe,,,gleam_basin,,W-SA,,BR,BRA,,,,,1968
+G-TFI,Tufi,,,gleam_basin,,W-OC,,PG,PNG,,,,,2985
+G-TFN,Santa Cruz de Tenerife,,,gleam_basin,,W-EU,,ES,ESP,,,,,2886
+G-TFS,Tenerife,,,gleam_basin,,W-EU,,ES,ESP,,,,,2896
+G-TGC,Tanjung Manis,,,gleam_basin,,W-AS,,MY,MYS,,,,,171
+G-TGD,Podgorica,,,gleam_basin,,W-EU,,ME,MNE,,,,,844
+G-TGG,Kuala Terengganu,,,gleam_basin,,W-AS,,MY,MYS,,,,,194
+G-TGK,Taganrog,,,gleam_basin,,W-EU,,RU,RUS,,,,,1835
+G-TGM,Tirgu Mures,,,gleam_basin,,W-EU,,RO,ROU,,,,,143
+G-TGO,Tongliao,,,gleam_basin,,W-AS,,CN,CHN,,,,,368
+G-TGP,Bor,,,gleam_basin,,W-EU,,RU,RUS,,,,,1814
+G-TGR,Touggourt,,,gleam_basin,,W-AF,,DZ,DZA,,,,,26
+G-TGT,Tanga,,,gleam_basin,,W-AF,,TZ,TZA,,,,,203
+G-TGU,Tegucigalpa,,,gleam_basin,,W-NA,,HN,HND,,,,,1191
+G-TGZ,Tuxtla Gutierrez,,,gleam_basin,,W-NA,,MX,MEX,,,,,999
+G-THE,Teresina,,,gleam_basin,,W-SA,,BR,BRA,,,,,2030
+G-THL,Tachilek,,,gleam_basin,,W-AS,,MM,MMR,,,,,886
+G-THN,Trollhattan,,,gleam_basin,,W-EU,,SE,SWE,,,,,2568
+G-THO,Thorshofn,,,gleam_basin,,W-EU,,IS,ISL,,,,,1353
+G-THQ,Tianshui,,,gleam_basin,,W-AS,,CN,CHN,,,,,462
+G-THR,Tehran,,,gleam_basin,,W-AS,,IR,IRN,,,,,2966
+G-THS,Sukhothai,,,gleam_basin,,W-AS,,TH,THA,,,,,548
+G-THU,Pituffik,,,gleam_basin,,W-NA,,GL,GRL,,,,,952
+G-THW,Trincomalee,,,gleam_basin,,W-AS,,LK,LKA,,,,,757
+G-THX,Turukhansk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1824
+G-TIA,Tirana,,,gleam_basin,,W-EU,,AL,ALB,,,,,1783
+G-TID,Tiaret,,,gleam_basin,,W-AF,,DZ,DZA,,,,,47
+G-TIF,Taif,,,gleam_basin,,W-AS,,SA,SAU,,,,,267
+G-TIH,Tikehau,,,gleam_basin,,W-OC,,PF,PYF,,,,,696
+G-TII,Tarin Kot,,,gleam_basin,,W-AS,,AF,AFG,,,,,899
+G-TIJ,Tijuana,,,gleam_basin,,W-NA,,MX,MEX,,,,,1034
+G-TIM,Tembagapura,,,gleam_basin,,W-AS,,ID,IDN,,,,,1309
+G-TIN,Tindouf,,,gleam_basin,,W-AF,,DZ,DZA,,,,,46
+G-TIP,Tripoli,,,gleam_basin,,W-AF,,LY,LBY,,,,,165
+G-TIR,Tirupati,,,gleam_basin,,W-AS,,IN,IND,,,,,1113
+G-TIU,Timaru,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3062
+G-TIZ,Tari,,,gleam_basin,,W-OC,,PG,PNG,,,,,3000
+G-TJA,Tarija,,,gleam_basin,,W-SA,,BO,BOL,,,,,87
+G-TJM,Tyumen,,,gleam_basin,,W-EU,,RU,RUS,,,,,1799
+G-TJQ,Tanjung Pandan,,,gleam_basin,,W-AS,,ID,IDN,,,,,1237
+G-TJU,Kulob,,,gleam_basin,,W-AS,,TJ,TJK,,,,,976
+G-TKD,Takoradi,,,gleam_basin,,W-AF,,GH,GHA,,,,,100
+G-TKG,Bandar Lampung,,,gleam_basin,,W-AS,,ID,IDN,,,,,1250
+G-TKJ,Tok,,,gleam_basin,,W-NA,,US,USA,,,,,2083
+G-TKK,Chuuk,,,gleam_basin,,W-OC,,FM,FSM,,,,,1209
+G-TKQ,Kigoma,,,gleam_basin,,W-AF,,TZ,TZA,,,,,201
+G-TKS,Tokushima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3126
+G-TKU,Turku,,,gleam_basin,,W-EU,,FI,FIN,,,,,508
+G-TKV,Tatakoto,,,gleam_basin,,W-OC,,PF,PYF,,,,,691
+G-TKX,Takaroa,,,gleam_basin,,W-OC,,PF,PYF,,,,,685
+G-TLC,Toluca,,,gleam_basin,,W-NA,,MX,MEX,,,,,1016
+G-TLE,Toliara,,,gleam_basin,,W-AF,,MG,MDG,,,,,1452
+G-TLH,Tallahassee,,,gleam_basin,,W-NA,,US,USA,,,,,2110
+G-TLL,Tallinn,,,gleam_basin,,W-EU,,EE,EST,,,,,2867
+G-TLM,Tlemcen,,,gleam_basin,,W-AF,,DZ,DZA,,,,,35
+G-TLN,Toulon,,,gleam_basin,,W-EU,,FR,FRA,,,,,1520
+G-TLQ,Turpan,,,gleam_basin,,W-AS,,CN,CHN,,,,,415
+G-TLS,Toulouse,,,gleam_basin,,W-EU,,FR,FRA,,,,,1519
+G-TLV,Tel Aviv,,,gleam_basin,,W-AS,,IL,ISR,,,,,1205
+G-TMC,Tambolaka,,,gleam_basin,,W-AS,,ID,IDN,,,,,1279
+G-TME,Tame,,,gleam_basin,,W-SA,,CO,COL,,,,,1406
+G-TMI,Tumlingtar,,,gleam_basin,,W-AS,,NP,NPL,,,,,564
+G-TMJ,Termez,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2844
+G-TML,Tamale,,,gleam_basin,,W-AF,,GH,GHA,,,,,102
+G-TMM,Toamasina,,,gleam_basin,,W-AF,,MG,MDG,,,,,1454
+G-TMP,Tampere,,,gleam_basin,,W-EU,,FI,FIN,,,,,511
+G-TMR,Tamanrasset,,,gleam_basin,,W-AF,,DZ,DZA,,,,,38
+G-TMS,Sao Tome,,,gleam_basin,,W-AF,,ST,STP,,,,,551
+G-TMT,Trombetas,,,gleam_basin,,W-SA,,BR,BRA,,,,,2004
+G-TMU,Tambor,,,gleam_basin,,W-NA,,CR,CRI,,,,,801
+G-TMW,Tamworth,,,gleam_basin,,W-OC,,AU,AUS,,,,,1642
+G-TMX,Timimoun,,,gleam_basin,,W-AF,,DZ,DZA,,,,,39
+G-TNA,Jinan,,,gleam_basin,,W-AS,,CN,CHN,,,,,476
+G-TNG,Tangier,,,gleam_basin,,W-AF,,MA,MAR,,,,,823
+G-TNJ,Tanjung Pinang,,,gleam_basin,,W-AS,,ID,IDN,,,,,1291
+G-TNR,Antananarivo,,,gleam_basin,,W-AF,,MG,MDG,,,,,1449
+G-TNW,Tena,,,gleam_basin,,W-SA,,EC,ECU,,,,,1470
+G-TNZ,Tosontsengel,,,gleam_basin,,W-AS,,MN,MNG,,,,,851
+G-TOB,Tobruk,,,gleam_basin,,W-AF,,LY,LBY,,,,,164
+G-TOD,Tioman Island,,,gleam_basin,,W-AS,,MY,MYS,,,,,189
+G-TOE,Tozeur,,,gleam_basin,,W-AF,,TN,TUN,,,,,1794
+G-TOF,Tomsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1900
+G-TOG,Togiak,,,gleam_basin,,W-NA,,US,USA,,,,,2154
+G-TOH,Torres,,,gleam_basin,,W-OC,,VU,VUT,,,,,1322
+G-TOL,Toledo,,,gleam_basin,,W-NA,,US,USA,,,,,2411
+G-TOS,Tromso,,,gleam_basin,,W-EU,,NO,NOR,,,,,1165
+G-TOU,Touho,,,gleam_basin,,W-OC,,NC,NCL,,,,,3175
+G-TOY,Toyama,,,gleam_basin,,W-AS,,JP,JPN,,,,,3143
+G-TPA,Tampa,,,gleam_basin,,W-NA,,US,USA,,,,,2195
+G-TPE,Taipei,,,gleam_basin,,W-AS,,TW,TWN,,,,,2825
+G-TPP,Tarapoto,,,gleam_basin,,W-SA,,PE,PER,,,,,1217
+G-TPQ,Tepic,,,gleam_basin,,W-NA,,MX,MEX,,,,,1001
+G-TPS,Trapani,,,gleam_basin,,W-EU,,IT,ITA,,,,,3074
+G-TQL,Tarko-Sale,,,gleam_basin,,W-EU,,RU,RUS,,,,,1837
+G-TQR,San Domino Island,,,gleam_basin,,W-EU,,IT,ITA,,,,,3078
+G-TRC,Torreon,,,gleam_basin,,W-NA,,MX,MEX,,,,,1003
+G-TRD,Trondheim,,,gleam_basin,,W-EU,,NO,NOR,,,,,1149
+G-TRE,Tiree,,,gleam_basin,,W-EU,,GB,GBR,,,,,776
+G-TRG,Tauranga,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3063
+G-TRI,Tri-Cities,,,gleam_basin,,W-NA,,US,USA,,,,,2253
+G-TRK,Tarakan,,,gleam_basin,,W-AS,,ID,IDN,,,,,1266
+G-TRN,Turin,,,gleam_basin,,W-EU,,IT,ITA,,,,,3082
+G-TRO,Taree,,,gleam_basin,,W-OC,,AU,AUS,,,,,1624
+G-TRS,Trieste,,,gleam_basin,,W-EU,,IT,ITA,,,,,3083
+G-TRU,Trujillo,,,gleam_basin,,W-SA,,PE,PER,,,,,1220
+G-TRV,Thiruvananthapuram,,,gleam_basin,,W-AS,,IN,IND,,,,,1084
+G-TRW,Tarawa,,,gleam_basin,,W-OC,,KI,KIR,,,,,644
+G-TRZ,Tiruchchirappalli,,,gleam_basin,,W-AS,,IN,IND,,,,,1065
+G-TSE,Astana,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,662
+G-TSH,Tshikapa,,,gleam_basin,,W-AF,,CD,COD,,,,,1340
+G-TSJ,Tsushima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3125
+G-TSN,Tianjin,,,gleam_basin,,W-AS,,CN,CHN,,,,,322
+G-TSR,Timisoara,,,gleam_basin,,W-EU,,RO,ROU,,,,,150
+G-TST,Trang,,,gleam_basin,,W-AS,,TH,THA,,,,,533
+G-TSV,Townsville,,,gleam_basin,,W-OC,,AU,AUS,,,,,1627
+G-TTA,Tan Tan,,,gleam_basin,,W-AF,,MA,MAR,,,,,811
+G-TTE,Ternate,,,gleam_basin,,W-AS,,ID,IDN,,,,,1236
+G-TTJ,Tottori,,,gleam_basin,,W-AS,,JP,JPN,,,,,3109
+G-TTN,Trenton,,,gleam_basin,,W-NA,,US,USA,,,,,2109
+G-TTQ,Tortuquero,,,gleam_basin,,W-NA,,CR,CRI,,,,,798
+G-TTR,Tana Toraja,,,gleam_basin,,W-AS,,ID,IDN,,,,,1234
+G-TTT,Taitung,,,gleam_basin,,W-AS,,TW,TWN,,,,,2824
+G-TTU,Tetouan,,,gleam_basin,,W-AF,,MA,MAR,,,,,813
+G-TUA,Tulcan,,,gleam_basin,,W-SA,,EC,ECU,,,,,1460
+G-TUB,Tubuai,,,gleam_basin,,W-OC,,PF,PYF,,,,,678
+G-TUC,Tucuman,,,gleam_basin,,W-SA,,AR,ARG,,,,,3184
+G-TUF,Tours,,,gleam_basin,,W-EU,,FR,FRA,,,,,1495
+G-TUG,Tuguegarao,,,gleam_basin,,W-AS,,PH,PHL,,,,,592
+G-TUI,Turaif,,,gleam_basin,,W-AS,,SA,SAU,,,,,246
+G-TUK,Turbat,,,gleam_basin,,W-AS,,PK,PAK,,,,,109
+G-TUL,Tulsa,,,gleam_basin,,W-NA,,US,USA,,,,,2099
+G-TUN,Tunis,,,gleam_basin,,W-AF,,TN,TUN,,,,,1790
+G-TUO,Taupo,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3043
+G-TUP,Tupelo,,,gleam_basin,,W-NA,,US,USA,,,,,2338
+G-TUR,Tucurui,,,gleam_basin,,W-SA,,BR,BRA,,,,,1944
+G-TUS,Tucson,,,gleam_basin,,W-NA,,US,USA,,,,,2098
+G-TUU,Tabuk,,,gleam_basin,,W-AS,,SA,SAU,,,,,245
+G-TVC,Traverse City,,,gleam_basin,,W-NA,,US,USA,,,,,2123
+G-TVF,Thief River Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2122
+G-TVS,Tangshan,,,gleam_basin,,W-AS,,CN,CHN,,,,,332
+G-TVU,Taveuni Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1181
+G-TVY,Dawei,,,gleam_basin,,W-AS,,MM,MMR,,,,,876
+G-TWB,Toowoomba,,,gleam_basin,,W-OC,,AU,AUS,,,,,1596
+G-TWF,Twin Falls,,,gleam_basin,,W-NA,,US,USA,,,,,2155
+G-TWU,Tawau,,,gleam_basin,,W-AS,,MY,MYS,,,,,169
+G-TXK,Texarkana,,,gleam_basin,,W-NA,,US,USA,,,,,2381
+G-TXL,Berlin,,,gleam_basin,,W-EU,,DE,DEU,,,,,742
+G-TXN,Huangshan,,,gleam_basin,,W-AS,,CN,CHN,,,,,443
+G-TYL,Talara,,,gleam_basin,,W-SA,,PE,PER,,,,,1226
+G-TYN,Taiyuan,,,gleam_basin,,W-AS,,CN,CHN,,,,,453
+G-TYR,Tyler,,,gleam_basin,,W-NA,,US,USA,,,,,2434
+G-TYS,Knoxville,,,gleam_basin,,W-NA,,US,USA,,,,,2435
+G-TZL,Tuzla,,,gleam_basin,,W-EU,,BA,BIH,,,,,2820
+G-TZX,Trabzon,,,gleam_basin,,W-AS,,TR,TUR,,,,,1751
+G-UAH,Ua Huka,,,gleam_basin,,W-OC,,PF,PYF,,,,,705
+G-UAK,Narsarsuaq,,,gleam_basin,,W-NA,,GL,GRL,,,,,957
+G-UAP,Ua Pou,,,gleam_basin,,W-OC,,PF,PYF,,,,,704
+G-UAQ,San Juan (AR),,,gleam_basin,,W-SA,,AR,ARG,,,,,3207
+G-UAS,Samburu,,,gleam_basin,,W-AF,,KE,KEN,,,,,1731
+G-UBA,Uberaba,,,gleam_basin,,W-SA,,BR,BRA,,,,,2007
+G-UBP,Ubon Ratchathani,,,gleam_basin,,W-AS,,TH,THA,,,,,537
+G-UCT,Ukhta,,,gleam_basin,,W-EU,,RU,RUS,,,,,1885
+G-UDI,Uberlandia,,,gleam_basin,,W-SA,,BR,BRA,,,,,1978
+G-UDJ,Uzhhorod,,,gleam_basin,,W-EU,,UA,UKR,,,,,2786
+G-UDR,Udaipur,,,gleam_basin,,W-AS,,IN,IND,,,,,1086
+G-UEL,Quelimane,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,972
+G-UEO,Kume Jima,,,gleam_basin,,W-AS,,JP,JPN,,,,,3124
+G-UET,Quetta,,,gleam_basin,,W-AS,,PK,PAK,,,,,121
+G-UFA,Ufa,,,gleam_basin,,W-EU,,RU,RUS,,,,,1861
+G-UGB,Pilot Point,,,gleam_basin,,W-NA,,US,USA,,,,,2537
+G-UGC,Urgench,,,gleam_basin,,W-AS,,UZ,UZB,,,,,2847
+G-UIB,Quibdo,,,gleam_basin,,W-SA,,CO,COL,,,,,1367
+G-UIH,Quinhon,,,gleam_basin,,W-AS,,VN,VNM,,,,,1134
+G-UIN,Quincy,,,gleam_basin,,W-NA,,US,USA,,,,,2131
+G-UIO,Quito,,,gleam_basin,,W-SA,,EC,ECU,,,,,1462
+G-UIP,Quimper,,,gleam_basin,,W-EU,,FR,FRA,,,,,1498
+G-UKK,Ust-Kamenogorsk,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,656
+G-UKS,Sevastopol,,,gleam_basin,,W-EU,,UA,UKR,,,,,2780
+G-UKX,Ust-Kut,,,gleam_basin,,W-EU,,RU,RUS,,,,,1802
+G-ULD,Ulundi,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,642
+G-ULG,Olgii,,,gleam_basin,,W-AS,,MN,MNG,,,,,854
+G-ULH,Al Ula,,,gleam_basin,,W-AS,,SA,SAU,,,,,269
+G-ULK,Lensk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1927
+G-ULN,Ulaanbaatar,,,gleam_basin,,W-AS,,MN,MNG,,,,,856
+G-ULO,Ulaangom,,,gleam_basin,,W-AS,,MN,MNG,,,,,853
+G-ULP,Quilpie,,,gleam_basin,,W-OC,,AU,AUS,,,,,1692
+G-ULV,Ulyanovsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1929
+G-ULZ,Uliastai,,,gleam_basin,,W-AS,,MN,MNG,,,,,855
+G-UME,Umea,,,gleam_basin,,W-EU,,SE,SWE,,,,,2570
+G-UMU,Umuarama,,,gleam_basin,,W-SA,,BR,BRA,,,,,2032
+G-UND,Kunduz,,,gleam_basin,,W-AS,,AF,AFG,,,,,896
+G-UNG,Kiunga,,,gleam_basin,,W-OC,,PG,PNG,,,,,2996
+G-UNK,Unalakleet,,,gleam_basin,,W-NA,,US,USA,,,,,2069
+G-UNN,Ranong,,,gleam_basin,,W-AS,,TH,THA,,,,,547
+G-UPG,Makassar,,,gleam_basin,,W-AS,,ID,IDN,,,,,1286
+G-UPN,Uruapan,,,gleam_basin,,W-NA,,MX,MEX,,,,,1020
+G-URA,Uralsk,,,gleam_basin,,W-AS,,KZ,KAZ,,,,,664
+G-URC,Urumqi,,,gleam_basin,,W-AS,,CN,CHN,,,,,379
+G-URE,Kuressaare,,,gleam_basin,,W-EU,,EE,EST,,,,,2866
+G-URG,Uruguaiana,,,gleam_basin,,W-SA,,BR,BRA,,,,,1995
+G-URJ,Uray,,,gleam_basin,,W-EU,,RU,RUS,,,,,1866
+G-URS,Kursk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1867
+G-URT,Surat Thani,,,gleam_basin,,W-AS,,TH,THA,,,,,535
+G-URY,Gurayat,,,gleam_basin,,W-AS,,SA,SAU,,,,,250
+G-USH,Ushuaia,,,gleam_basin,,W-SA,,AR,ARG,,,,,3195
+G-USK,Usinsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1803
+G-USM,Ko Samui,,,gleam_basin,,W-AS,,TH,THA,,,,,530
+G-USN,Ulsan,,,gleam_basin,,W-AS,,KR,KOR,,,,,2809
+G-USU,Coron,,,gleam_basin,,W-AS,,PH,PHL,,,,,604
+G-UTH,Udon Thani,,,gleam_basin,,W-AS,,TH,THA,,,,,528
+G-UTN,Upington,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,630
+G-UTP,U-Tapao,,,gleam_basin,,W-AS,,TH,THA,,,,,529
+G-UTS,Ust-Tsilma,,,gleam_basin,,W-EU,,RU,RUS,,,,,1871
+G-UTT,Umtata,,,gleam_basin,,W-AF,,ZA,ZAF,,,,,631
+G-UUA,Bugulma,,,gleam_basin,,W-EU,,RU,RUS,,,,,1833
+G-UUD,Ulan-Ude,,,gleam_basin,,W-EU,,RU,RUS,,,,,1832
+G-UUS,Yuzhno-Sakhalinsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1831
+G-UVE,Ouvea,,,gleam_basin,,W-OC,,NC,NCL,,,,,3167
+G-UVF,St Lucia,,,gleam_basin,,W-NA,,LC,LCA,,,,,1038
+G-UYL,Nyala,,,gleam_basin,,W-AF,,SD,SDN,,,,,3010
+G-UYN,Yulin,,,gleam_basin,,W-AS,,CN,CHN,,,,,387
+G-UYU,Uyuni,,,gleam_basin,,W-SA,,BO,BOL,,,,,88
+G-VAA,Vaasa,,,gleam_basin,,W-EU,,FI,FIN,,,,,500
+G-VAG,Varginha,,,gleam_basin,,W-SA,,BR,BRA,,,,,1958
+G-VAI,Vanimo,,,gleam_basin,,W-OC,,PG,PNG,,,,,2984
+G-VAK,Chevak,,,gleam_basin,,W-NA,,US,USA,,,,,2169
+G-VAM,Maamigili Island,,,gleam_basin,,W-AS,,MV,MDV,,,,,1477
+G-VAN,Van,,,gleam_basin,,W-AS,,TR,TUR,,,,,1750
+G-VAO,Suavanao,,,gleam_basin,,W-OC,,SB,SLB,,,,,3023
+G-VAR,Varna,,,gleam_basin,,W-EU,,BG,BGR,,,,,82
+G-VAS,Sivas,,,gleam_basin,,W-AS,,TR,TUR,,,,,1741
+G-VAW,Vardo,,,gleam_basin,,W-EU,,NO,NOR,,,,,1155
+G-VBV,Vanuabalavu Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1182
+G-VBY,Visby,,,gleam_basin,,W-EU,,SE,SWE,,,,,2542
+G-VCA,Cantho,,,gleam_basin,,W-AS,,VN,VNM,,,,,1136
+G-VCE,Venice,,,gleam_basin,,W-EU,,IT,ITA,,,,,3085
+G-VCL,Tamky,,,gleam_basin,,W-AS,,VN,VNM,,,,,1121
+G-VCP,Campinas,,,gleam_basin,,W-SA,,BR,BRA,,,,,2014
+G-VCS,Con Dao,,,gleam_basin,,W-AS,,VN,VNM,,,,,1122
+G-VCT,Victoria,,,gleam_basin,,W-NA,,US,USA,,,,,2102
+G-VDB,Fagernes,,,gleam_basin,,W-EU,,NO,NOR,,,,,1163
+G-VDC,Vitoria Da Conquista,,,gleam_basin,,W-SA,,BR,BRA,,,,,1983
+G-VDE,Valverde,,,gleam_basin,,W-EU,,ES,ESP,,,,,2892
+G-VDH,Dong Hoi,,,gleam_basin,,W-AS,,VN,VNM,,,,,1127
+G-VDM,Viedma,,,gleam_basin,,W-SA,,AR,ARG,,,,,3193
+G-VDZ,Valdez,,,gleam_basin,,W-NA,,US,USA,,,,,2254
+G-VEE,Venetie,,,gleam_basin,,W-NA,,US,USA,,,,,2166
+G-VEL,Vernal,,,gleam_basin,,W-NA,,US,USA,,,,,2168
+G-VER,Veracruz,,,gleam_basin,,W-NA,,MX,MEX,,,,,1013
+G-VFA,Victoria Falls,,,gleam_basin,,W-AF,,ZW,ZWE,,,,,959
+G-VGA,Vijayawada,,,gleam_basin,,W-AS,,IN,IND,,,,,1074
+G-VGO,Vigo,,,gleam_basin,,W-EU,,ES,ESP,,,,,2888
+G-VGZ,Mocoa,,,gleam_basin,,W-SA,,CO,COL,,,,,1376
+G-VHC,Saurimo,,,gleam_basin,,W-AF,,AO,AGO,,,,,10
+G-VHM,Vilhelmina,,,gleam_basin,,W-EU,,SE,SWE,,,,,2561
+G-VHZ,Vahitahi,,,gleam_basin,,W-OC,,PF,PYF,,,,,701
+G-VIE,Vienna,,,gleam_basin,,W-EU,,AT,AUT,,,,,1699
+G-VIF,Vieste,,,gleam_basin,,W-EU,,IT,ITA,,,,,3092
+G-VIG,El Vigia,,,gleam_basin,,W-SA,,VE,VEN,,,,,1717
+G-VII,Vinh City,,,gleam_basin,,W-AS,,VN,VNM,,,,,1138
+G-VIL,Dakhla,,,gleam_basin,,W-AF,,MA,MAR,,,,,825
+G-VIN,Vinnytsia,,,gleam_basin,,W-EU,,UA,UKR,,,,,2792
+G-VIS,Visalia,,,gleam_basin,,W-NA,,US,USA,,,,,2433
+G-VIX,Vitoria,,,gleam_basin,,W-SA,,BR,BRA,,,,,2020
+G-VKG,Rachgia,,,gleam_basin,,W-AS,,VN,VNM,,,,,1135
+G-VKT,Vorkuta,,,gleam_basin,,W-EU,,RU,RUS,,,,,1884
+G-VLC,Valencia (ES),,,gleam_basin,,W-EU,,ES,ESP,,,,,2883
+G-VLD,Valdosta,,,gleam_basin,,W-NA,,US,USA,,,,,2060
+G-VLG,Villa Gesell,,,gleam_basin,,W-SA,,AR,ARG,,,,,3219
+G-VLI,Port Vila,,,gleam_basin,,W-OC,,VU,VUT,,,,,1315
+G-VLL,Valladolid,,,gleam_basin,,W-EU,,ES,ESP,,,,,2880
+G-VLN,Valencia (VE),,,gleam_basin,,W-SA,,VE,VEN,,,,,1704
+G-VLV,Valera,,,gleam_basin,,W-SA,,VE,VEN,,,,,1702
+G-VLY,Anglesey,,,gleam_basin,,W-EU,,GB,GBR,,,,,761
+G-VME,Villa Mercedes,,,gleam_basin,,W-SA,,AR,ARG,,,,,3202
+G-VNO,Vilnius,,,gleam_basin,,W-EU,,LT,LTU,,,,,1541
+G-VNS,Varanasi,,,gleam_basin,,W-AS,,IN,IND,,,,,1107
+G-VNX,Vilankulos,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,973
+G-VOG,Volgograd,,,gleam_basin,,W-EU,,RU,RUS,,,,,1926
+G-VOL,Volos,,,gleam_basin,,W-EU,,GR,GRC,,,,,938
+G-VOZ,Voronezh,,,gleam_basin,,W-EU,,RU,RUS,,,,,1928
+G-VPE,Ondjiva,,,gleam_basin,,W-AF,,AO,AGO,,,,,8
+G-VPN,Vopnafjordur,,,gleam_basin,,W-EU,,IS,ISL,,,,,1349
+G-VPS,Valparaiso,,,gleam_basin,,W-NA,,US,USA,,,,,2187
+G-VPY,Chimoio,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,969
+G-VQS,Vieques,,,gleam_basin,,W-NA,,PR,PRI,,,,,195
+G-VRA,Varadero,,,gleam_basin,,W-NA,,CU,CUB,,,,,3242
+G-VRC,Virac,,,gleam_basin,,W-AS,,PH,PHL,,,,,595
+G-VRI,Varandey,,,gleam_basin,,W-EU,,RU,RUS,,,,,1813
+G-VRK,Varkaus,,,gleam_basin,,W-EU,,FI,FIN,,,,,498
+G-VRL,Vila Real,,,gleam_basin,,W-EU,,PT,PRT,,,,,1429
+G-VRN,Verona,,,gleam_basin,,W-EU,,IT,ITA,,,,,3069
+G-VSA,Villahermosa,,,gleam_basin,,W-NA,,MX,MEX,,,,,1004
+G-VSG,Luhansk,,,gleam_basin,,W-EU,,UA,UKR,,,,,2788
+G-VST,Vasteras,,,gleam_basin,,W-EU,,SE,SWE,,,,,2546
+G-VTE,Vientiane,,,gleam_basin,,W-AS,,LA,LAO,,,,,575
+G-VTM,Nevatim,,,gleam_basin,,W-AS,,IL,ISR,,,,,1204
+G-VTU,Las Tunas,,,gleam_basin,,W-NA,,CU,CUB,,,,,3246
+G-VTZ,Vishakhapatnam,,,gleam_basin,,W-AS,,IN,IND,,,,,1046
+G-VUP,Valledupar,,,gleam_basin,,W-SA,,CO,COL,,,,,1387
+G-VUS,Veliky Ustyug,,,gleam_basin,,W-EU,,RU,RUS,,,,,1806
+G-VVC,Villavicencio,,,gleam_basin,,W-SA,,CO,COL,,,,,1388
+G-VVI,Santa Cruz,,,gleam_basin,,W-SA,,BO,BOL,,,,,90
+G-VVO,Vladivostok,,,gleam_basin,,W-EU,,RU,RUS,,,,,1859
+G-VVZ,Illizi,,,gleam_basin,,W-AF,,DZ,DZA,,,,,27
+G-VXC,Lichinga,,,gleam_basin,,W-AF,,MZ,MOZ,,,,,970
+G-VXE,Sao Vicente Island,,,gleam_basin,,W-AF,,CV,CPV,,,,,133
+G-VXO,Vaxjo,,,gleam_basin,,W-EU,,SE,SWE,,,,,2567
+G-WAA,Wales,,,gleam_basin,,W-NA,,US,USA,,,,,2383
+G-WAE,Wadi al Dawaser,,,gleam_basin,,W-AS,,SA,SAU,,,,,254
+G-WAG,Wanganui,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3048
+G-WAT,Waterford,,,gleam_basin,,W-EU,,IE,IRL,,,,,2924
+G-WAW,Warsaw,,,gleam_basin,,W-EU,,PL,POL,,,,,2852
+G-WBQ,Beaver,,,gleam_basin,,W-NA,,US,USA,,,,,2325
+G-WDH,Windhoek,,,gleam_basin,,W-AF,,NA,NAM,,,,,76
+G-WEF,Weifang,,,gleam_basin,,W-AS,,CN,CHN,,,,,327
+G-WEH,Weihai,,,gleam_basin,,W-AS,,CN,CHN,,,,,328
+G-WEI,Weipa,,,gleam_basin,,W-OC,,AU,AUS,,,,,1658
+G-WGA,Wagga Wagga,,,gleam_basin,,W-OC,,AU,AUS,,,,,1600
+G-WGP,Waingapu,,,gleam_basin,,W-AS,,ID,IDN,,,,,1278
+G-WHK,Whakatane,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3040
+G-WIC,Wick,,,gleam_basin,,W-EU,,GB,GBR,,,,,794
+G-WIN,Winton,,,gleam_basin,,W-OC,,AU,AUS,,,,,1690
+G-WJR,Wajir,,,gleam_basin,,W-AF,,KE,KEN,,,,,1726
+G-WJU,Won-ju,,,gleam_basin,,W-AS,,KR,KOR,,,,,2798
+G-WKA,Wanaka,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3044
+G-WKJ,Wakkanai,,,gleam_basin,,W-AS,,JP,JPN,,,,,3148
+G-WLG,Wellington,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3057
+G-WLK,Selawik,,,gleam_basin,,W-NA,,US,USA,,,,,2388
+G-WLS,Wallis Island,,,gleam_basin,,W-OC,,WF,WLF,,,,,1555
+G-WMN,Maroantsetra,,,gleam_basin,,W-AF,,MG,MDG,,,,,1447
+G-WMR,Mananara Avaratra,,,gleam_basin,,W-AF,,MG,MDG,,,,,1455
+G-WMX,Wamena,,,gleam_basin,,W-AS,,ID,IDN,,,,,1283
+G-WNH,Wenshan,,,gleam_basin,,W-AS,,CN,CHN,,,,,464
+G-WNN,Wunnummin Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2763
+G-WNP,Naga,,,gleam_basin,,W-AS,,PH,PHL,,,,,618
+G-WNR,Windorah,,,gleam_basin,,W-OC,,AU,AUS,,,,,1675
+G-WNS,Nawabshah,,,gleam_basin,,W-AS,,PK,PAK,,,,,132
+G-WNZ,Wenzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,465
+G-WRE,Whangarei,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3058
+G-WRL,Worland,,,gleam_basin,,W-NA,,US,USA,,,,,2390
+G-WRO,Wroclaw,,,gleam_basin,,W-EU,,PL,POL,,,,,2858
+G-WSZ,Westport,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3055
+G-WTK,Noatak,,,gleam_basin,,W-NA,,US,USA,,,,,2232
+G-WTL,Tuntutuliak,,,gleam_basin,,W-NA,,US,USA,,,,,2536
+G-WUA,Wuhai,,,gleam_basin,,W-AS,,CN,CHN,,,,,347
+G-WUH,Wuhan,,,gleam_basin,,W-AS,,CN,CHN,,,,,477
+G-WUS,Wuyishan,,,gleam_basin,,W-AS,,CN,CHN,,,,,344
+G-WUX,Wuxi,,,gleam_basin,,W-AS,,CN,CHN,,,,,346
+G-WUZ,Wuzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,345
+G-WVB,Walvis Bay,,,gleam_basin,,W-AF,,NA,NAM,,,,,77
+G-WWK,Wewak,,,gleam_basin,,W-OC,,PG,PNG,,,,,2987
+G-WWT,Newtok,,,gleam_basin,,W-NA,,US,USA,,,,,2226
+G-WXN,Wanzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,334
+G-WYA,Whyalla,,,gleam_basin,,W-OC,,AU,AUS,,,,,1580
+G-WYS,West Yellowstone,,,gleam_basin,,W-NA,,US,USA,,,,,2091
+G-XAP,Chapeco,,,gleam_basin,,W-SA,,BR,BRA,,,,,2038
+G-XBE,Bearskin Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2582
+G-XBJ,Birjand,,,gleam_basin,,W-AS,,IR,IRN,,,,,2961
+G-XCH,Christmas Island,,,gleam_basin,,W-AS,,CX,CXR,,,,,570
+G-XCR,Chalons-en-Champagne,,,gleam_basin,,W-EU,,FR,FRA,,,,,1494
+G-XFN,Xiangyang,,,gleam_basin,,W-AS,,CN,CHN,,,,,353
+G-XGR,Kangiqsualujjuaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2652
+G-XIC,Xichang,,,gleam_basin,,W-AS,,CN,CHN,,,,,400
+G-XIL,Xilinhot,,,gleam_basin,,W-AS,,CN,CHN,,,,,468
+G-XIY,Xi'an,,,gleam_basin,,W-AS,,CN,CHN,,,,,348
+G-XKH,Phonsavan,,,gleam_basin,,W-AS,,LA,LAO,,,,,576
+G-XKS,Kasabonika,,,gleam_basin,,W-NA,,CA,CAN,,,,,2600
+G-XMH,Manihi,,,gleam_basin,,W-OC,,PF,PYF,,,,,698
+G-XMN,Xiamen,,,gleam_basin,,W-AS,,CN,CHN,,,,,430
+G-XMS,Macas,,,gleam_basin,,W-SA,,EC,ECU,,,,,1468
+G-XNA,Fayetteville (US-AR),,,gleam_basin,,W-NA,,US,USA,,,,,2197
+G-XNN,Xining,,,gleam_basin,,W-AS,,CN,CHN,,,,,439
+G-XQP,Quepos,,,gleam_basin,,W-NA,,CR,CRI,,,,,799
+G-XRY,Jerez,,,gleam_basin,,W-EU,,ES,ESP,,,,,2893
+G-XSB,Sir Bani Yas Island,,,gleam_basin,,W-AS,,AE,ARE,,,,,3177
+G-XTG,Thargomindah,,,gleam_basin,,W-OC,,AU,AUS,,,,,1597
+G-XUZ,Xuzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,316
+G-YAA,Anahim Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2706
+G-YAB,Arctic Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2595
+G-YAC,Cat Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2765
+G-YAG,Fort Frances,,,gleam_basin,,W-NA,,CA,CAN,,,,,2705
+G-YAK,Yakutat,,,gleam_basin,,W-NA,,US,USA,,,,,2097
+G-YAM,Sault Ste Marie (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2594
+G-YAP,Yap,,,gleam_basin,,W-OC,,FM,FSM,,,,,1210
+G-YAS,Yasawa Island,,,gleam_basin,,W-OC,,FJ,FJI,,,,,1188
+G-YAT,Attawapiskat,,,gleam_basin,,W-NA,,CA,CAN,,,,,2593
+G-YAY,St Anthony,,,gleam_basin,,W-NA,,CA,CAN,,,,,2732
+G-YBB,Pelly Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2584
+G-YBC,Baie Comeau,,,gleam_basin,,W-NA,,CA,CAN,,,,,2681
+G-YBG,Bagotville,,,gleam_basin,,W-NA,,CA,CAN,,,,,2596
+G-YBK,Baker Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2671
+G-YBP,Yibin,,,gleam_basin,,W-AS,,CN,CHN,,,,,323
+G-YBR,Brandon,,,gleam_basin,,W-NA,,CA,CAN,,,,,2583
+G-YBX,Blanc Sablon,,,gleam_basin,,W-NA,,CA,CAN,,,,,2691
+G-YCB,Cambridge Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2746
+G-YCG,Castlegar,,,gleam_basin,,W-NA,,CA,CAN,,,,,2776
+G-YCK,Colville Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2743
+G-YCL,Charlo,,,gleam_basin,,W-NA,,CA,CAN,,,,,2775
+G-YCO,Kugluktuk Coppermine,,,gleam_basin,,W-NA,,CA,CAN,,,,,2744
+G-YCS,Chesterfield Inlet,,,gleam_basin,,W-NA,,CA,CAN,,,,,2774
+G-YCU,Yuncheng,,,gleam_basin,,W-AS,,CN,CHN,,,,,480
+G-YCY,Clyde River,,,gleam_basin,,W-NA,,CA,CAN,,,,,2773
+G-YDA,Dawson City,,,gleam_basin,,W-NA,,CA,CAN,,,,,2709
+G-YDF,Deer Lake (CA-NL),,,gleam_basin,,W-NA,,CA,CAN,,,,,2665
+G-YDP,Nain,,,gleam_basin,,W-NA,,CA,CAN,,,,,2666
+G-YDQ,Dawson Creek,,,gleam_basin,,W-NA,,CA,CAN,,,,,2667
+G-YEG,Edmonton,,,gleam_basin,,W-NA,,CA,CAN,,,,,2642
+G-YEI,Bursa,,,gleam_basin,,W-AS,,TR,TUR,,,,,1760
+G-YEK,Arviat,,,gleam_basin,,W-NA,,CA,CAN,,,,,2654
+G-YER,Fort Severn,,,gleam_basin,,W-NA,,CA,CAN,,,,,2644
+G-YES,Yasouj,,,gleam_basin,,W-AS,,IR,IRN,,,,,2937
+G-YEV,Inuvik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2655
+G-YFB,Iqaluit,,,gleam_basin,,W-NA,,CA,CAN,,,,,2747
+G-YFC,Fredericton,,,gleam_basin,,W-NA,,CA,CAN,,,,,2628
+G-YFH,Fort Hope,,,gleam_basin,,W-NA,,CA,CAN,,,,,2748
+G-YFJ,Snare Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2629
+G-YFO,Flin Flon,,,gleam_basin,,W-NA,,CA,CAN,,,,,2637
+G-YFS,Fort Simpson,,,gleam_basin,,W-NA,,CA,CAN,,,,,2630
+G-YFX,Fox Harbour,,,gleam_basin,,W-NA,,CA,CAN,,,,,2752
+G-YGH,Fort Good Hope,,,gleam_basin,,W-NA,,CA,CAN,,,,,2618
+G-YGK,Kingston (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2617
+G-YGL,La Grande,,,gleam_basin,,W-NA,,CA,CAN,,,,,2616
+G-YGP,Gaspe,,,gleam_basin,,W-NA,,CA,CAN,,,,,2598
+G-YGQ,Geraldton (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2621
+G-YGR,Iles de la Madeleine,,,gleam_basin,,W-NA,,CA,CAN,,,,,2620
+G-YGT,Igloolik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2673
+G-YGV,Havre St Pierre,,,gleam_basin,,W-NA,,CA,CAN,,,,,2754
+G-YGW,Kuujjuarapik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2619
+G-YGX,Gillam,,,gleam_basin,,W-NA,,CA,CAN,,,,,2622
+G-YGZ,Grise Fiord,,,gleam_basin,,W-NA,,CA,CAN,,,,,2760
+G-YHD,Dryden,,,gleam_basin,,W-NA,,CA,CAN,,,,,2700
+G-YHI,Ulukhaktok,,,gleam_basin,,W-NA,,CA,CAN,,,,,2698
+G-YHK,Gjoa Haven,,,gleam_basin,,W-NA,,CA,CAN,,,,,2690
+G-YHM,Hamilton (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2762
+G-YHO,Hopedale,,,gleam_basin,,W-NA,,CA,CAN,,,,,2699
+G-YHY,Hay River,,,gleam_basin,,W-NA,,CA,CAN,,,,,2692
+G-YHZ,Halifax,,,gleam_basin,,W-NA,,CA,CAN,,,,,2701
+G-YIC,Yichun (Jiangxi),,,gleam_basin,,W-AS,,CN,CHN,,,,,341
+G-YIE,Aershan,,,gleam_basin,,W-AS,,CN,CHN,,,,,401
+G-YIF,Pakuashipi,,,gleam_basin,,W-NA,,CA,CAN,,,,,2772
+G-YIH,Yichang,,,gleam_basin,,W-AS,,CN,CHN,,,,,402
+G-YIK,Ivujivik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2686
+G-YIN,Yining,,,gleam_basin,,W-AS,,CN,CHN,,,,,383
+G-YIO,Pond Inlet,,,gleam_basin,,W-NA,,CA,CAN,,,,,2685
+G-YIW,Yiwu,,,gleam_basin,,W-AS,,CN,CHN,,,,,403
+G-YJT,Stephenville,,,gleam_basin,,W-NA,,CA,CAN,,,,,2734
+G-YKA,Kamloops,,,gleam_basin,,W-NA,,CA,CAN,,,,,2657
+G-YKG,Kangirsuk,,,gleam_basin,,W-NA,,CA,CAN,,,,,2658
+G-YKL,Schefferville,,,gleam_basin,,W-NA,,CA,CAN,,,,,2659
+G-YKM,Yakima,,,gleam_basin,,W-NA,,US,USA,,,,,2327
+G-YKQ,Waskaganish,,,gleam_basin,,W-NA,,CA,CAN,,,,,2660
+G-YKS,Yakutsk,,,gleam_basin,,W-EU,,RU,RUS,,,,,1876
+G-YKT,Klemtu,,,gleam_basin,,W-NA,,CA,CAN,,,,,2676
+G-YKU,Chisasibi,,,gleam_basin,,W-NA,,CA,CAN,,,,,2661
+G-YLC,Kimmirut,,,gleam_basin,,W-NA,,CA,CAN,,,,,2625
+G-YLE,Whati,,,gleam_basin,,W-NA,,CA,CAN,,,,,2624
+G-YLH,Lansdowne House,,,gleam_basin,,W-NA,,CA,CAN,,,,,2626
+G-YLL,Lloydminster,,,gleam_basin,,W-NA,,CA,CAN,,,,,2761
+G-YLW,Kelowna,,,gleam_basin,,W-NA,,CA,CAN,,,,,2623
+G-YMK,Mys-Kamenny,,,gleam_basin,,W-EU,,RU,RUS,,,,,1904
+G-YMM,Fort Mcmurray,,,gleam_basin,,W-NA,,CA,CAN,,,,,2750
+G-YMN,Makkovik,,,gleam_basin,,W-NA,,CA,CAN,,,,,2751
+G-YMO,Moosonee,,,gleam_basin,,W-NA,,CA,CAN,,,,,2770
+G-YMT,Chibougamau,,,gleam_basin,,W-NA,,CA,CAN,,,,,2767
+G-YNB,Yanbu al Bahr,,,gleam_basin,,W-AS,,SA,SAU,,,,,255
+G-YNC,Wemindji,,,gleam_basin,,W-NA,,CA,CAN,,,,,2736
+G-YNG,Youngstown,,,gleam_basin,,W-NA,,US,USA,,,,,2233
+G-YNJ,Yanji,,,gleam_basin,,W-AS,,CN,CHN,,,,,441
+G-YNO,North Spirit Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2662
+G-YNP,Natuashish,,,gleam_basin,,W-NA,,CA,CAN,,,,,2737
+G-YNS,Nemiscau,,,gleam_basin,,W-NA,,CA,CAN,,,,,2738
+G-YNT,Yantai,,,gleam_basin,,W-AS,,CN,CHN,,,,,378
+G-YNY,Yangyang,,,gleam_basin,,W-AS,,KR,KOR,,,,,2802
+G-YNZ,Yancheng,,,gleam_basin,,W-AS,,CN,CHN,,,,,442
+G-YOC,Old Crow,,,gleam_basin,,W-NA,,CA,CAN,,,,,2592
+G-YOG,Ogoki,,,gleam_basin,,W-NA,,CA,CAN,,,,,2719
+G-YOJ,High Level,,,gleam_basin,,W-NA,,CA,CAN,,,,,2591
+G-YOL,Yola,,,gleam_basin,,W-AF,,NG,NGA,,,,,1423
+G-YOP,Rainbow Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2601
+G-YOW,Ottawa,,,gleam_basin,,W-NA,,CA,CAN,,,,,2720
+G-YPA,Prince Albert,,,gleam_basin,,W-NA,,CA,CAN,,,,,2755
+G-YPC,Paulatuk,,,gleam_basin,,W-NA,,CA,CAN,,,,,2632
+G-YPH,Inukjuak,,,gleam_basin,,W-NA,,CA,CAN,,,,,2634
+G-YPJ,Aupaluk,,,gleam_basin,,W-NA,,CA,CAN,,,,,2633
+G-YPL,Pickle Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2635
+G-YPM,Pikangikum,,,gleam_basin,,W-NA,,CA,CAN,,,,,2702
+G-YPN,Port Menier,,,gleam_basin,,W-NA,,CA,CAN,,,,,2756
+G-YPO,Peawanuck,,,gleam_basin,,W-NA,,CA,CAN,,,,,2757
+G-YPR,Prince Rupert,,,gleam_basin,,W-NA,,CA,CAN,,,,,2753
+G-YPX,Puvirnituq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2745
+G-YPY,Fort Chipewyan,,,gleam_basin,,W-NA,,CA,CAN,,,,,2631
+G-YQB,Quebec,,,gleam_basin,,W-NA,,CA,CAN,,,,,2610
+G-YQC,Quaqtaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2609
+G-YQD,The Pas,,,gleam_basin,,W-NA,,CA,CAN,,,,,2672
+G-YQF,Red Deer,,,gleam_basin,,W-NA,,CA,CAN,,,,,2656
+G-YQG,Windsor,,,gleam_basin,,W-NA,,CA,CAN,,,,,2608
+G-YQK,Kenora,,,gleam_basin,,W-NA,,CA,CAN,,,,,2607
+G-YQL,Lethbridge,,,gleam_basin,,W-NA,,CA,CAN,,,,,2638
+G-YQM,Moncton,,,gleam_basin,,W-NA,,CA,CAN,,,,,2636
+G-YQQ,Comox,,,gleam_basin,,W-NA,,CA,CAN,,,,,2764
+G-YQR,Regina,,,gleam_basin,,W-NA,,CA,CAN,,,,,2643
+G-YQT,Thunder Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2614
+G-YQU,Grande Prairie,,,gleam_basin,,W-NA,,CA,CAN,,,,,2613
+G-YQX,Gander,,,gleam_basin,,W-NA,,CA,CAN,,,,,2641
+G-YQY,Sydney (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2611
+G-YQZ,Quesnel,,,gleam_basin,,W-NA,,CA,CAN,,,,,2735
+G-YRA,Rae Lakes,,,gleam_basin,,W-NA,,CA,CAN,,,,,2779
+G-YRB,Resolute,,,gleam_basin,,W-NA,,CA,CAN,,,,,2603
+G-YRG,Rigolet,,,gleam_basin,,W-NA,,CA,CAN,,,,,2604
+G-YRL,Red Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2602
+G-YRT,Rankin Inlet,,,gleam_basin,,W-NA,,CA,CAN,,,,,2605
+G-YSB,Sudbury,,,gleam_basin,,W-NA,,CA,CAN,,,,,2588
+G-YSG,Lutselke Snowdrift,,,gleam_basin,,W-NA,,CA,CAN,,,,,2589
+G-YSJ,St John,,,gleam_basin,,W-NA,,CA,CAN,,,,,2586
+G-YSK,Sanikiluaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2585
+G-YSM,Fort Smith (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2587
+G-YSY,Sachs Harbour,,,gleam_basin,,W-NA,,CA,CAN,,,,,2590
+G-YTE,Cape Dorset,,,gleam_basin,,W-NA,,CA,CAN,,,,,2697
+G-YTF,Alma,,,gleam_basin,,W-NA,,CA,CAN,,,,,2684
+G-YTH,Thompson,,,gleam_basin,,W-NA,,CA,CAN,,,,,2696
+G-YTL,Big Trout Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2683
+G-YTM,Mont Tremblant,,,gleam_basin,,W-NA,,CA,CAN,,,,,2759
+G-YTQ,Tasiujuaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2675
+G-YTS,Timmins,,,gleam_basin,,W-NA,,CA,CAN,,,,,2695
+G-YTY,Yangzhou,,,gleam_basin,,W-AS,,CN,CHN,,,,,395
+G-YUB,Tuktoyaktuk,,,gleam_basin,,W-NA,,CA,CAN,,,,,2680
+G-YUD,Umiujaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2599
+G-YUL,Montreal,,,gleam_basin,,W-NA,,CA,CAN,,,,,2777
+G-YUM,Yuma,,,gleam_basin,,W-NA,,US,USA,,,,,2104
+G-YUS,Yushu,,,gleam_basin,,W-AS,,CN,CHN,,,,,390
+G-YUT,Repulse Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2679
+G-YUX,Hall Beach,,,gleam_basin,,W-NA,,CA,CAN,,,,,2678
+G-YUY,Rouyn,,,gleam_basin,,W-NA,,CA,CAN,,,,,2677
+G-YVB,Bonaventure,,,gleam_basin,,W-NA,,CA,CAN,,,,,2721
+G-YVM,Qikiqtarjuaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2669
+G-YVO,Val D'Or,,,gleam_basin,,W-NA,,CA,CAN,,,,,2722
+G-YVP,Kuujjuaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2771
+G-YVQ,Norman Wells,,,gleam_basin,,W-NA,,CA,CAN,,,,,2703
+G-YVR,Vancouver,,,gleam_basin,,W-NA,,CA,CAN,,,,,2766
+G-YVZ,Deer Lake (CA-ON),,,gleam_basin,,W-NA,,CA,CAN,,,,,2668
+G-YWB,Kangiqsujuaq,,,gleam_basin,,W-NA,,CA,CAN,,,,,2606
+G-YWG,Winnipeg,,,gleam_basin,,W-NA,,CA,CAN,,,,,2648
+G-YWJ,Deline,,,gleam_basin,,W-NA,,CA,CAN,,,,,2651
+G-YWK,Wabush,,,gleam_basin,,W-NA,,CA,CAN,,,,,2650
+G-YWL,Williams Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2649
+G-YWP,Webequie,,,gleam_basin,,W-NA,,CA,CAN,,,,,2647
+G-YXC,Cranbrook,,,gleam_basin,,W-NA,,CA,CAN,,,,,2758
+G-YXE,Saskatoon,,,gleam_basin,,W-NA,,CA,CAN,,,,,2733
+G-YXH,Medicine Hat,,,gleam_basin,,W-NA,,CA,CAN,,,,,2729
+G-YXJ,Fort St John,,,gleam_basin,,W-NA,,CA,CAN,,,,,2728
+G-YXL,Sioux Lookout,,,gleam_basin,,W-NA,,CA,CAN,,,,,2731
+G-YXN,Whale Cove,,,gleam_basin,,W-NA,,CA,CAN,,,,,2730
+G-YXP,Pangnirtung,,,gleam_basin,,W-NA,,CA,CAN,,,,,2726
+G-YXS,Prince George,,,gleam_basin,,W-NA,,CA,CAN,,,,,2724
+G-YXT,Terrace,,,gleam_basin,,W-NA,,CA,CAN,,,,,2727
+G-YXU,London (CA),,,gleam_basin,,W-NA,,CA,CAN,,,,,2645
+G-YXX,Abbotsford,,,gleam_basin,,W-NA,,CA,CAN,,,,,2725
+G-YXY,Whitehorse,,,gleam_basin,,W-NA,,CA,CAN,,,,,2742
+G-YYB,North Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2717
+G-YYC,Calgary,,,gleam_basin,,W-NA,,CA,CAN,,,,,2716
+G-YYD,Smithers,,,gleam_basin,,W-NA,,CA,CAN,,,,,2707
+G-YYE,Fort Nelson,,,gleam_basin,,W-NA,,CA,CAN,,,,,2714
+G-YYF,Penticton,,,gleam_basin,,W-NA,,CA,CAN,,,,,2653
+G-YYG,Charlottetown,,,gleam_basin,,W-NA,,CA,CAN,,,,,2715
+G-YYH,Taloyoak,,,gleam_basin,,W-NA,,CA,CAN,,,,,2664
+G-YYL,Lynn Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2718
+G-YYQ,Churchill,,,gleam_basin,,W-NA,,CA,CAN,,,,,2711
+G-YYR,Goose Bay,,,gleam_basin,,W-NA,,CA,CAN,,,,,2712
+G-YYT,St Johns,,,gleam_basin,,W-NA,,CA,CAN,,,,,2639
+G-YYU,Kapuskasing,,,gleam_basin,,W-NA,,CA,CAN,,,,,2710
+G-YYY,Mont Joli,,,gleam_basin,,W-NA,,CA,CAN,,,,,2713
+G-YYZ,Toronto,,,gleam_basin,,W-NA,,CA,CAN,,,,,2682
+G-YZF,Yellowknife,,,gleam_basin,,W-NA,,CA,CAN,,,,,2694
+G-YZG,Salluit,,,gleam_basin,,W-NA,,CA,CAN,,,,,2739
+G-YZP,Sandspit,,,gleam_basin,,W-NA,,CA,CAN,,,,,2693
+G-YZR,Sarnia,,,gleam_basin,,W-NA,,CA,CAN,,,,,2674
+G-YZS,Coral Harbour,,,gleam_basin,,W-NA,,CA,CAN,,,,,2597
+G-YZT,Port Hardy,,,gleam_basin,,W-NA,,CA,CAN,,,,,2749
+G-YZV,Sept-Iles,,,gleam_basin,,W-NA,,CA,CAN,,,,,2769
+G-YZY,Zhangye,,,gleam_basin,,W-AS,,CN,CHN,,,,,410
+G-ZAD,Zadar,,,gleam_basin,,W-EU,,HR,HRV,,,,,288
+G-ZAG,Zagreb,,,gleam_basin,,W-EU,,HR,HRV,,,,,287
+G-ZAH,Zahedan,,,gleam_basin,,W-AS,,IR,IRN,,,,,2946
+G-ZAJ,Zaranj,,,gleam_basin,,W-AS,,AF,AFG,,,,,889
+G-ZAL,Valdivia,,,gleam_basin,,W-SA,,CL,CHL,,,,,297
+G-ZAM,Zamboanga,,,gleam_basin,,W-AS,,PH,PHL,,,,,600
+G-ZAT,Zhaotong,,,gleam_basin,,W-AS,,CN,CHN,,,,,419
+G-ZAZ,Zaragoza,,,gleam_basin,,W-EU,,ES,ESP,,,,,2900
+G-ZBF,Bathurst,,,gleam_basin,,W-NA,,CA,CAN,,,,,2663
+G-ZBL,Biloela,,,gleam_basin,,W-OC,,AU,AUS,,,,,1616
+G-ZBR,Chah Bahar,,,gleam_basin,,W-AS,,IR,IRN,,,,,2941
+G-ZCL,Zacatecas,,,gleam_basin,,W-NA,,MX,MEX,,,,,1006
+G-ZCO,Temuco,,,gleam_basin,,W-SA,,CL,CHL,,,,,298
+G-ZEL,Bella Bella,,,gleam_basin,,W-NA,,CA,CAN,,,,,2708
+G-ZEM,East Main,,,gleam_basin,,W-NA,,CA,CAN,,,,,2646
+G-ZFM,Fort Mcpherson,,,gleam_basin,,W-NA,,CA,CAN,,,,,2687
+G-ZFN,Tulita Fort Norman,,,gleam_basin,,W-NA,,CA,CAN,,,,,2688
+G-ZGS,Gethsemani,,,gleam_basin,,W-NA,,CA,CAN,,,,,2768
+G-ZHA,Zhanjiang,,,gleam_basin,,W-AS,,CN,CHN,,,,,469
+G-ZHY,Zhongwei,,,gleam_basin,,W-AS,,CN,CHN,,,,,466
+G-ZIG,Ziguinchor,,,gleam_basin,,W-AF,,SN,SEN,,,,,1474
+G-ZIH,Ixtapa,,,gleam_basin,,W-NA,,MX,MEX,,,,,982
+G-ZKE,Kashechewan,,,gleam_basin,,W-NA,,CA,CAN,,,,,2615
+G-ZKP,Zyryanka,,,gleam_basin,,W-EU,,RU,RUS,,,,,1872
+G-ZLO,Manzanillo (MX),,,gleam_basin,,W-NA,,MX,MEX,,,,,991
+G-ZLX,Zalengei,,,gleam_basin,,W-AF,,SD,SDN,,,,,3013
+G-ZMD,Sena Madureira,,,gleam_basin,,W-SA,,BR,BRA,,,,,2017
+G-ZMT,Masset,,,gleam_basin,,W-NA,,CA,CAN,,,,,2740
+G-ZND,Zinder,,,gleam_basin,,W-AF,,NE,NER,,,,,72
+G-ZNE,Newman,,,gleam_basin,,W-OC,,AU,AUS,,,,,1631
+G-ZNZ,Zanzibar,,,gleam_basin,,W-AF,,TZ,TZA,,,,,206
+G-ZOS,Osorno,,,gleam_basin,,W-SA,,CL,CHL,,,,,301
+G-ZPB,Sachigo Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2723
+G-ZPC,Pucon,,,gleam_basin,,W-SA,,CL,CHL,,,,,304
+G-ZQN,Queenstown,,,gleam_basin,,W-OC,,NZ,NZL,,,,,3037
+G-ZRH,Zurich,,,gleam_basin,,W-EU,,CH,CHE,,,,,276
+G-ZRJ,Round Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2689
+G-ZSA,San Salvador (BS),,,gleam_basin,,W-NA,,BS,BHS,,,,,3223
+G-ZSJ,Sandy Lake,,,gleam_basin,,W-NA,,CA,CAN,,,,,2704
+G-ZTA,Tureia,,,gleam_basin,,W-OC,,PF,PYF,,,,,688
+G-ZTH,Zakinthos Island,,,gleam_basin,,W-EU,,GR,GRC,,,,,920
+G-ZUM,Churchill Falls,,,gleam_basin,,W-NA,,CA,CAN,,,,,2670
+G-ZVK,Savannakhet,,,gleam_basin,,W-AS,,LA,LAO,,,,,572
+G-ZYI,Zunyi,,,gleam_basin,,W-AS,,CN,CHN,,,,,330
+G-ZYL,Sylhet,,,gleam_basin,,W-AS,,BD,BGD,,,,,62
+G-ZZO,Zonalnoye,,,gleam_basin,,W-EU,,RU,RUS,,,,,1847

@@ -39,6 +39,8 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 ### Not updated
 
 * `countermeasures-selected-binary.csv` - 16 selected binary features (not updated)
+* `countermeasures-model-0to1-split.csv` - Split of `countermeasures-model-0to1.csv` into binary flags (for CM strength modeling). All degrees of a feature up to current level are active.
+* `countermeasures-model-0to1-split_exclusive.csv` - Same as above, only the current degree of every multi-level feature is active.
 
 ## Notes: Other data sources
 

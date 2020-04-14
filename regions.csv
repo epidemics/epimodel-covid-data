@@ -1,16 +1,16 @@
 Code,Name,OfficialName,OtherNames,Level,M49Code,ContinentCode,SubregionCode,CountryCode,CountryCodeISOa3,SubdivisionCode,Lat,Lon,Population,GleamID
-AD,Andorra,Principality of Andorra,,country,020,,,AD,AND,,,,,
-AE,United Arab Emirates,United Arab Emirates,,country,784,W-AS,,AE,ARE,,,,,6
-AF,Afghanistan,Islamic Republic of Afghanistan,,country,004,W-AS,,AF,AFG,,,,,1
-AG,Antigua and Barbuda,Antigua and Barbuda,,country,028,W-NA,,AG,ATG,,,,,10
-AI,Anguilla,Anguilla,,country,660,W-NA,,AI,AIA,,,,,3
-AL,Albania,Republic of Albania,,country,008,W-EU,,AL,ALB,,,,,5
-AM,Armenia,Republic of Armenia,,country,051,W-AS,,AM,ARM,,,,,8
-AO,Angola,Republic of Angola,,country,024,W-AF,,AO,AGO,,,,,2
-AR,Argentina,Argentine Republic,,country,032,W-SA,,AR,ARG,,,,,7
-AS,American Samoa,American Samoa,,country,016,W-OC,,AS,ASM,,,,,9
-AT,Austria,Republic of Austria,,country,040,W-EU,,AT,AUT,,,,,12
-AU,Australia,Australia,,country,036,W-OC,,AU,AUS,,,,,11
+AD,Andorra,Principality of Andorra,,country,020,,,AD,AND,,,,77142.0,
+AE,United Arab Emirates,United Arab Emirates,,country,784,W-AS,,AE,ARE,,,,9770529.0,6
+AF,Afghanistan,Islamic Republic of Afghanistan,,country,004,W-AS,,AF,AFG,,,,38041754.0,1
+AG,Antigua and Barbuda,Antigua and Barbuda,,country,028,W-NA,,AG,ATG,,,,97118.0,10
+AI,Anguilla,Anguilla,,country,660,W-NA,,AI,AIA,,,,14869.0,3
+AL,Albania,Republic of Albania,,country,008,W-EU,,AL,ALB,,,,2880917.0,5
+AM,Armenia,Republic of Armenia,,country,051,W-AS,,AM,ARM,,,,2957731.0,8
+AO,Angola,Republic of Angola,,country,024,W-AF,,AO,AGO,,,,31825295.0,2
+AR,Argentina,Argentine Republic,,country,032,W-SA,,AR,ARG,,,,44780677.0,7
+AS,American Samoa,American Samoa,,country,016,W-OC,,AS,ASM,,,,55312.0,9
+AT,Austria,Republic of Austria,,country,040,W-EU,,AT,AUT,,,,8955102.0,12
+AU,Australia,Australia,,country,036,W-OC,,AU,AUS,,,,25203198.0,11
 AU-ACT,Australian Capital Territory,Australian Capital Territory,,subdivision,,,,AU,,,,,,
 AU-NSW,New South Wales,New South Wales,,subdivision,,,,AU,,,,,,
 AU-NT,Northern Territory,Northern Territory,,subdivision,,,,AU,,,,,,
@@ -19,31 +19,31 @@ AU-SA,South Australia,South Australia,,subdivision,,,,AU,,,,,,
 AU-TAS,Tasmania,Tasmania,,subdivision,,,,AU,,,,,,
 AU-VIC,Victoria,Victoria,,subdivision,,,,AU,,,,,,
 AU-WA,Western Australia,Western Australia,,subdivision,,,,AU,,,,,,
-AW,Aruba,Aruba,,country,533,W-NA,,AW,ABW,,,,,0
+AW,Aruba,Aruba,,country,533,W-NA,,AW,ABW,,,,106314.0,0
 AX,Aland Islands,Åland Islands,,country,248,W-EU,,AX,ALA,,,,,4
-AZ,Azerbaijan,Republic of Azerbaijan,,country,031,W-AS,,AZ,AZE,,,,,13
-BA,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,,country,070,W-EU,,BA,BIH,,,,,23
-BB,Barbados,Barbados,,country,052,W-NA,,BB,BRB,,,,,30
-BD,Bangladesh,People's Republic of Bangladesh,,country,050,W-AS,,BD,BGD,,,,,19
-BE,Belgium,Kingdom of Belgium,,country,056,W-EU,,BE,BEL,,,,,15
-BF,Burkina Faso,Burkina Faso,,country,854,W-AF,,BF,BFA,,,,,18
-BG,Bulgaria,Republic of Bulgaria,,country,100,W-EU,,BG,BGR,,,,,20
-BH,Bahrain,Kingdom of Bahrain,,country,048,W-AS,,BH,BHR,,,,,21
-BI,Burundi,Republic of Burundi,,country,108,W-AF,,BI,BDI,,,,,14
-BJ,Benin,Republic of Benin,,country,204,W-AF,,BJ,BEN,,,,,16
-BL,Saint Barthelemy,Saint Barthélemy,St-Barthélemy,country,652,W-NA,,BL,BLM,,,,,24
-BM,Bermuda,Bermuda,,country,060,W-NA,,BM,BMU,,,,,27
-BN,Brunei,Brunei Darussalam,,country,096,W-AS,,BN,BRN,,,,,31
-BO,Bolivia,Plurinational State of Bolivia,"Bolivia, Plurinational State of",country,068,W-SA,,BO,BOL,,,,,28
+AZ,Azerbaijan,Republic of Azerbaijan,,country,031,W-AS,,AZ,AZE,,,,10047718.0,13
+BA,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,,country,070,W-EU,,BA,BIH,,,,3301000.0,23
+BB,Barbados,Barbados,,country,052,W-NA,,BB,BRB,,,,287025.0,30
+BD,Bangladesh,People's Republic of Bangladesh,,country,050,W-AS,,BD,BGD,,,,163046161.0,19
+BE,Belgium,Kingdom of Belgium,,country,056,W-EU,,BE,BEL,,,,11539328.0,15
+BF,Burkina Faso,Burkina Faso,,country,854,W-AF,,BF,BFA,,,,20321378.0,18
+BG,Bulgaria,Republic of Bulgaria,,country,100,W-EU,,BG,BGR,,,,7000119.0,20
+BH,Bahrain,Kingdom of Bahrain,,country,048,W-AS,,BH,BHR,,,,1641172.0,21
+BI,Burundi,Republic of Burundi,,country,108,W-AF,,BI,BDI,,,,11530580.0,14
+BJ,Benin,Republic of Benin,,country,204,W-AF,,BJ,BEN,,,,11801151.0,16
+BL,Saint Barthelemy,Saint Barthélemy,St-Barthélemy,country,652,W-NA,,BL,BLM,,,,9847.0,24
+BM,Bermuda,Bermuda,,country,060,W-NA,,BM,BMU,,,,62506.0,27
+BN,Brunei,Brunei Darussalam,,country,096,W-AS,,BN,BRN,,,,433285.0,31
+BO,Bolivia,Plurinational State of Bolivia,"Bolivia, Plurinational State of",country,068,W-SA,,BO,BOL,,,,11513100.0,28
 BQ,"Bonaire, Sint Eustatius and Saba","Bonaire, Sint Eustatius and Saba",Caribbean Netherlands,country,535,W-NA,,BQ,BES,,,,,17
-BR,Brazil,Federative Republic of Brazil,,country,076,W-SA,,BR,BRA,,,,,29
-BS,Bahamas,Commonwealth of the Bahamas,,country,044,W-NA,,BS,BHS,,,,,22
-BT,Bhutan,Kingdom of Bhutan,,country,064,W-AS,,BT,BTN,,,,,32
+BR,Brazil,Federative Republic of Brazil,,country,076,W-SA,,BR,BRA,,,,211049527.0,29
+BS,Bahamas,Commonwealth of the Bahamas,,country,044,W-NA,,BS,BHS,,,,389482.0,22
+BT,Bhutan,Kingdom of Bhutan,,country,064,W-AS,,BT,BTN,,,,763092.0,32
 BV,Bouvet Island,Bouvet Island,,country,074,,,BV,BVT,,,,,
-BW,Botswana,Republic of Botswana,,country,072,W-AF,,BW,BWA,,,,,33
-BY,Belarus,Republic of Belarus,,country,112,W-EU,,BY,BLR,,,,,25
-BZ,Belize,Belize,,country,084,W-NA,,BZ,BLZ,,,,,26
-CA,Canada,Canada,,country,124,W-NA,,CA,CAN,,,,,35
+BW,Botswana,Republic of Botswana,,country,072,W-AF,,BW,BWA,,,,2303697.0,33
+BY,Belarus,Republic of Belarus,,country,112,W-EU,,BY,BLR,,,,9452411.0,25
+BZ,Belize,Belize,,country,084,W-NA,,BZ,BLZ,,,,390353.0,26
+CA,Canada,Canada,,country,124,W-NA,,CA,CAN,,,,37411047.0,35
 CA-AB,Alberta,Alberta,,subdivision,,,,CA,,,,,,
 CA-BC,British Columbia,British Columbia,,subdivision,,,,CA,,,,,,
 CA-MB,Manitoba,Manitoba,,subdivision,,,,CA,,,,,,
@@ -58,15 +58,15 @@ CA-QC,Quebec,Quebec,,subdivision,,,,CA,,,,,,
 CA-SK,Saskatchewan,Saskatchewan,,subdivision,,,,CA,,,,,,
 CA-YT,Yukon Territory,Yukon Territory,Yukon,subdivision,,,,CA,,,,,,
 CC,Cocos (Keeling) Islands,Cocos (Keeling) Islands,,country,166,W-AS,,CC,CCK,,,,,36
-CD,Democratic Republic of the Congo,"Congo, The Democratic Republic of the","The Democratic Republic of the Congo|Congo, Dem. Rep.|Congo (Kinshasa)",country,180,W-AF,,CD,COD,,,,,42
-CF,Central African Republic,Central African Republic,,country,140,W-AF,,CF,CAF,,,,,34
-CG,Congo Republic,Republic of the Congo,"Congo (Brazzaville)|Congo, Rep.",country,178,W-AF,,CG,COG,,,,,43
-CH,Switzerland,Swiss Confederation,,country,756,W-EU,,CH,CHE,,,,,37
-CI,Cote d'Ivoire,Republic of Côte d'Ivoire,,country,384,W-AF,,CI,CIV,,,,,40
-CK,Cook Islands,Cook Islands,,country,184,W-OC,,CK,COK,,,,,44
-CL,Chile,Republic of Chile,,country,152,W-SA,,CL,CHL,,,,,38
-CM,Cameroon,Republic of Cameroon,,country,120,W-AF,,CM,CMR,,,,,41
-CN,China,People's Republic of China,,country,156,W-AS,,CN,CHN,,,,,39
+CD,Democratic Republic of the Congo,"Congo, The Democratic Republic of the","The Democratic Republic of the Congo|Congo, Dem. Rep.|Congo (Kinshasa)|DR Congo",country,180,W-AF,,CD,COD,,,,86790567.0,42
+CF,Central African Republic,Central African Republic,,country,140,W-AF,,CF,CAF,,,,4745185.0,34
+CG,Congo Republic,Republic of the Congo,"Congo (Brazzaville)|Congo, Rep.",country,178,W-AF,,CG,COG,,,,5380508.0,43
+CH,Switzerland,Swiss Confederation,,country,756,W-EU,,CH,CHE,,,,8591365.0,37
+CI,Cote d'Ivoire,Republic of Côte d'Ivoire,Ivory Coast,country,384,W-AF,,CI,CIV,,,,25716544.0,40
+CK,Cook Islands,Cook Islands,,country,184,W-OC,,CK,COK,,,,17548.0,44
+CL,Chile,Republic of Chile,,country,152,W-SA,,CL,CHL,,,,18952038.0,38
+CM,Cameroon,Republic of Cameroon,,country,120,W-AF,,CM,CMR,,,,25876380.0,41
+CN,China,People's Republic of China,,country,156,W-AS,,CN,CHN,,,,1433783686.0,39
 CN-AH,Anhui,Anhui Sheng,,subdivision,,,,CN,,,,,,
 CN-BJ,Beijing,Beijing Shi,,subdivision,,,,CN,,,,,,
 CN-CQ,Chongqing,Chongqing Shi,,subdivision,,,,CN,,,,,,
@@ -100,189 +100,189 @@ CN-XJ,Xinjiang,Xinjiang Uygur Zizhiqu,,subdivision,,,,CN,,,,,,
 CN-XZ,Tibet,Xizang Zizhiqu,,subdivision,,,,CN,,,,,,
 CN-YN,Yunnan,Yunnan Sheng,,subdivision,,,,CN,,,,,,
 CN-ZJ,Zhejiang,Zhejiang Sheng,,subdivision,,,,CN,,,,,,
-CO,Colombia,Republic of Colombia,,country,170,W-SA,,CO,COL,,,,,45
-CR,Costa Rica,Republic of Costa Rica,,country,188,W-NA,,CR,CRI,,,,,48
-CU,Cuba,Republic of Cuba,,country,192,W-NA,,CU,CUB,,,,,49
-CV,Cabo Verde,Republic of Cabo Verde,Cape Verde,country,132,W-AF,,CV,CPV,,,,,47
-CW,Curacao,Curaçao,,country,531,W-NA,,CW,CUW,,,,,50
+CO,Colombia,Republic of Colombia,,country,170,W-SA,,CO,COL,,,,50339443.0,45
+CR,Costa Rica,Republic of Costa Rica,,country,188,W-NA,,CR,CRI,,,,5047561.0,48
+CU,Cuba,Republic of Cuba,,country,192,W-NA,,CU,CUB,,,,11333483.0,49
+CV,Cabo Verde,Republic of Cabo Verde,Cape Verde,country,132,W-AF,,CV,CPV,,,,549935.0,47
+CW,Curacao,Curaçao,,country,531,W-NA,,CW,CUW,,,,163424.0,50
 CX,Christmas Island,Christmas Island,,country,162,W-AS,,CX,CXR,,,,,51
-CY,Cyprus,Republic of Cyprus,,country,196,W-AS,,CY,CYP,,,,,54
-CZ,Czechia,Czech Republic,,country,203,W-EU,,CZ,CZE,,,,,55
-DE,Germany,Federal Republic of Germany,,country,276,W-EU,,DE,DEU,,,,,56
-DJ,Djibouti,Republic of Djibouti,,country,262,W-AF,,DJ,DJI,,,,,57
-DK,Denmark,Kingdom of Denmark,,country,208,W-EU,,DK,DNK,,,,,59
-DM,Dominica,Commonwealth of Dominica,,country,212,W-NA,,DM,DMA,,,,,58
-DO,Dominican Republic,Dominican Republic,,country,214,W-NA,,DO,DOM,,,,,60
-DZ,Algeria,People's Democratic Republic of Algeria,,country,012,W-AF,,DZ,DZA,,,,,61
-EC,Ecuador,Republic of Ecuador,,country,218,W-SA,,EC,ECU,,,,,62
-EE,Estonia,Republic of Estonia,,country,233,W-EU,,EE,EST,,,,,66
-EG,Egypt,Arab Republic of Egypt,"Egypt, Arab Rep.",country,818,W-AF,,EG,EGY,,,,,63
-EH,Western Sahara,Western Sahara,,country,732,,,EH,ESH,,,,,
-ER,Eritrea,the State of Eritrea,,country,232,W-AF,,ER,ERI,,,,,64
-ES,Spain,Kingdom of Spain,,country,724,W-EU,,ES,ESP,,,,,65
-ET,Ethiopia,Federal Democratic Republic of Ethiopia,,country,231,W-AF,,ET,ETH,,,,,67
-FI,Finland,Republic of Finland,,country,246,W-EU,,FI,FIN,,,,,68
-FJ,Fiji,Republic of Fiji,,country,242,W-OC,,FJ,FJI,,,,,69
-FK,Falkland Islands,Falkland Islands (Malvinas),,country,238,W-SA,,FK,FLK,,,,,70
-FM,Micronesia,Federated States of Micronesia,"Micronesia, Federated States of|Micronesia, Fed. States of",country,583,W-OC,,FM,FSM,,,,,73
-FO,Faroe Islands,Faroe Islands,Faeroe Islands,country,234,W-EU,,FO,FRO,,,,,72
-FR,France,French Republic,,country,250,W-EU,,FR,FRA,,,,,71
-GA,Gabon,Gabonese Republic,,country,266,W-AF,,GA,GAB,,,,,74
-GB,United Kingdom,United Kingdom of Great Britain and Northern Ireland,,country,826,W-EU,,GB,GBR,,,,,75
-GD,Grenada,Grenada,,country,308,W-NA,,GD,GRD,,,,,86
-GE,Georgia,Georgia,,country,268,W-AS,,GE,GEO,,,,,76
-GF,French Guiana,French Guiana,,country,254,W-SA,,GF,GUF,,,,,89
+CY,Cyprus,Republic of Cyprus,,country,196,W-AS,,CY,CYP,,,,1198575.0,54
+CZ,Czechia,Czech Republic,,country,203,W-EU,,CZ,CZE,,,,10689209.0,55
+DE,Germany,Federal Republic of Germany,,country,276,W-EU,,DE,DEU,,,,83517045.0,56
+DJ,Djibouti,Republic of Djibouti,,country,262,W-AF,,DJ,DJI,,,,973560.0,57
+DK,Denmark,Kingdom of Denmark,,country,208,W-EU,,DK,DNK,,,,5771876.0,59
+DM,Dominica,Commonwealth of Dominica,,country,212,W-NA,,DM,DMA,,,,71808.0,58
+DO,Dominican Republic,Dominican Republic,,country,214,W-NA,,DO,DOM,,,,10738958.0,60
+DZ,Algeria,People's Democratic Republic of Algeria,,country,012,W-AF,,DZ,DZA,,,,43053054.0,61
+EC,Ecuador,Republic of Ecuador,,country,218,W-SA,,EC,ECU,,,,17373662.0,62
+EE,Estonia,Republic of Estonia,,country,233,W-EU,,EE,EST,,,,1325648.0,66
+EG,Egypt,Arab Republic of Egypt,"Egypt, Arab Rep.",country,818,W-AF,,EG,EGY,,,,100388073.0,63
+EH,Western Sahara,Western Sahara,,country,732,,,EH,ESH,,,,582463.0,
+ER,Eritrea,the State of Eritrea,,country,232,W-AF,,ER,ERI,,,,3497117.0,64
+ES,Spain,Kingdom of Spain,,country,724,W-EU,,ES,ESP,,,,46736776.0,65
+ET,Ethiopia,Federal Democratic Republic of Ethiopia,,country,231,W-AF,,ET,ETH,,,,112078730.0,67
+FI,Finland,Republic of Finland,,country,246,W-EU,,FI,FIN,,,,5532156.0,68
+FJ,Fiji,Republic of Fiji,,country,242,W-OC,,FJ,FJI,,,,889953.0,69
+FK,Falkland Islands,Falkland Islands (Malvinas),,country,238,W-SA,,FK,FLK,,,,3377.0,70
+FM,Micronesia,Federated States of Micronesia,"Micronesia, Fed. States of|Micronesia, Federated States of",country,583,W-OC,,FM,FSM,,,,113815.0,73
+FO,Faroe Islands,Faroe Islands,Faeroe Islands,country,234,W-EU,,FO,FRO,,,,48678.0,72
+FR,France,French Republic,,country,250,W-EU,,FR,FRA,,,,65129728.0,71
+GA,Gabon,Gabonese Republic,,country,266,W-AF,,GA,GAB,,,,2172579.0,74
+GB,United Kingdom,United Kingdom of Great Britain and Northern Ireland,,country,826,W-EU,,GB,GBR,,,,67530172.0,75
+GD,Grenada,Grenada,,country,308,W-NA,,GD,GRD,,,,112003.0,86
+GE,Georgia,Georgia,,country,268,W-AS,,GE,GEO,,,,3996765.0,76
+GF,French Guiana,French Guiana,,country,254,W-SA,,GF,GUF,,,,290832.0,89
 GG,Guernsey,Guernsey,,country,831,W-EU,,GG,GGY,,,,,77
-GH,Ghana,Republic of Ghana,,country,288,W-AF,,GH,GHA,,,,,78
-GI,Gibraltar,Gibraltar,,country,292,W-EU,,GI,GIB,,,,,79
-GL,Greenland,Greenland,,country,304,W-NA,,GL,GRL,,,,,87
-GM,Gambia,Republic of the Gambia,,country,270,W-AF,,GM,GMB,,,,,82
-GN,Guinea,Republic of Guinea,,country,324,W-AF,,GN,GIN,,,,,80
-GP,Guadeloupe,Guadeloupe,,country,312,W-NA,,GP,GLP,,,,,81
-GQ,Equatorial Guinea,Republic of Equatorial Guinea,,country,226,W-AF,,GQ,GNQ,,,,,84
-GR,Greece,Hellenic Republic,,country,300,W-EU,,GR,GRC,,,,,85
+GH,Ghana,Republic of Ghana,,country,288,W-AF,,GH,GHA,,,,30417856.0,78
+GI,Gibraltar,Gibraltar,,country,292,W-EU,,GI,GIB,,,,33701.0,79
+GL,Greenland,Greenland,,country,304,W-NA,,GL,GRL,,,,56672.0,87
+GM,Gambia,Republic of the Gambia,,country,270,W-AF,,GM,GMB,,,,2347706.0,82
+GN,Guinea,Republic of Guinea,,country,324,W-AF,,GN,GIN,,,,12771246.0,80
+GP,Guadeloupe,Guadeloupe,,country,312,W-NA,,GP,GLP,,,,400056.0,81
+GQ,Equatorial Guinea,Republic of Equatorial Guinea,,country,226,W-AF,,GQ,GNQ,,,,1355986.0,84
+GR,Greece,Hellenic Republic,,country,300,W-EU,,GR,GRC,,,,10473455.0,85
 GS,South Georgia and the South Sandwich Islands,South Georgia and the South Sandwich Islands,,country,239,,,GS,SGS,,,,,
-GT,Guatemala,Republic of Guatemala,,country,320,W-NA,,GT,GTM,,,,,88
-GU,Guam,Guam,,country,316,W-OC,,GU,GUM,,,,,90
-GW,Guinea-Bissau,Republic of Guinea-Bissau,,country,624,W-AF,,GW,GNB,,,,,83
-GY,Guyana,Republic of Guyana,,country,328,W-SA,,GY,GUY,,,,,91
+GT,Guatemala,Republic of Guatemala,,country,320,W-NA,,GT,GTM,,,,17581472.0,88
+GU,Guam,Guam,,country,316,W-OC,,GU,GUM,,,,167294.0,90
+GW,Guinea-Bissau,Republic of Guinea-Bissau,,country,624,W-AF,,GW,GNB,,,,1920922.0,83
+GY,Guyana,Republic of Guyana,,country,328,W-SA,,GY,GUY,,,,782766.0,91
 HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,,country,334,,,HM,HMD,,,,,
-HN,Honduras,Republic of Honduras,,country,340,W-NA,,HN,HND,,,,,92
-HR,Croatia,Republic of Croatia,,country,191,W-EU,,HR,HRV,,,,,93
-HT,Haiti,Republic of Haiti,,country,332,W-NA,,HT,HTI,,,,,94
-HU,Hungary,Hungary,,country,348,W-EU,,HU,HUN,,,,,95
-ID,Indonesia,Republic of Indonesia,,country,360,W-AS,,ID,IDN,,,,,96
-IE,Ireland,Ireland,,country,372,W-EU,,IE,IRL,,,,,99
-IL,Israel,State of Israel,,country,376,W-AS,,IL,ISR,,,,,103
-IM,Isle of Man,Isle of Man,,country,833,W-EU,,IM,IMN,,,,,97
-IN,India,Republic of India,,country,356,W-AS,,IN,IND,,,,,98
+HN,Honduras,Republic of Honduras,,country,340,W-NA,,HN,HND,,,,9746117.0,92
+HR,Croatia,Republic of Croatia,,country,191,W-EU,,HR,HRV,,,,4130304.0,93
+HT,Haiti,Republic of Haiti,,country,332,W-NA,,HT,HTI,,,,11263077.0,94
+HU,Hungary,Hungary,,country,348,W-EU,,HU,HUN,,,,9684679.0,95
+ID,Indonesia,Republic of Indonesia,,country,360,W-AS,,ID,IDN,,,,270625568.0,96
+IE,Ireland,Ireland,,country,372,W-EU,,IE,IRL,,,,4882495.0,99
+IL,Israel,State of Israel,,country,376,W-AS,,IL,ISR,,,,8519377.0,103
+IM,Isle of Man,Isle of Man,,country,833,W-EU,,IM,IMN,,,,84584.0,97
+IN,India,Republic of India,,country,356,W-AS,,IN,IND,,,,1366417754.0,98
 IO,British Indian Ocean Territory,British Indian Ocean Territory,,country,086,,,IO,IOT,,,,,
-IQ,Iraq,Republic of Iraq,,country,368,W-AS,,IQ,IRQ,,,,,101
-IR,Iran,Islamic Republic of Iran,"Iran, Islamic Republic of",country,364,W-AS,,IR,IRN,,,,,100
-IS,Iceland,Republic of Iceland,,country,352,W-EU,,IS,ISL,,,,,102
-IT,Italy,Italian Republic,,country,380,W-EU,,IT,ITA,,,,,104
+IQ,Iraq,Republic of Iraq,,country,368,W-AS,,IQ,IRQ,,,,39309783.0,101
+IR,Iran,Islamic Republic of Iran,"Iran, Islamic Republic of",country,364,W-AS,,IR,IRN,,,,82913906.0,100
+IS,Iceland,Republic of Iceland,,country,352,W-EU,,IS,ISL,,,,339031.0,102
+IT,Italy,Italian Republic,,country,380,W-EU,,IT,ITA,,,,60550075.0,104
 JE,Jersey,Jersey,,country,832,W-EU,,JE,JEY,,,,,106
-JM,Jamaica,Jamaica,,country,388,W-NA,,JM,JAM,,,,,105
-JO,Jordan,Hashemite Kingdom of Jordan,,country,400,W-AS,,JO,JOR,,,,,107
-JP,Japan,Japan,,country,392,W-AS,,JP,JPN,,,,,108
-KE,Kenya,Republic of Kenya,,country,404,W-AF,,KE,KEN,,,,,110
-KG,Kyrgyzstan,Kyrgyz Republic,,country,417,W-AS,,KG,KGZ,,,,,111
-KH,Cambodia,Kingdom of Cambodia,,country,116,W-AS,,KH,KHM,,,,,112
-KI,Kiribati,Republic of Kiribati,,country,296,W-OC,,KI,KIR,,,,,113
-KM,Comoros,Union of the Comoros,,country,174,W-AF,,KM,COM,,,,,46
-KN,Saint Kitts and Nevis,Saint Kitts and Nevis,St. Kitts and Nevis,country,659,W-NA,,KN,KNA,,,,,114
-KP,North Korea,Democratic People's Republic of Korea,"Korea, Democratic People's Republic of|Korea, Dem. Rep.",country,408,W-AS,,KP,PRK,,,,,171
-KR,South Korea,"Korea, Republic of","Korea, Rep.|Korea, South",country,410,W-AS,,KR,KOR,,,,,115
-KW,Kuwait,State of Kuwait,,country,414,W-AS,,KW,KWT,,,,,117
-KY,Cayman Islands,Cayman Islands,,country,136,W-NA,,KY,CYM,,,,,52
-KZ,Kazakhstan,Republic of Kazakhstan,,country,398,W-AS,,KZ,KAZ,,,,,109
-LA,Laos,Lao People's Democratic Republic,Lao PDR,country,418,W-AS,,LA,LAO,,,,,118
-LB,Lebanon,Lebanese Republic,,country,422,W-AS,,LB,LBN,,,,,119
-LC,Saint Lucia,Saint Lucia,St. Lucia,country,662,W-NA,,LC,LCA,,,,,122
-LI,Liechtenstein,Principality of Liechtenstein,,country,438,,,LI,LIE,,,,,
-LK,Sri Lanka,Democratic Socialist Republic of Sri Lanka,,country,144,W-AS,,LK,LKA,,,,,123
-LR,Liberia,Republic of Liberia,,country,430,W-AF,,LR,LBR,,,,,120
-LS,Lesotho,Kingdom of Lesotho,,country,426,W-AF,,LS,LSO,,,,,124
-LT,Lithuania,Republic of Lithuania,,country,440,W-EU,,LT,LTU,,,,,125
-LU,Luxembourg,Grand Duchy of Luxembourg,,country,442,W-EU,,LU,LUX,,,,,126
-LV,Latvia,Republic of Latvia,,country,428,W-EU,,LV,LVA,,,,,127
-LY,Libya,Libya,,country,434,W-AF,,LY,LBY,,,,,121
-MA,Morocco,Kingdom of Morocco,,country,504,W-AF,,MA,MAR,,,,,128
-MC,Monaco,Principality of Monaco,,country,492,W-EU,,MC,MCO,,,,,129
-MD,Moldova,Republic of Moldova,"Moldova, Republic of",country,498,W-EU,,MD,MDA,,,,,130
-ME,Montenegro,Montenegro,,country,499,W-EU,,ME,MNE,,,,,139
+JM,Jamaica,Jamaica,,country,388,W-NA,,JM,JAM,,,,2948279.0,105
+JO,Jordan,Hashemite Kingdom of Jordan,,country,400,W-AS,,JO,JOR,,,,10101694.0,107
+JP,Japan,Japan,,country,392,W-AS,,JP,JPN,,,,126860301.0,108
+KE,Kenya,Republic of Kenya,,country,404,W-AF,,KE,KEN,,,,52573973.0,110
+KG,Kyrgyzstan,Kyrgyz Republic,,country,417,W-AS,,KG,KGZ,,,,6415850.0,111
+KH,Cambodia,Kingdom of Cambodia,,country,116,W-AS,,KH,KHM,,,,16486542.000000002,112
+KI,Kiribati,Republic of Kiribati,,country,296,W-OC,,KI,KIR,,,,117606.0,113
+KM,Comoros,Union of the Comoros,,country,174,W-AF,,KM,COM,,,,850886.0,46
+KN,Saint Kitts and Nevis,Saint Kitts and Nevis,St. Kitts and Nevis,country,659,W-NA,,KN,KNA,,,,52823.0,114
+KP,North Korea,Democratic People's Republic of Korea,"Korea, Dem. Rep.|Korea, Democratic People's Republic of",country,408,W-AS,,KP,PRK,,,,25666161.0,171
+KR,South Korea,"Korea, Republic of","Korea, Rep.|Korea, South",country,410,W-AS,,KR,KOR,,,,51225308.0,115
+KW,Kuwait,State of Kuwait,,country,414,W-AS,,KW,KWT,,,,4207083.0,117
+KY,Cayman Islands,Cayman Islands,,country,136,W-NA,,KY,CYM,,,,64947.99999999999,52
+KZ,Kazakhstan,Republic of Kazakhstan,,country,398,W-AS,,KZ,KAZ,,,,18551427.0,109
+LA,Laos,Lao People's Democratic Republic,Lao PDR,country,418,W-AS,,LA,LAO,,,,7169455.0,118
+LB,Lebanon,Lebanese Republic,,country,422,W-AS,,LB,LBN,,,,6855713.0,119
+LC,Saint Lucia,Saint Lucia,St. Lucia,country,662,W-NA,,LC,LCA,,,,182790.0,122
+LI,Liechtenstein,Principality of Liechtenstein,,country,438,,,LI,LIE,,,,38019.0,
+LK,Sri Lanka,Democratic Socialist Republic of Sri Lanka,,country,144,W-AS,,LK,LKA,,,,21323733.0,123
+LR,Liberia,Republic of Liberia,,country,430,W-AF,,LR,LBR,,,,4937374.0,120
+LS,Lesotho,Kingdom of Lesotho,,country,426,W-AF,,LS,LSO,,,,2125268.0,124
+LT,Lithuania,Republic of Lithuania,,country,440,W-EU,,LT,LTU,,,,2759627.0,125
+LU,Luxembourg,Grand Duchy of Luxembourg,,country,442,W-EU,,LU,LUX,,,,615729.0,126
+LV,Latvia,Republic of Latvia,,country,428,W-EU,,LV,LVA,,,,1906743.0,127
+LY,Libya,Libya,,country,434,W-AF,,LY,LBY,,,,6777452.0,121
+MA,Morocco,Kingdom of Morocco,,country,504,W-AF,,MA,MAR,,,,36471769.0,128
+MC,Monaco,Principality of Monaco,,country,492,W-EU,,MC,MCO,,,,38964.0,129
+MD,Moldova,Republic of Moldova,"Moldova, Republic of",country,498,W-EU,,MD,MDA,,,,4043263.0,130
+ME,Montenegro,Montenegro,,country,499,W-EU,,ME,MNE,,,,627987.0,139
 MF,Saint Martin (French part),Saint Martin (French part),,country,663,,,MF,MAF,,,,,
-MG,Madagascar,Republic of Madagascar,,country,450,W-AF,,MG,MDG,,,,,131
-MH,Marshall Islands,Republic of the Marshall Islands,,country,584,W-OC,,MH,MHL,,,,,134
-MK,Macedonia,Republic of North Macedonia,North Macedonia,country,807,W-EU,,MK,MKD,,,,,135
-ML,Mali,Republic of Mali,,country,466,W-AF,,ML,MLI,,,,,136
-MM,Myanmar,Republic of Myanmar,Burma,country,104,W-AS,,MM,MMR,,,,,138
-MN,Mongolia,Mongolia,,country,496,W-AS,,MN,MNG,,,,,140
-MP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,,country,580,W-OC,,MP,MNP,,,,,141
-MQ,Martinique,Martinique,,country,474,W-NA,,MQ,MTQ,,,,,145
-MR,Mauritania,Islamic Republic of Mauritania,,country,478,W-AF,,MR,MRT,,,,,143
-MS,Montserrat,Montserrat,,country,500,W-NA,,MS,MSR,,,,,144
-MT,Malta,Republic of Malta,,country,470,W-EU,,MT,MLT,,,,,137
-MU,Mauritius,Republic of Mauritius,,country,480,W-AF,,MU,MUS,,,,,146
-MV,Maldives,Republic of Maldives,,country,462,W-AS,,MV,MDV,,,,,132
-MW,Malawi,Republic of Malawi,,country,454,W-AF,,MW,MWI,,,,,147
-MX,Mexico,United Mexican States,,country,484,W-NA,,MX,MEX,,,,,133
-MY,Malaysia,Malaysia,,country,458,W-AS,,MY,MYS,,,,,148
-MZ,Mozambique,Republic of Mozambique,,country,508,W-AF,,MZ,MOZ,,,,,142
-NA,Namibia,Republic of Namibia,,country,516,W-AF,,NA,NAM,,,,,150
-NC,New Caledonia,New Caledonia,,country,540,W-OC,,NC,NCL,,,,,151
-NE,Niger,Republic of the Niger,,country,562,W-AF,,NE,NER,,,,,152
+MG,Madagascar,Republic of Madagascar,,country,450,W-AF,,MG,MDG,,,,26969307.0,131
+MH,Marshall Islands,Republic of the Marshall Islands,,country,584,W-OC,,MH,MHL,,,,58791.0,134
+MK,Macedonia,Republic of North Macedonia,North Macedonia,country,807,W-EU,,MK,MKD,,,,2083458.9999999998,135
+ML,Mali,Republic of Mali,,country,466,W-AF,,ML,MLI,,,,19658031.0,136
+MM,Myanmar,Republic of Myanmar,Burma,country,104,W-AS,,MM,MMR,,,,54045420.0,138
+MN,Mongolia,Mongolia,,country,496,W-AS,,MN,MNG,,,,3225167.0,140
+MP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,,country,580,W-OC,,MP,MNP,,,,57216.0,141
+MQ,Martinique,Martinique,,country,474,W-NA,,MQ,MTQ,,,,375554.0,145
+MR,Mauritania,Islamic Republic of Mauritania,,country,478,W-AF,,MR,MRT,,,,4525696.0,143
+MS,Montserrat,Montserrat,,country,500,W-NA,,MS,MSR,,,,4989.0,144
+MT,Malta,Republic of Malta,,country,470,W-EU,,MT,MLT,,,,440372.0,137
+MU,Mauritius,Republic of Mauritius,,country,480,W-AF,,MU,MUS,,,,1269668.0,146
+MV,Maldives,Republic of Maldives,,country,462,W-AS,,MV,MDV,,,,530953.0,132
+MW,Malawi,Republic of Malawi,,country,454,W-AF,,MW,MWI,,,,18628747.0,147
+MX,Mexico,United Mexican States,,country,484,W-NA,,MX,MEX,,,,127575529.0,133
+MY,Malaysia,Malaysia,,country,458,W-AS,,MY,MYS,,,,31949777.0,148
+MZ,Mozambique,Republic of Mozambique,,country,508,W-AF,,MZ,MOZ,,,,30366036.0,142
+NA,Namibia,Republic of Namibia,,country,516,W-AF,,NA,NAM,,,,2494530.0,150
+NC,New Caledonia,New Caledonia,,country,540,W-OC,,NC,NCL,,,,282750.0,151
+NE,Niger,Republic of the Niger,,country,562,W-AF,,NE,NER,,,,23310715.0,152
 NF,Norfolk Island,Norfolk Island,,country,574,W-OC,,NF,NFK,,,,,153
-NG,Nigeria,Federal Republic of Nigeria,,country,566,W-AF,,NG,NGA,,,,,154
-NI,Nicaragua,Republic of Nicaragua,,country,558,W-NA,,NI,NIC,,,,,155
-NL,Netherlands,Kingdom of the Netherlands,,country,528,W-EU,,NL,NLD,,,,,157
-NO,Norway,Kingdom of Norway,,country,578,W-EU,,NO,NOR,,,,,158
-NP,Nepal,Federal Democratic Republic of Nepal,,country,524,W-AS,,NP,NPL,,,,,159
-NR,Nauru,Republic of Nauru,,country,520,W-OC,,NR,NRU,,,,,160
-NU,Niue,Niue,,country,570,W-OC,,NU,NIU,,,,,156
-NZ,New Zealand,New Zealand,,country,554,W-OC,,NZ,NZL,,,,,161
-OM,Oman,Sultanate of Oman,,country,512,W-AS,,OM,OMN,,,,,162
-PA,Panama,Republic of Panama,,country,591,W-NA,,PA,PAN,,,,,164
-PE,Peru,Republic of Peru,,country,604,W-SA,,PE,PER,,,,,165
-PF,French Polynesia,French Polynesia,,country,258,W-OC,,PF,PYF,,,,,174
-PG,Papua New Guinea,Independent State of Papua New Guinea,,country,598,W-OC,,PG,PNG,,,,,168
-PH,Philippines,Republic of the Philippines,,country,608,W-AS,,PH,PHL,,,,,166
-PK,Pakistan,Islamic Republic of Pakistan,,country,586,W-AS,,PK,PAK,,,,,163
-PL,Poland,Republic of Poland,,country,616,W-EU,,PL,POL,,,,,169
-PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,St. Pierre and Miquelon,country,666,W-NA,,PM,SPM,,,,,189
+NG,Nigeria,Federal Republic of Nigeria,,country,566,W-AF,,NG,NGA,,,,200963599.0,154
+NI,Nicaragua,Republic of Nicaragua,,country,558,W-NA,,NI,NIC,,,,6545502.0,155
+NL,Netherlands,Kingdom of the Netherlands,,country,528,W-EU,,NL,NLD,,,,17097130.0,157
+NO,Norway,Kingdom of Norway,,country,578,W-EU,,NO,NOR,,,,5378857.0,158
+NP,Nepal,Federal Democratic Republic of Nepal,,country,524,W-AS,,NP,NPL,,,,28608710.0,159
+NR,Nauru,Republic of Nauru,,country,520,W-OC,,NR,NRU,,,,10756.0,160
+NU,Niue,Niue,,country,570,W-OC,,NU,NIU,,,,1615.0,156
+NZ,New Zealand,New Zealand,,country,554,W-OC,,NZ,NZL,,,,4783063.0,161
+OM,Oman,Sultanate of Oman,,country,512,W-AS,,OM,OMN,,,,4974986.0,162
+PA,Panama,Republic of Panama,,country,591,W-NA,,PA,PAN,,,,4246439.0,164
+PE,Peru,Republic of Peru,,country,604,W-SA,,PE,PER,,,,32510453.0,165
+PF,French Polynesia,French Polynesia,,country,258,W-OC,,PF,PYF,,,,279287.0,174
+PG,Papua New Guinea,Independent State of Papua New Guinea,,country,598,W-OC,,PG,PNG,,,,8776109.0,168
+PH,Philippines,Republic of the Philippines,,country,608,W-AS,,PH,PHL,,,,108116615.0,166
+PK,Pakistan,Islamic Republic of Pakistan,,country,586,W-AS,,PK,PAK,,,,216565318.0,163
+PL,Poland,Republic of Poland,,country,616,W-EU,,PL,POL,,,,37887768.0,169
+PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,St. Pierre and Miquelon,country,666,W-NA,,PM,SPM,,,,5822.0,189
 PN,Pitcairn,Pitcairn,,country,612,,,PN,PCN,,,,,
-PR,Puerto Rico,Puerto Rico,,country,630,W-NA,,PR,PRI,,,,,170
+PR,Puerto Rico,Puerto Rico,,country,630,W-NA,,PR,PRI,,,,2933408.0,170
 PS,"Palestine, State of",the State of Palestine,,country,275,,,PS,PSE,,,,,
-PT,Portugal,Portuguese Republic,,country,620,W-EU,,PT,PRT,,,,,172
-PW,Palau,Republic of Palau,,country,585,W-OC,,PW,PLW,,,,,167
-PY,Paraguay,Republic of Paraguay,,country,600,W-SA,,PY,PRY,,,,,173
-QA,Qatar,State of Qatar,,country,634,W-AS,,QA,QAT,,,,,175
-RE,Reunion,Réunion,,country,638,W-AF,,RE,REU,,,,,176
-RO,Romania,Romania,,country,642,W-EU,,RO,ROU,,,,,177
-RS,Serbia,Republic of Serbia,,country,688,W-EU,,RS,SRB,,,,,190
-RU,Russia,Russian Federation,,country,643,W-EU,,RU,RUS,,,,,178
-RW,Rwanda,Rwandese Republic,,country,646,W-AF,,RW,RWA,,,,,179
-SA,Saudi Arabia,Kingdom of Saudi Arabia,,country,682,W-AS,,SA,SAU,,,,,180
-SB,Solomon Islands,Solomon Islands,,country,090,W-OC,,SB,SLB,,,,,185
-SC,Seychelles,Republic of Seychelles,,country,690,W-AF,,SC,SYC,,,,,199
-SD,Sudan,Republic of the Sudan,,country,729,W-AF,,SD,SDN,,,,,181
-SE,Sweden,Kingdom of Sweden,,country,752,W-EU,,SE,SWE,,,,,196
-SG,Singapore,Republic of Singapore,,country,702,W-AS,,SG,SGP,,,,,183
+PT,Portugal,Portuguese Republic,,country,620,W-EU,,PT,PRT,,,,10226187.0,172
+PW,Palau,Republic of Palau,,country,585,W-OC,,PW,PLW,,,,18008.0,167
+PY,Paraguay,Republic of Paraguay,,country,600,W-SA,,PY,PRY,,,,7044636.0,173
+QA,Qatar,State of Qatar,,country,634,W-AS,,QA,QAT,,,,2832067.0,175
+RE,Reunion,Réunion,,country,638,W-AF,,RE,REU,,,,888927.0,176
+RO,Romania,Romania,,country,642,W-EU,,RO,ROU,,,,19364557.0,177
+RS,Serbia,Republic of Serbia,,country,688,W-EU,,RS,SRB,,,,8772235.0,190
+RU,Russia,Russian Federation,,country,643,W-EU,,RU,RUS,,,,145872256.0,178
+RW,Rwanda,Rwandese Republic,,country,646,W-AF,,RW,RWA,,,,12626950.0,179
+SA,Saudi Arabia,Kingdom of Saudi Arabia,,country,682,W-AS,,SA,SAU,,,,34268528.0,180
+SB,Solomon Islands,Solomon Islands,,country,090,W-OC,,SB,SLB,,,,669823.0,185
+SC,Seychelles,Republic of Seychelles,,country,690,W-AF,,SC,SYC,,,,97739.0,199
+SD,Sudan,Republic of the Sudan,,country,729,W-AF,,SD,SDN,,,,42813238.0,181
+SE,Sweden,Kingdom of Sweden,,country,752,W-EU,,SE,SWE,,,,10036379.0,196
+SG,Singapore,Republic of Singapore,,country,702,W-AS,,SG,SGP,,,,5804337.0,183
 SH,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",,country,654,,,SH,SHN,,,,,
-SI,Slovenia,Republic of Slovenia,,country,705,W-EU,,SI,SVN,,,,,195
+SI,Slovenia,Republic of Slovenia,,country,705,W-EU,,SI,SVN,,,,2078654.0,195
 SJ,Svalbard and Jan Mayen,Svalbard and Jan Mayen,Svalbard Islands,country,744,W-EU,,SJ,SJM,,,,,184
-SK,Slovakia,Slovak Republic,,country,703,W-EU,,SK,SVK,,,,,194
-SL,Sierra Leone,Republic of Sierra Leone,,country,694,W-AF,,SL,SLE,,,,,186
-SM,San Marino,Republic of San Marino,,country,674,,,SM,SMR,,,,,
-SN,Senegal,Republic of Senegal,,country,686,W-AF,,SN,SEN,,,,,182
-SO,Somalia,Federal Republic of Somalia,,country,706,W-AF,,SO,SOM,,,,,188
-SR,Suriname,Republic of Suriname,,country,740,W-SA,,SR,SUR,,,,,193
-SS,South Sudan,Republic of South Sudan,,country,728,W-AF,,SS,SSD,,,,,191
-ST,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,,country,678,W-AF,,ST,STP,,,,,192
-SV,El Salvador,Republic of El Salvador,,country,222,W-NA,,SV,SLV,,,,,187
+SK,Slovakia,Slovak Republic,,country,703,W-EU,,SK,SVK,,,,5457013.0,194
+SL,Sierra Leone,Republic of Sierra Leone,,country,694,W-AF,,SL,SLE,,,,7813215.0,186
+SM,San Marino,Republic of San Marino,,country,674,,,SM,SMR,,,,33860.0,
+SN,Senegal,Republic of Senegal,,country,686,W-AF,,SN,SEN,,,,16296364.0,182
+SO,Somalia,Federal Republic of Somalia,,country,706,W-AF,,SO,SOM,,,,15442905.0,188
+SR,Suriname,Republic of Suriname,,country,740,W-SA,,SR,SUR,,,,581372.0,193
+SS,South Sudan,Republic of South Sudan,,country,728,W-AF,,SS,SSD,,,,11062113.0,191
+ST,Sao Tome and Principe,Democratic Republic of Sao Tome and Principe,,country,678,W-AF,,ST,STP,,,,215056.0,192
+SV,El Salvador,Republic of El Salvador,,country,222,W-NA,,SV,SLV,,,,6453553.0,187
 SX,Sint Maarten (Dutch part),Sint Maarten (Dutch part),St. Maarten,country,534,W-NA,,SX,SXM,,,,,198
-SY,Syrian Arab Republic,Syrian Arab Republic,Syria,country,760,W-AS,,SY,SYR,,,,,200
-SZ,Eswatini,Kingdom of Eswatini,Swaziland,country,748,W-AF,,SZ,SWZ,,,,,197
-TC,Turks and Caicos Islands,Turks and Caicos Islands,,country,796,W-NA,,TC,TCA,,,,,201
-TD,Chad,Republic of Chad,,country,148,W-AF,,TD,TCD,,,,,202
+SY,Syrian Arab Republic,Syrian Arab Republic,Syria,country,760,W-AS,,SY,SYR,,,,17070135.0,200
+SZ,Eswatini,Kingdom of Eswatini,Swaziland,country,748,W-AF,,SZ,SWZ,,,,1148130.0,197
+TC,Turks and Caicos Islands,Turks and Caicos Islands,,country,796,W-NA,,TC,TCA,,,,38191.0,201
+TD,Chad,Republic of Chad,,country,148,W-AF,,TD,TCD,,,,15946876.0,202
 TF,French Southern Territories,French Southern Territories,,country,260,,,TF,ATF,,,,,
-TG,Togo,Togolese Republic,,country,768,W-AF,,TG,TGO,,,,,203
-TH,Thailand,Kingdom of Thailand,,country,764,W-AS,,TH,THA,,,,,204
-TJ,Tajikistan,Republic of Tajikistan,,country,762,W-AS,,TJ,TJK,,,,,205
-TK,Tokelau,Tokelau,,country,772,,,TK,TKL,,,,,
-TL,Timor-Leste,Democratic Republic of Timor-Leste,,country,626,W-AS,,TL,TLS,,,,,207
-TM,Turkmenistan,Turkmenistan,,country,795,W-AS,,TM,TKM,,,,,206
-TN,Tunisia,Republic of Tunisia,,country,788,W-AF,,TN,TUN,,,,,210
-TO,Tonga,Kingdom of Tonga,,country,776,W-OC,,TO,TON,,,,,208
-TR,Turkey,Republic of Turkey,,country,792,W-AS,,TR,TUR,,,,,211
-TT,Trinidad and Tobago,Republic of Trinidad and Tobago,,country,780,W-NA,,TT,TTO,,,,,209
-TV,Tuvalu,Tuvalu,,country,798,W-OC,,TV,TUV,,,,,212
-TW,Taiwan,"Taiwan, Province of China",,country,158,W-AS,,TW,TWN,,,,,213
-TZ,Tanzania,United Republic of Tanzania,"Tanzania, United Republic of",country,834,W-AF,,TZ,TZA,,,,,214
-UA,Ukraine,Ukraine,,country,804,W-EU,,UA,UKR,,,,,216
-UG,Uganda,Republic of Uganda,,country,800,W-AF,,UG,UGA,,,,,215
+TG,Togo,Togolese Republic,,country,768,W-AF,,TG,TGO,,,,8082366.0,203
+TH,Thailand,Kingdom of Thailand,,country,764,W-AS,,TH,THA,,,,69625582.0,204
+TJ,Tajikistan,Republic of Tajikistan,,country,762,W-AS,,TJ,TJK,,,,9321018.0,205
+TK,Tokelau,Tokelau,,country,772,,,TK,TKL,,,,1340.0,
+TL,Timor-Leste,Democratic Republic of Timor-Leste,,country,626,W-AS,,TL,TLS,,,,1293119.0,207
+TM,Turkmenistan,Turkmenistan,,country,795,W-AS,,TM,TKM,,,,5942089.0,206
+TN,Tunisia,Republic of Tunisia,,country,788,W-AF,,TN,TUN,,,,11694719.0,210
+TO,Tonga,Kingdom of Tonga,,country,776,W-OC,,TO,TON,,,,104494.0,208
+TR,Turkey,Republic of Turkey,,country,792,W-AS,,TR,TUR,,,,83429615.0,211
+TT,Trinidad and Tobago,Republic of Trinidad and Tobago,,country,780,W-NA,,TT,TTO,,,,1394973.0,209
+TV,Tuvalu,Tuvalu,,country,798,W-OC,,TV,TUV,,,,11646.0,212
+TW,Taiwan,"Taiwan, Province of China",,country,158,W-AS,,TW,TWN,,,,23773876.0,213
+TZ,Tanzania,United Republic of Tanzania,"Tanzania, United Republic of",country,834,W-AF,,TZ,TZA,,,,58005463.0,214
+UA,Ukraine,Ukraine,,country,804,W-EU,,UA,UKR,,,,43993638.0,216
+UG,Uganda,Republic of Uganda,,country,800,W-AF,,UG,UGA,,,,44269594.0,215
 UM,United States Minor Outlying Islands,United States Minor Outlying Islands,,country,581,,,UM,UMI,,,,,
-US,United States,United States of America,US,country,840,W-NA,,US,USA,,,,,218
+US,United States,United States of America,US,country,840,W-NA,,US,USA,,,,329064917.0,218
 US-AK,Alaska,Alaska,,subdivision,,,,US,,,,,,
 US-AL,Alabama,Alabama,,subdivision,,,,US,,,,,,
 US-AR,Arkansas,Arkansas,,subdivision,,,,US,,,,,,
@@ -340,27 +340,27 @@ US-WA,Washington,Washington,,subdivision,,,,US,,,,,,
 US-WI,Wisconsin,Wisconsin,,subdivision,,,,US,,,,,,
 US-WV,West Virginia,West Virginia,,subdivision,,,,US,,,,,,
 US-WY,Wyoming,Wyoming,,subdivision,,,,US,,,,,,
-UY,Uruguay,Eastern Republic of Uruguay,,country,858,W-SA,,UY,URY,,,,,217
-UZ,Uzbekistan,Republic of Uzbekistan,,country,860,W-AS,,UZ,UZB,,,,,219
-VA,Holy See,Holy See (Vatican City State),Vatican City,country,336,,,VA,VAT,,,,,
-VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,St. Vincent and Grenadines,country,670,W-NA,,VC,VCT,,,,,220
-VE,Venezuela,Bolivarian Republic of Venezuela,"Venezuela, Bolivarian Republic of",country,862,W-SA,,VE,VEN,,,,,221
-VG,"Virgin Islands, British",British Virgin Islands,,country,092,W-NA,,VG,VGB,,,,,222
+UY,Uruguay,Eastern Republic of Uruguay,,country,858,W-SA,,UY,URY,,,,3461734.0,217
+UZ,Uzbekistan,Republic of Uzbekistan,,country,860,W-AS,,UZ,UZB,,,,32981716.0,219
+VA,Holy See,Holy See (Vatican City State),Vatican City,country,336,,,VA,VAT,,,,799.0,
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,St. Vincent and Grenadines,country,670,W-NA,,VC,VCT,,,,110589.0,220
+VE,Venezuela,Bolivarian Republic of Venezuela,"Venezuela, Bolivarian Republic of",country,862,W-SA,,VE,VEN,,,,28515829.0,221
+VG,"Virgin Islands, British",British Virgin Islands,,country,092,W-NA,,VG,VGB,,,,30030.0,222
 VI,"Virgin Islands, U.S.",Virgin Islands of the United States,Virgin Islands (U.S.),country,850,W-NA,,VI,VIR,,,,,223
-VN,Viet Nam,Socialist Republic of Viet Nam,Vietnam,country,704,W-AS,,VN,VNM,,,,,224
-VU,Vanuatu,Republic of Vanuatu,,country,548,W-OC,,VU,VUT,,,,,225
-W,World,The World,Earth|The Earth,world,001,,,,,,,,7576600600.0,-1
-W-AF,Africa,,,continent,002,,,,,,,,1216130000.0,0
-W-AN,Antarctica,,,continent,010,,,,,,,,1106.0,-1
-W-AS,Asia,,,continent,142,,,,,,,,4581757400.0,1
-W-EU,Europe,,,continent,150,,,,,,,,738849000.0,2
-W-NA,North america,,,continent,003,,,,,,,,579024000.0,3
-W-OC,Oceania,,,continent,009,,,,,,,,38304000.0,4
-W-SA,South america,,,continent,005,,,,,,,,422535000.0,5
-WF,Wallis and Futuna,Wallis and Futuna,Wallis and Futuna Islands,country,876,W-OC,,WF,WLF,,,,,226
-WS,Samoa,Independent State of Samoa,,country,882,W-OC,,WS,WSM,,,,,227
-YE,Yemen,Republic of Yemen,,country,887,W-AS,,YE,YEM,,,,,228
-YT,Mayotte,Mayotte,,country,175,W-AF,,YT,MYT,,,,,149
-ZA,South Africa,Republic of South Africa,,country,710,W-AF,,ZA,ZAF,,,,,229
-ZM,Zambia,Republic of Zambia,,country,894,W-AF,,ZM,ZMB,,,,,230
-ZW,Zimbabwe,Republic of Zimbabwe,,country,716,W-AF,,ZW,ZWE,,,,,231
+VN,Viet Nam,Socialist Republic of Viet Nam,Vietnam,country,704,W-AS,,VN,VNM,,,,96462106.0,224
+VU,Vanuatu,Republic of Vanuatu,,country,548,W-OC,,VU,VUT,,,,299882.0,225
+W,World,The World,Earth|The Earth,world,001,,,,,,,,,-1
+W-AF,Africa,,,continent,002,,,,,,,,,0
+W-AN,Antarctica,,,continent,010,,,,,,,,,-1
+W-AS,Asia,,,continent,142,,,,,,,,,1
+W-EU,Europe,,,continent,150,,,,,,,,,2
+W-NA,North america,,,continent,003,,,,,,,,,3
+W-OC,Oceania,,,continent,009,,,,,,,,,4
+W-SA,South america,,,continent,005,,,,,,,,,5
+WF,Wallis and Futuna,Wallis and Futuna,Wallis and Futuna Islands,country,876,W-OC,,WF,WLF,,,,11432.0,226
+WS,Samoa,Independent State of Samoa,,country,882,W-OC,,WS,WSM,,,,197097.0,227
+YE,Yemen,Republic of Yemen,,country,887,W-AS,,YE,YEM,,,,29161922.0,228
+YT,Mayotte,Mayotte,,country,175,W-AF,,YT,MYT,,,,266150.0,149
+ZA,South Africa,Republic of South Africa,,country,710,W-AF,,ZA,ZAF,,,,58558270.0,229
+ZM,Zambia,Republic of Zambia,,country,894,W-AF,,ZM,ZMB,,,,17861030.0,230
+ZW,Zimbabwe,Republic of Zimbabwe,,country,716,W-AF,,ZW,ZWE,,,,14645468.0,231

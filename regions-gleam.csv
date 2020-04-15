@@ -516,7 +516,7 @@ G-CJM,Chumphon,,,gleam_basin,,W-AS,,TH,THA,,10.711,99.362,86000.0,526
 G-CJS,Ciudad Juarez,,,gleam_basin,,W-NA,,MX,MEX,,31.636,-106.429,1512000.0,990
 G-CJU,Jeju,,,gleam_basin,,W-AS,,KR,KOR,,33.511,126.493,408000.0,2801
 G-CKD,Crooked Creek,,,gleam_basin,,W-NA,,US,USA,US-IN,,,100.0,2459
-G-CKG,Chongqing,,,gleam_basin,,W-AS,,CN,CHN,,29.719,106.642,6461000.0,325
+G-CKG,Chongqing,,,gleam_basin,,W-AS,,CN,CHN,CN-CQ,29.719,106.642,6461000.0,325
 G-CKH,Chokurdakh,,,gleam_basin,,W-EU,,RU,RUS,,70.623,147.902,3000.0,1810
 G-CKS,Carajas,,,gleam_basin,,W-SA,,BR,BRA,,-6.115,-50.001,,1949
 G-CKX,Chicken,,,gleam_basin,,W-NA,,US,USA,US-AK,,,,2107
@@ -1260,7 +1260,7 @@ G-JDR,Sao Joao del Rei,,,gleam_basin,,W-SA,,BR,BRA,,,,79000.0,1943
 G-JDZ,Jingdezhen,,,gleam_basin,,W-AS,,CN,CHN,CN-JX,29.339,117.176,457000.0,435
 G-JED,Jeddah,,,gleam_basin,,W-AS,,SA,SAU,,21.68,39.157,3012000.0,262
 G-JER,Jersey,,,gleam_basin,,W-EU,,JE,JEY,,,,,1557
-G-JFK,New York,,,gleam_basin,,W-NA,,US,USA,,40.64,-73.779,8398000.0,2518
+G-JFK,New York,,,gleam_basin,,W-NA,,US,USA,US-NY,40.64,-73.779,8398000.0,2518
 G-JFR,Paamiut,,,gleam_basin,,W-NA,,GL,GRL,,61.992,-49.662,2000.0,945
 G-JGA,Jamnagar,,,gleam_basin,,W-AS,,IN,IND,,22.465,70.013,492000.0,1092
 G-JGD,Jiagedaqi,,,gleam_basin,,W-AS,,CN,CHN,CN-HL,50.371,124.118,136000.0,426
@@ -1269,7 +1269,7 @@ G-JGS,Ji'an,,,gleam_basin,,W-AS,,CN,CHN,CN-JX,26.857,114.737,520000.0,427
 G-JHB,Johor Bahru,,,gleam_basin,,W-AS,,MY,MYS,,1.641,103.67,875000.0,179
 G-JHG,Jinghong,,,gleam_basin,,W-AS,,CN,CHN,CN-YN,21.974,100.76,62000.0,399
 G-JHS,Sisimiut,,,gleam_basin,,W-NA,,GL,GRL,,66.951,-53.729,5000.0,942
-G-JHW,Jamestown (US-NY),,,gleam_basin,,W-NA,,US,USA,US-NY,42.153,-79.258,,2293
+G-JHW,Jamestown (US-NY),,Jamestown,gleam_basin,,W-NA,,US,USA,US-NY,42.153,-79.258,,2293
 G-JIB,Djibouti,,,gleam_basin,,W-AF,,DJ,DJI,,,,,494
 G-JIC,Jinchang,,,gleam_basin,,W-AS,,CN,CHN,CN-GS,38.542,102.348,144000.0,392
 G-JIJ,Jijiga,,,gleam_basin,,W-AF,,ET,ETH,,9.332,42.912,57000.0,231
@@ -1285,7 +1285,7 @@ G-JLN,Joplin,,,gleam_basin,,W-NA,,US,USA,US-MO,37.152,-94.498,86000.0,2119
 G-JLR,Jabalpur,,,gleam_basin,,W-AS,,IN,IND,,23.178,80.052,1285000.0,1061
 G-JMK,Mykonos,,,gleam_basin,,W-EU,,GR,GRC,,37.435,25.348,,932
 G-JMO,Jomsom,,,gleam_basin,,W-AS,,NP,NPL,,28.78,83.723,,554
-G-JMS,Jamestown (US-ND),,,gleam_basin,,W-NA,,US,USA,US-ND,46.93,-98.678,,2137
+G-JMS,Jamestown (US-ND),,Jamestown,gleam_basin,,W-NA,,US,USA,US-ND,46.93,-98.678,,2137
 G-JMU,Jiamusi,,,gleam_basin,,W-AS,,CN,CHN,CN-HL,46.843,130.465,1020000.0,336
 G-JNB,Johannesburg,,,gleam_basin,,W-AF,,ZA,ZAF,,-26.139,28.246,3435000.0,626
 G-JNG,Jining,,,gleam_basin,,W-AS,,CN,CHN,CN-SD,35.293,116.347,1186000.0,312
@@ -1538,7 +1538,7 @@ G-LDS,Yichun (Heilongjiang),,,gleam_basin,,W-AS,,CN,CHN,CN-HL,47.752,129.019,814
 G-LDU,Lahad Datu,,,gleam_basin,,W-AS,,MY,MYS,,5.032,118.324,106000.0,172
 G-LDY,Derry,,,gleam_basin,,W-EU,,GB,GBR,,55.043,-7.161,84000.0,774
 G-LEA,Learmonth,,,gleam_basin,,W-OC,,AU,AUS,AU-WA,-22.236,114.089,,1674
-G-LEB,Lebanon,,,gleam_basin,,W-NA,,US,USA,,,,,2264
+G-LEB,Lebanon,,,gleam_basin,,W-NA,,US,USA,US-NH,,,,2264
 G-LEC,Lencois,,,gleam_basin,,W-SA,,BR,BRA,,-12.482,-41.277,,1986
 G-LED,St Petersburg,,,gleam_basin,,W-EU,,RU,RUS,,59.8,30.263,,1855
 G-LEI,Almeria,,,gleam_basin,,W-EU,,ES,ESP,,36.844,-2.37,179000.0,2894
@@ -2098,7 +2098,7 @@ G-PED,Pardubice,,,gleam_basin,,W-EU,,CZ,CZE,,50.013,15.739,107000.0,1178
 G-PEE,Perm,,,gleam_basin,,W-EU,,RU,RUS,,57.915,56.021,982000.0,1842
 G-PEG,Perugia,,,gleam_basin,,W-EU,,IT,ITA,,43.096,12.513,149000.0,3080
 G-PEI,Pereira,,,gleam_basin,,W-SA,,CO,COL,,4.813,-75.74,569000.0,1402
-G-PEK,Beijing,,,gleam_basin,,W-AS,,CN,CHN,,40.08,116.585,11106000.0,420
+G-PEK,Beijing,,,gleam_basin,,W-AS,,CN,CHN,CN-BJ,40.08,116.585,11106000.0,420
 G-PEM,Puerto Maldonado,,,gleam_basin,,W-SA,,PE,PER,,-12.614,-69.229,67000.0,1219
 G-PEN,Penang,,,gleam_basin,,W-AS,,MY,MYS,,5.297,100.277,,173
 G-PER,Perth,,,gleam_basin,,W-OC,,AU,AUS,AU-WA,-31.94,115.967,1532000.0,1615
@@ -2227,7 +2227,7 @@ G-PUU,Puerto Asis,,,gleam_basin,,W-SA,,CO,COL,,0.505,-76.501,30000.0,1372
 G-PUY,Pula,,,gleam_basin,,W-EU,,HR,HRV,,44.894,13.922,62000.0,290
 G-PVA,Providencia,,,gleam_basin,,W-SA,,CO,COL,,13.357,-81.358,,1364
 G-PVD,Providence,,,gleam_basin,,W-NA,,US,USA,US-RI,41.733,-71.42,180000.0,2517
-G-PVG,Shanghai,,,gleam_basin,,W-AS,,CN,CHN,,31.143,121.805,14987000.0,412
+G-PVG,Shanghai,,,gleam_basin,,W-AS,,CN,CHN,CN-SH,31.143,121.805,14987000.0,412
 G-PVH,Porto Velho,,,gleam_basin,,W-SA,,BR,BRA,,-8.709,-63.902,306000.0,1971
 G-PVK,Preveza,,,gleam_basin,,W-EU,,GR,GRC,,38.925,20.765,17000.0,917
 G-PVR,Puerto Vallarta,,,gleam_basin,,W-NA,,MX,MEX,,20.68,-105.254,187000.0,997
@@ -2734,7 +2734,7 @@ G-TRZ,Tiruchchirappalli,,,gleam_basin,,W-AS,,IN,IND,,10.765,78.71,866000.0,1065
 G-TSE,Astana,,,gleam_basin,,W-AS,,KZ,KAZ,,51.022,71.467,346000.0,662
 G-TSH,Tshikapa,,,gleam_basin,,W-AF,,CD,COD,,-6.438,20.795,267000.0,1340
 G-TSJ,Tsushima,,,gleam_basin,,W-AS,,JP,JPN,,34.285,129.331,68000.0,3125
-G-TSN,Tianjin,,,gleam_basin,,W-AS,,CN,CHN,,39.124,117.346,7180000.0,322
+G-TSN,Tianjin,,,gleam_basin,,W-AS,,CN,CHN,CN-TJ,39.124,117.346,7180000.0,322
 G-TSR,Timisoara,,,gleam_basin,,W-EU,,RO,ROU,,45.81,21.338,315000.0,150
 G-TST,Trang,,,gleam_basin,,W-AS,,TH,THA,,7.509,99.617,148000.0,533
 G-TSV,Townsville,,,gleam_basin,,W-OC,,AU,AUS,AU-QLD,-19.253,146.765,139000.0,1627
@@ -2862,7 +2862,7 @@ G-VCE,Venice,,,gleam_basin,,W-EU,,IT,ITA,,45.505,12.352,271000.0,3085
 G-VCL,Tamky,,,gleam_basin,,W-AS,,VN,VNM,,15.403,108.706,,1121
 G-VCP,Campinas,,,gleam_basin,,W-SA,,BR,BRA,,-23.007,-47.134,2791000.0,2014
 G-VCS,Con Dao,,,gleam_basin,,W-AS,,VN,VNM,,8.732,106.633,,1122
-G-VCT,Victoria,,,gleam_basin,,W-NA,,US,USA,,28.853,-96.919,,2102
+G-VCT,Victoria,,,gleam_basin,,W-NA,,US,USA,US-TX,28.853,-96.919,,2102
 G-VDB,Fagernes,,,gleam_basin,,W-EU,,NO,NOR,,61.016,9.288,,1163
 G-VDC,Vitoria Da Conquista,,,gleam_basin,,W-SA,,BR,BRA,,-14.863,-40.863,308000.0,1983
 G-VDE,Valverde,,,gleam_basin,,W-EU,,ES,ESP,,27.815,-17.887,10.0,2892
@@ -3115,7 +3115,7 @@ G-YPO,Peawanuck,,,gleam_basin,,W-NA,,CA,CAN,CA-ON,54.988,-85.443,,2757
 G-YPR,Prince Rupert,,,gleam_basin,,W-NA,,CA,CAN,CA-BC,54.286,-130.445,15000.0,2753
 G-YPX,Puvirnituq,,,gleam_basin,,W-NA,,CA,CAN,CA-QC,60.051,-77.287,,2745
 G-YPY,Fort Chipewyan,,,gleam_basin,,W-NA,,CA,CAN,CA-AB,58.767,-111.117,3000.0,2631
-G-YQB,Quebec,,,gleam_basin,,W-NA,,CA,CAN,,46.791,-71.393,624000.0,2610
+G-YQB,Quebec,,,gleam_basin,,W-NA,,CA,CAN,CA-QC,46.791,-71.393,624000.0,2610
 G-YQC,Quaqtaq,,,gleam_basin,,W-NA,,CA,CAN,CA-QC,61.046,-69.618,,2609
 G-YQD,The Pas,,,gleam_basin,,W-NA,,CA,CAN,CA-MB,53.971,-101.091,6000.0,2672
 G-YQF,Red Deer,,,gleam_basin,,W-NA,,CA,CAN,CA-AB,52.182,-113.894,75000.0,2656

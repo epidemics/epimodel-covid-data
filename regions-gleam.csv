@@ -511,7 +511,7 @@ G-CJA,Cajamarca,,,gleam_basin,,W-SA,,PE,PER,,-7.139,-78.489,143000.0,1214
 G-CJB,Coimbatore,,,gleam_basin,,W-AS,,IN,IND,,11.03,77.043,1696000.0,1063
 G-CJC,Calama,,,gleam_basin,,W-SA,,CL,CHL,,-22.498,-68.904,143000.0,294
 G-CJJ,Cheongju,,,gleam_basin,,W-AS,,KR,KOR,,36.717,127.499,775000.0,2800
-G-CJL,Chitral,,,gleam_basin,,W-AS,,PK,PAK,,35.887,71.801,,111
+G-CJL,Chitral,,,gleam_basin,,W-AS,,PK,PAK,,35.887,71.801,447362.0,111
 G-CJM,Chumphon,,,gleam_basin,,W-AS,,TH,THA,,10.711,99.362,86000.0,526
 G-CJS,Ciudad Juarez,,,gleam_basin,,W-NA,,MX,MEX,,31.636,-106.429,1512000.0,990
 G-CJU,Jeju,,,gleam_basin,,W-AS,,KR,KOR,,33.511,126.493,408000.0,2801
@@ -627,7 +627,7 @@ G-DAU,Daru,,,gleam_basin,,W-OC,,PG,PNG,,-9.087,143.208,15000.0,3003
 G-DAV,David,,,gleam_basin,,W-NA,,PA,PAN,,8.391,-82.435,110000.0,3009
 G-DAX,Dazhou,,,gleam_basin,,W-AS,,CN,CHN,CN-SC,31.13,107.43,131000.0,487
 G-DAY,Dayton,,,gleam_basin,,W-NA,,US,USA,US-OH,39.902,-84.219,718000.0,2534
-G-DBA,Dalbandin,,,gleam_basin,,W-AS,,PK,PAK,,28.878,64.4,,107
+G-DBA,Dalbandin,,,gleam_basin,,W-AS,,PK,PAK,,28.878,64.4,16319.0,107
 G-DBO,Dubbo,,,gleam_basin,,W-OC,,AU,AUS,AU-NSW,-32.217,148.575,32000.0,1578
 G-DBQ,Dubuque,,,gleam_basin,,W-NA,,US,USA,US-IA,42.402,-90.71,69000.0,2082
 G-DBV,Dubrovnik,,,gleam_basin,,W-EU,,HR,HRV,,42.561,18.268,37000.0,285
@@ -1036,7 +1036,7 @@ G-HBA,Hobart,,,gleam_basin,,W-OC,,AU,AUS,AU-TAS,-42.836,147.51,81000.0,1618
 G-HBE,Alexandria (EG),,,gleam_basin,,W-AF,,EG,EGY,,30.918,29.696,,56
 G-HBX,Hubli,,,gleam_basin,,W-AS,,IN,IND,,15.362,75.085,890000.0,1080
 G-HCR,Holy Cross,,,gleam_basin,,W-NA,,US,USA,US-AK,62.188,-159.775,,2283
-G-HDD,Hyderabad (PK),,,gleam_basin,,W-AS,,PK,PAK,,25.318,68.366,,123
+G-HDD,Hyderabad (PK),,,gleam_basin,,W-AS,,PK,PAK,,25.318,68.366,2201079.0,123
 G-HDF,Heringsdorf,,,gleam_basin,,W-EU,,DE,DEU,,53.879,14.152,,740
 G-HDG,Handan,,,gleam_basin,,W-AS,,CN,CHN,CN-HE,36.526,114.426,1631000.0,408
 G-HDM,Hamadan,,,gleam_basin,,W-AS,,IR,IRN,,34.869,48.553,528000.0,2948
@@ -1349,7 +1349,7 @@ G-KDI,Kendari,,,gleam_basin,,W-AS,,ID,IDN,,-4.082,122.418,165000.0,1280
 G-KDL,Kardla,,,gleam_basin,,W-EU,,EE,EST,,58.991,22.831,,2868
 G-KDM,Kaadedhdhoo Island,,,gleam_basin,,W-AS,,MV,MDV,,0.488,72.997,,1483
 G-KDO,Kadhdhoo Island,,,gleam_basin,,W-AS,,MV,MDV,,1.859,73.522,,1484
-G-KDU,Skardu,,,gleam_basin,,W-AS,,PK,PAK,,35.335,75.536,,128
+G-KDU,Skardu,,,gleam_basin,,W-AS,,PK,PAK,,35.335,75.536,214848.0,128
 G-KDV,Kadavu Island,,,gleam_basin,,W-OC,,FJ,FJI,,-19.058,178.157,,1189
 G-KDZ,Kandy,,,gleam_basin,,W-AS,,LK,LKA,,,,112000.0,756
 G-KEF,Reykjavik,,,gleam_basin,,W-EU,,IS,ISL,,63.985,-22.606,166000.0,1350
@@ -2133,7 +2133,7 @@ G-PIT,Pittsburgh,,,gleam_basin,,W-NA,,US,USA,US-PA,40.492,-80.233,1715000.0,2125
 G-PIU,Piura,,,gleam_basin,,W-SA,,PE,PER,,-5.206,-80.616,397000.0,1213
 G-PIZ,Point Lay,,,gleam_basin,,W-NA,,US,USA,US-AK,69.733,-163.005,,2362
 G-PJA,Pajala,,,gleam_basin,,W-EU,,SE,SWE,,67.246,23.069,,2565
-G-PJG,Panjgur,,,gleam_basin,,W-AS,,PK,PAK,,26.955,64.132,,113
+G-PJG,Panjgur,,,gleam_basin,,W-AS,,PK,PAK,,26.955,64.132,316385.0,113
 G-PJM,Puerto Jimenez,,,gleam_basin,,W-NA,,CR,CRI,,8.533,-83.3,,804
 G-PKB,Parkersburg,,,gleam_basin,,W-NA,,US,USA,US-WV,39.345,-81.439,64000.0,2440
 G-PKC,Petropavlovsk (RU),,,gleam_basin,,W-EU,,RU,RUS,,53.168,158.454,,1907
@@ -2541,7 +2541,7 @@ G-SUF,Lamezia Terme,,,gleam_basin,,W-EU,,IT,ITA,,38.905,16.242,71000.0,3072
 G-SUG,Surigao,,,gleam_basin,,W-AS,,PH,PHL,,9.756,125.481,88000.0,598
 G-SUJ,Satu Mare,,,gleam_basin,,W-EU,,RO,ROU,,47.703,22.886,112000.0,142
 G-SUK,Sakkyryr,,,gleam_basin,,W-EU,,RU,RUS,,67.792,130.394,,1816
-G-SUL,Sui,,,gleam_basin,,W-AS,,PK,PAK,,28.645,69.177,,112
+G-SUL,Sui,,,gleam_basin,,W-AS,,PK,PAK,,28.645,69.177,119983.0,112
 G-SUN,Sun Valley,,,gleam_basin,,W-NA,,US,USA,US-NV,43.504,-114.296,21000.0,2145
 G-SUR,Summer Beaver,,,gleam_basin,,W-NA,,CA,CAN,CA-ON,52.709,-88.542,,2612
 G-SUT,Sumbawanga,,,gleam_basin,,W-AF,,TZ,TZA,,,,89000.0,202

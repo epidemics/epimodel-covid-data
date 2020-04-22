@@ -1036,7 +1036,7 @@ G-HBA,Hobart,,,gleam_basin,,W-OC,,AU,AUS,AU-TAS,-42.836,147.51,81000.0,1618
 G-HBE,Alexandria (EG),,,gleam_basin,,W-AF,,EG,EGY,,30.918,29.696,,56
 G-HBX,Hubli,,,gleam_basin,,W-AS,,IN,IND,,15.362,75.085,890000.0,1080
 G-HCR,Holy Cross,,,gleam_basin,,W-NA,,US,USA,US-AK,62.188,-159.775,,2283
-G-HDD,Hyderabad (PK),,,gleam_basin,,W-AS,,PK,PAK,,25.318,68.366,2201079.0,123
+G-HDD,Hyderabad,,Hyderabad (PK),gleam_basin,,W-AS,,PK,PAK,,25.318,68.366,2201079.0,123
 G-HDF,Heringsdorf,,,gleam_basin,,W-EU,,DE,DEU,,53.879,14.152,,740
 G-HDG,Handan,,,gleam_basin,,W-AS,,CN,CHN,CN-HE,36.526,114.426,1631000.0,408
 G-HDM,Hamadan,,,gleam_basin,,W-AS,,IR,IRN,,34.869,48.553,528000.0,2948
@@ -1129,7 +1129,7 @@ G-HVD,Khovd,,,gleam_basin,,W-AS,,MN,MNG,,47.954,91.628,30000.0,850
 G-HVG,Honningsvag,,,gleam_basin,,W-EU,,NO,NOR,,71.01,25.984,,1157
 G-HVN,New Haven,,,gleam_basin,,W-NA,,US,USA,US-CT,41.264,-72.887,568000.0,2323
 G-HVR,Havre,,,gleam_basin,,W-NA,,US,USA,US-MT,48.543,-109.762,10000.0,2324
-G-HYD,Hyderabad (IN),,,gleam_basin,,W-AS,,IN,IND,,17.231,78.43,,1094
+G-HYD,Hyderabad,,Hyderabad (IN),gleam_basin,,W-AS,,IN,IND,,17.231,78.43,,1094
 G-HYN,Taizhou,,,gleam_basin,,W-AS,,CN,CHN,CN-JS,28.562,121.429,612000.0,434
 G-HYS,Hays,,,gleam_basin,,W-NA,,US,USA,US-KS,38.842,-99.273,22000.0,2350
 G-HZH,Liping,,,gleam_basin,,W-AS,,CN,CHN,CN-GZ,26.322,109.15,,446

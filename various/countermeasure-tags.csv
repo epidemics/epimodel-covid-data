@@ -1,0 +1,102 @@
+category,feature,tag,description,quantity,aggregation
+Isolation,Symptomatic isolation - targeted,contact isolation - symptoms,Close contacts of confirmed cases directed to isolate if they have symptoms,1.0,max
+Isolation,Symptomatic isolation - targeted,cohort isolation - symptoms,"groups of 10-1000 people (e.g. school, workplace) are directed to isolate if they have symptoms on the basis of contact with a known case",1.0,max
+Isolation,Symptomatic isolation - blanket,cluster isolation - symptoms,Entire districts or large groups (e.g. every member of a church) directed to isolate if they have symptoms for at least 14 days,1.0,max
+Isolation,Symptomatic isolation - blanket,blanket isolation - symptoms,Everybody in a city or country is required to isolate if they have symptoms,2.0,max
+Isolation,Asymptomatic isolation - targeted,contact isolation - no symptoms,close contacts of confirmed cases are required to isolate whether or not they have symptoms,1.0,max
+Isolation,Asymptomatic isolation - targeted,cohort isolation - no symptoms,Groups of 10-1000 people are required to isolate on the basis of contact with known cases,2.0,max
+Isolation,Asymptomatic isolation - blanket,cluster isolation - no symptoms,Entire districts or large groups (e.g. every member of a major church) directed to isolate for at least 14 days (these restrictions might be weaker than actual isolation directions),1.0,max
+Isolation,Asymptomatic isolation - blanket,blanket isolation - no symptoms,Entire cities or countries placing restrictions on people's movement with strict conditions that must be met for anyone to leave home,3.0,max
+Isolation,Asymptomatic isolation - blanket,blanket curfew - no symptoms,"Entire cities or countries placing restrictions on people's movement and freedom to leave home, but where people are still allowed some freedom to go shopping, exercise outside when they wish",2.0,max
+Isolation,Asymptomatic isolation - blanket,natural village quarantine,Only one person from an entire community is allowed to leave their house,4.0,max
+Isolation,Asymptomatic isolation - blanket,total vehicle ban,vehicles on roads are disallowed enforced by police checkpoints,3.0,max
+Isolation,Domestic travel restriction,domestic traveller quarantine,Domestic travellers between cities/states required to isolate for at least 14 days,1.0,max
+Isolation,Domestic travel restriction,domestic travel ban,Domestic travellers not permitted at all,2.0,max
+Isolation,Domestic travel restriction,domestic travel limitation,Restrictions on domestic travel that are different to bans or quarantines,1.0,max
+Isolation,International travel restriction,international travel ban - risk countries,travellers from specific source countries with high levels of infection are not permitted to enter the implementing country,5.0,max
+Isolation,International travel restriction,international traveller quarantine - risk countries,travellers from specific countries with high levels of infection are required to isolate themselves on entry to the implementing country,3.0,max
+Isolation,International travel restriction,international travel ban - all countries,international travellers are not permitted to enter the implementing country at all,6.0,max
+Isolation,International travel restriction,international traveller quarantine - all countries,travellers from all countries are required to isolate themselves on entry to the implementing country,4.0,max
+Isolation,International travel restriction,international traveller screening - risk countries,travellers from specific source countries with high levels of infection are subject to temperature and symptom screening at the border,1.0,max
+Isolation,International travel restriction,international traveller screening - all countries,all international travellers are subject to temperature and symptom screenings at the border,2.0,max
+Isolation Enhancement,Healthcare specialisation,clinic specialisation,Clinics specialised for dealing with COVID-19 patients (enough capacity for most COVID-19 patients to visit specialised clinic),1,sum unique
+Isolation Enhancement,Healthcare specialisation,case transport,Most COVID-19 patients are able to move to hospitals/clinics/quarantine zones by means that keep them away from uninfected people,1,sum unique
+Isolation Enhancement,Healthcare specialisation,quarantine zone,COVID-19 patients may move to designated areas to self-isolate,1,sum unique
+Isolation Enhancement,Healthcare specialisation,hospital specialisation,construction or repurposing of hospitals to treat only COVID or non-COVID patients,1,sum unique
+Isolation Enhancement,Healthcare specialisation,healthcare entry screening,people's symptoms are checked at the entrance to healthcare facilities and probable COVID cases are separated from others,1,sum unique
+Isolation Enhancement,Healthcare specialisation,remote medical treatment,provision of medical treatment to patients without the need for in-person visits,1,sum unique
+Isolation Enhancement,Healthcare specialisation,visiting in hospital banned,visitors are excluded from hospitals,1,sum unique
+Isolation Enhancement,Hotline,phone line,a dedicated phone line for people to call with questions about COVID,1,sum unique
+Isolation Enhancement,Assisting people to stay home,unemployment benefits extension,unemployment benefits are made available to more people than usual,1,sum unique
+Isolation Enhancement,Assisting people to stay home,eviction moratorium,landlords are prohibited from evicting tenants who fail to make rental payments,1,sum unique
+Isolation Enhancement,Assisting people to stay home,isolation allowance,allowances paid to people who are directed to isolate,1,sum unique
+Isolation Enhancement,Assisting people to stay home,compulsory isolation,police enforce isolation orders,1,sum unique
+Public Hygiene,Mask wearing,public mask wearing data,Survey reporting the percentage of people wearing masks in public,percentage of population,max
+Public Hygiene,Public cleaning,public transport cleaning,regular cleaning of vehicles used for public transport,1,sum unique
+Public Hygiene,Public cleaning,public facility cleaning,,1,sum unique
+Public Hygiene,Miscellaneous hygiene measures,funeral hygiene,Prevent people from coming into contact with deceased people who had COVID-19,1,sum unique
+Public Hygiene,Miscellaneous hygiene measures,cash banned,Use of cash currency banned,1,sum unique
+Public Hygiene,Miscellaneous hygiene measures,cash cleaned,Stockpiles of cash collected subject to decontamination procedures,1,sum unique
+Public Hygiene,Miscellaneous hygiene measures,cashless transactions,Special efforts made to ensure that as much as possible can be paid for without cash,1,sum unique
+Public Hygiene,Miscellaneous hygiene measures,public venue screening,visitors to public venues are subject to temperature and symptom checks before they are permitted to enter,1,sum unique
+Public Hygiene,Public hygiene supply,public mask supply,supplying  masks to the general public,1,sum unique
+Public Hygiene,Public hygiene supply,public hand sanitizer supply,supplying masks to the general public,1,sum unique
+Public Hygiene,Public hygiene supply,public mask and hygiene supply,supplying masks or other hygiene paraphernalia to the general public,1,sum unique
+Public Hygiene,Hygiene and distancing advice,coronavirus educational activities,"Adverts, announcements and other activities aimed at educating the public about COVID",,
+Public Hygiene,Hygiene and distancing advice,handwashing encouragement,any measures aimed at getting the general public to wash their hands more often and more carefully,,
+Public Hygiene,Hygiene and distancing advice,public mask encouragement,,,
+Public Hygiene,Hygiene and distancing advice,stay home advice,advice for people to stay home if possible,,
+Public Hygiene,Hygiene and distancing advice,space minimum,advice for people to maintain a minimum amount of space from others when outside,,
+Public Hygiene,Hygiene and distancing advice,social distancing advise,,,
+Public Hygiene,Hygiene and distancing advice,outdoor person density,advice on maximum safe density of people in outdoor areas,,
+Public Hygiene,Hygiene and distancing advice,indoor person density,advice on maximum safe density of people in indoor areas,,
+Public Hygiene,Hygiene and distancing advice,handshakes banned,banning of handshakes as a greeting,,
+Public Hygiene,Hygiene and distancing advice,geographic infection alert,alerting people to confirmed COVID cases in their area and encouraging them to practice hygiene and distancing measures,,
+Activity Cancellation,Gatherings banned,indoor gatherings banned,gatherings of a certain size banned in closed spaces,number of people,min
+Activity Cancellation,Gatherings banned,outdoor gatherings banned,gatherings of a certain size banned,number of people,min
+Activity Cancellation,Nonessential business suspension,general nonessential business suspension,suspension of many types of nonessential business,2.0,max
+Activity Cancellation,Nonessential business suspension,remote work,encourage people and workplaces to work remotely,1.0,max
+Activity Cancellation,Nonessential business suspension,closure of gathering places,closure of venues where people frequently gather,1.0,max
+Activity Cancellation,Nonessential business suspension,limited nonessential business suspension,suspension of some types of nonsessential business and services,1.0,max
+Activity Cancellation,School closure,school closure,,2.0,max
+Activity Cancellation,School closure,university closure,widespread closure of universities,2.0,max
+Activity Cancellation,School closure,nursery school closure,widespread closure of nursery schools and daycares,2.0,max
+Activity Cancellation,School closure,remote schooling,a widespread move from in-person school to remote school,2.0,max
+Activity Cancellation,School closure,school closure - limited,"closure of a small number of schools, or a policy to close schools reactively in response to confirmed cases",1.0,max
+Activity Cancellation,School closure,remote schooling - limited,a small number of schools moving to implement remote schooling,1.0,max
+Activity Cancellation,Activity cancellation,activity cancellation - other,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,sports cancellation,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,religious activity cancellation,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,religious activity limitations,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,weddings canceled,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,very large event cancellation or postponement,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,cultural activity limitation,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,remote cultural content,Important cultural events and practices happening remotely (e.g. via video chat),1,sum unique
+Activity Cancellation,Activity cancellation,restaurant limitations,Events limited or cancelled,1,sum unique
+Activity Cancellation,Activity cancellation,public transport stopped,Ban or limitation on public transport,1,sum unique
+Activity Cancellation,Resumption,public transport resumed,public transport services resumed,1,sum unique
+Activity Cancellation,Resumption,activity resumed,some type of activity resumed,1,sum unique
+Activity Cancellation,Resumption,business resumed,businesses are allowed to re-open,1,sum unique
+Testing and contact tracing,Testing criteria,test travellers,symptomatic travellers are tested,0.1,check notes
+Testing and contact tracing,Testing criteria,test symptomatic,all symptomatic people tested,0.5,check notes
+Testing and contact tracing,Testing criteria,test contacts,symptomatic contacts of confirmed cases tested,0.1,check notes
+Testing and contact tracing,Testing criteria,test medical staff,symptomatic medical staff are tested,0.05,check notes
+Testing and contact tracing,Testing criteria,test vulnerable,symptomatic elderly or otherwise vulnerable are tested,0.1,check notes
+Testing and contact tracing,Testing criteria,test all,"Everyone is tested, symptoms or not",1.0,check notes
+Testing and contact tracing,Testing criteria,cluster testing,symptomatic clusters associated with confirmed cases (1000+ people) are tested,0.2,check notes
+Testing and contact tracing,Testing criteria,test cohorts,"symptomatic ""loose contacts"" of confirmed cases are tested",0.1,check notes
+Testing and contact tracing,Testing criteria,test inpatients,Test all inpatients at hospitals,0.05,check notes
+Testing and contact tracing,Testing,testing numbers total,Total number of people tested,number of people,max
+Testing and contact tracing,Contact tracing,contacts traced total,Total number of contacts traced,number of people,max
+Testing and contact tracing,Testing enhancement,encouraging symptomatic people to seek tests,measures to increase the use of testing services by symptomatic people,1,sum unique
+Testing and contact tracing,Testing enhancement,economic incentives to test,payments made to people for taking COVID tests,1,sum unique
+Testing and contact tracing,Testing enhancement,fever medicine ban,pharmacies disallowed from selling fever medicine and directing customers to testing facilities,1,sum unique
+Testing and contact tracing,Tracing technology,bracelet based location tracking,Technology to improve the efficacy of contact tracing,Compliance (percentage of people using the technology as they are supposed to),sum unique
+Testing and contact tracing,Tracing technology,phone based location tracing,Technology to improve the efficacy of contact tracing,Compliance (percentage of people using the technology as they are supposed to),sum unique
+Testing and contact tracing,Tracing technology,public transport occupancy tracing,Technology to improve the efficacy of contact tracing,Compliance (percentage of people using the technology as they are supposed to),sum unique
+Testing and contact tracing,Diagnostic criteria loosened,diagnostic criteria loosened,"Record when changes are made to diagnostic criteria (loosened = easier to be diagnosed, tightened = harder to be diagnosed)
+
+This doesn't actually change transmission, but it might mess with data",1,max
+Testing and contact tracing,Diagnostic criteria tightened,diagnostic criteria tightened,"Record when changes are made to diagnostic criteria (loosened = easier to be diagnosed, tightened = harder to be diagnosed)
+
+This doesn't actually change transmission, but it might mess with data",1,max

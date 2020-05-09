@@ -8,6 +8,9 @@ All data files (mostly CSV and HDF5) are indexed by region Code (ISOalpha2 code 
 
 **NOTE 2020-04-6:** There has been renaming of the files to be more understandable, apologies for any inconvenience.
 
+## Issue tracking
+Please use the [covid](https://github.com/epidemics/covid/issues/new/choose) repository to submit issues.
+
 ## Common data
 
 * `regions.csv` - Common region set used by epimodel

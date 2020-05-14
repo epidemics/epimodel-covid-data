@@ -9,14 +9,16 @@
 # are then used to weight aggregated info such as Gleam traces.
 
 # Pakistani Provinces
-PK-AJK:
-  Name: 'Azad Jammu & Kashmir'
-  AggregateFrom:
-    G-SDT: 0.02
-    G-ISB: 0.08
-    G-IXJ: 1
+# PK-AJK:
+#   Name: 'Azad Jammu & Kashmir'
+#   Population: 4100000
+#   AggregateFrom:
+#     G-SDT: 0.02
+#     G-ISB: 0.08
+#     G-IXJ: 1
 PK-BA:
   Name: 'Balochistan'
+  Population: 12340000
   AggregateFrom:
     G-DEA: 0.05
     G-PZH: 0.9
@@ -32,18 +34,21 @@ PK-BA:
     G-KHI: 0.02
 PK-GB:
   Name: 'Gilgit-Baltistan'
+  Population: 1249000
   AggregateFrom:
-    G-CJL: 0.25
+    #    G-CJL: 0.25
     G-GIL: 1
     G-KDU: 1
 PK-ICT:
   Name: 'Islamabad Capital Territory'
+  Population: 2006572
   AggregateFrom:
     G-ISB: 0.21
 PK-KP:
   Name: 'Khyber Pakhtunkhwa'
+  Population: 35530000
   AggregateFrom:
-    G-CJL: 0.75
+    #   G-CJL: 0.75
     G-SDT: 0.98
     G-PEW: 1
     G-ISB: 0.15
@@ -51,6 +56,7 @@ PK-KP:
     G-PZH: 0.1
 PK-PB:
   Name: 'Punjab'
+  Population: 110012442
   AggregateFrom:
     G-ISB: 0.56
     G-SKT: 1
@@ -63,6 +69,7 @@ PK-PB:
     G-RYK: 1
 PK-SD:
   Name: 'Sindh'
+  Population: 47890000
   AggregateFrom:
     G-SUL: 0.2
     G-SKZ: 0.94
